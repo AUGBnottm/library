@@ -1,0 +1,253 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AUGB • Digital Library</title>
+  <meta name="description" content="AUGB Digital Library: public domain works and materials available for controlled private access." />
+
+  <link rel="alternate" hreflang="en" href="./" />
+  <link rel="alternate" hreflang="uk" href="uk.html" />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <header class="header">
+    <div class="wrap header__inner">
+      <div class="brand">
+        <!-- LOGO SLOT -->
+        <a class="logo-box" href="./" aria-label="AUGB home">
+          <!-- Put your logo in /assets/logo.png (or change the filename here) -->
+          <img src="assets/logo.png" alt="AUGB logo" />
+        </a>
+
+        <div class="brand__text">
+          <div class="brand__title">AUGB Library</div>
+          <div class="brand__subtitle">Digital library • Public domain</div>
+        </div>
+      </div>
+
+      <nav class="nav">
+        <a class="nav__link" href="#catalog">Catalogue</a>
+        <a class="nav__link" href="#about">About</a>
+
+        <span class="nav__divider">|</span>
+        <a class="nav__link nav__link--active" href="./" hreflang="en">EN</a>
+        <a class="nav__link" href="uk.html" hreflang="uk">UA</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <div class="hero__box">
+        <h1 class="hero__title">A digital library with a legal and ethical approach</h1>
+        <p class="hero__lead">
+          This library presents <strong>public domain works</strong> and selected materials available under
+          <em>controlled private access</em> for educational and research purposes.
+        </p>
+
+        <div class="controls">
+          <label class="control">
+            <span class="control__label">Search the catalogue</span>
+            <input id="searchInput" class="control__input" type="search" placeholder="Author, title, year, tag…" />
+          </label>
+
+          <label class="control">
+            <span class="control__label">Jump to section</span>
+            <select id="jumpSelect" class="control__select">
+              <option value="">— Choose a section —</option>
+            </select>
+          </label>
+        </div>
+
+        <p class="hint">
+          Tip: paste a flipbook <code>&lt;iframe&gt;</code> into a book card below.
+        </p>
+      </div>
+    </section>
+
+    <section id="catalog" class="section">
+      <div class="section__head">
+        <h2 class="section__title">Catalogue (15 sections)</h2>
+        <div class="section__meta">
+          <span id="resultCount" class="pill">Books: —</span>
+          <button id="expandAllBtn" class="btn btn--ghost" type="button">Expand all</button>
+          <button id="collapseAllBtn" class="btn btn--ghost" type="button">Collapse all</button>
+        </div>
+      </div>
+
+      <div id="sections" class="sections">
+        <details class="cat" data-category="Ukrainian Classics" open>
+          <summary class="cat__summary">
+            <span class="cat__title">1) Ukrainian Classics</span>
+            <span class="cat__count" data-count>0</span>
+          </summary>
+
+          <div class="cat__body grid">
+            <!-- Example card -->
+            <article class="card book" data-title="Kobzar" data-author="Taras Shevchenko" data-year="1840" data-tags="poetry,classic,ukr">
+              <div class="card__top">
+                <div>
+                  <h3 class="card__title">Kobzar</h3>
+                  <p class="card__meta">Taras Shevchenko • 1840 • Public domain</p>
+                </div>
+                <span class="badge">PDF→Flipbook</span>
+              </div>
+
+              <p class="card__desc">Short description. Add tags for easier search.</p>
+
+              <div class="embed">
+                <!-- Paste your iframe here -->
+                <div class="embed__placeholder">Paste embed code (iframe) here</div>
+              </div>
+
+              <div class="card__tags">
+                <span class="tag">poetry</span>
+                <span class="tag">classic</span>
+                <span class="tag">ukr</span>
+              </div>
+            </article>
+          </div>
+        </details>
+
+        <details class="cat" data-category="World Classics">
+          <summary class="cat__summary">
+            <span class="cat__title">2) World Classics</span>
+            <span class="cat__count" data-count>0</span>
+          </summary>
+          <div class="cat__body grid"></div>
+        </details>
+
+        <details class="cat" data-category="History">
+          <summary class="cat__summary">
+            <span class="cat__title">3) History</span>
+            <span class="cat__count" data-count>0</span>
+          </summary>
+          <div class="cat__body grid"></div>
+        </details>
+
+        <details class="cat" data-category="Philosophy">
+          <summary class="cat__summary">
+            <span class="cat__title">4) Philosophy</span>
+            <span class="cat__count" data-count>0</span>
+          </summary>
+          <div class="cat__body grid"></div>
+        </details>
+
+        <details class="cat" data-category="Religion & Spirituality">
+          <summary class="cat__summary">
+            <span class="cat__title">5) Religion & Spirituality</span>
+            <span class="cat__count" data-count>0</span>
+          </summary>
+          <div class="cat__body grid"></div>
+        </details>
+
+        <details class="cat" data-category="Poetry">
+          <summary class="cat__summary">
+            <span class="cat__title">6) Poetry</span>
+            <span class="cat__count" data-count>0</span>
+          </summary>
+          <div class="cat__body grid"></div>
+        </details>
+
+        <details class="cat" data-category="Drama & Theatre">
+          <summary class="cat__summary">
+            <span class="cat__title">7) Drama & Theatre</span>
+            <span class="cat__count" data-count>0</span>
+          </summary>
+          <div class="cat__body grid"></div>
+        </details>
+
+        <details class="cat" data-category="Cinema & Media">
+          <summary class="cat__summary">
+            <span class="cat__title">8) Cinema & Media</span>
+            <span class="cat__count" data-count>0</span>
+          </summary>
+          <div class="cat__body grid"></div>
+        </details>
+
+        <details class="cat" data-category="Art & Design">
+          <summary class="cat__summary">
+            <span class="cat__title">9) Art & Design</span>
+            <span class="cat__count" data-count>0</span>
+          </summary>
+          <div class="cat__body grid"></div>
+        </details>
+
+        <details class="cat" data-category="Culture & Ethnography">
+          <summary class="cat__summary">
+            <span class="cat__title">10) Culture & Ethnography</span>
+            <span class="cat__count" data-count>0</span>
+          </summary>
+          <div class="cat__body grid"></div>
+        </details>
+
+        <details class="cat" data-category="Languages & Dictionaries">
+          <summary class="cat__summary">
+            <span class="cat__title">11) Languages & Dictionaries</span>
+            <span class="cat__count" data-count>0</span>
+          </summary>
+          <div class="cat__body grid"></div>
+        </details>
+
+        <details class="cat" data-category="Education & Methods">
+          <summary class="cat__summary">
+            <span class="cat__title">12) Education & Methods</span>
+            <span class="cat__count" data-count>0</span>
+          </summary>
+          <div class="cat__body grid"></div>
+        </details>
+
+        <details class="cat" data-category="Science & Popular Knowledge">
+          <summary class="cat__summary">
+            <span class="cat__title">13) Science & Popular Knowledge</span>
+            <span class="cat__count" data-count>0</span>
+          </summary>
+          <div class="cat__body grid"></div>
+        </details>
+
+        <details class="cat" data-category="Children’s Literature">
+          <summary class="cat__summary">
+            <span class="cat__title">14) Children’s Literature</span>
+            <span class="cat__count" data-count>0</span>
+          </summary>
+          <div class="cat__body grid"></div>
+        </details>
+
+        <details class="cat" data-category="Archive & Special Projects">
+          <summary class="cat__summary">
+            <span class="cat__title">15) Archive & Special Projects</span>
+            <span class="cat__count" data-count>0</span>
+          </summary>
+          <div class="cat__body grid"></div>
+        </details>
+      </div>
+    </section>
+
+    <section id="about" class="section">
+      <div class="about">
+        <h2 class="section__title">About the project</h2>
+        <p class="about__text">
+          This is a non-commercial cultural initiative. Public domain works are published openly.
+          Copyrighted works are not publicly distributed; access may be provided individually upon request for research and educational purposes.
+        </p>
+        <p class="about__text">
+          If you believe any material is displayed in error, please contact the curator and it will be removed promptly.
+        </p>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="wrap footer__inner">
+        <span>© <span id="yearNow"></span> AUGB Library</span>
+        <span class="footer__sep">•</span>
+        <span class="footer__small">Digital reading room</span>
+      </div>
+    </footer>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
