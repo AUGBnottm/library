@@ -74,16 +74,31 @@ body{
   padding:30px 0;
 }
 
-.cat{
+.search-box{
+  margin-bottom:20px;
+}
+
+.search-box input{
+  width:100%;
+  padding:12px;
+  border-radius:12px;
+  border:1px solid var(--border);
+  background:rgba(0,0,0,0.3);
+  color:white;
+}
+
+details.cat{
   background:var(--surface);
   border:1px solid var(--border);
   border-radius:var(--radius);
   margin-bottom:20px;
-  padding:20px;
+  padding:15px;
 }
 
-.cat h2{
-  margin-top:0;
+details summary{
+  cursor:pointer;
+  font-weight:bold;
+  margin-bottom:10px;
 }
 
 .grid{
