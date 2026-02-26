@@ -1,168 +1,40 @@
 <!doctype html>
 <html lang="uk">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>AUGB • Електронна бібліотека</title>
-  <meta name="description" content="Електронна бібліотека AUGB: твори у публічному надбанні та матеріали для контрольованого приватного доступу." />
-
-  <link rel="alternate" hreflang="en" href="./" />
-  <link rel="alternate" hreflang="uk" href="uk.html" />
-
-  <link rel="stylesheet" href="styles.css" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AUGB Library</title>
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
-  <header class="header">
-    <div class="wrap header__inner">
-      <div class="brand">
-        <!-- LOGO SLOT -->
-        <a class="logo-box" href="./" aria-label="AUGB home">
-          <img src="assets/logo.png" alt="AUGB logo" />
-        </a>
 
-        <div class="brand__text">
-          <div class="brand__title">AUGB Library</div>
-          <div class="brand__subtitle">Електронна бібліотека • Public domain</div>
-        </div>
+<header class="header">
+  <div class="wrap header__inner">
+    <div class="brand">
+      <div class="logo-box">
+        <img src="assets/logo.png" alt="logo">
       </div>
-
-      <nav class="nav">
-        <a class="nav__link" href="#catalog">Каталог</a>
-        <a class="nav__link" href="#about">Про проєкт</a>
-
-        <span class="nav__divider">|</span>
-        <a class="nav__link" href="./" hreflang="en">EN</a>
-        <a class="nav__link nav__link--active" href="uk.html" hreflang="uk">UA</a>
-      </nav>
+      <div>
+        <strong>AUGB Library</strong><br>
+        <span style="color:gray">Електронна читальня</span>
+      </div>
     </div>
-  </header>
 
-  <main class="wrap">
-    <section class="hero">
-      <div class="hero__box">
-        <h1 class="hero__title">Електронна бібліотека з легальним та етичним підходом</h1>
-        <p class="hero__lead">
-          Тут публікуються <strong>твори у публічному надбанні</strong> та добірні матеріали у форматі
-          <em>контрольованого приватного доступу</em> для освітніх і дослідницьких цілей.
-        </p>
+    <div class="nav">
+      <a href="./">EN</a>
+      <a class="active" href="uk.html">UA</a>
+    </div>
+  </div>
+</header>
 
-        <div class="controls">
-          <label class="control">
-            <span class="control__label">Пошук по каталогу</span>
-            <input id="searchInput" class="control__input" type="search" placeholder="Автор, назва, рік, тег…" />
-          </label>
+<div class="wrap section">
+  <!-- сюда копируешь те же полки -->
+</div>
 
-          <label class="control">
-            <span class="control__label">Швидкий перехід до розділу</span>
-            <select id="jumpSelect" class="control__select">
-              <option value="">— Обрати розділ —</option>
-            </select>
-          </label>
-        </div>
+<footer>
+© AUGB Nottingham Library
+</footer>
 
-        <p class="hint">
-          Порада: щоб додати книгу, встав <code>&lt;iframe&gt;</code> embed-код у потрібну картку нижче.
-        </p>
-      </div>
-    </section>
-
-    <section id="catalog" class="section">
-      <div class="section__head">
-        <h2 class="section__title">Каталог (15 розділів)</h2>
-        <div class="section__meta">
-          <span id="resultCount" class="pill">Книг: —</span>
-          <button id="expandAllBtn" class="btn btn--ghost" type="button">Розгорнути все</button>
-          <button id="collapseAllBtn" class="btn btn--ghost" type="button">Згорнути все</button>
-        </div>
-      </div>
-
-      <div id="sections" class="sections">
-        <details class="cat" data-category="Українська класика" open>
-          <summary class="cat__summary">
-            <span class="cat__title">1) Українська класика</span>
-            <span class="cat__count" data-count>0</span>
-          </summary>
-
-          <div class="cat__body grid">
-            <article class="card book" data-title="Кобзар" data-author="Тарас Шевченко" data-year="1840" data-tags="поезія,класика,ukr">
-              <div class="card__top">
-                <div>
-                  <h3 class="card__title">Кобзар</h3>
-                  <p class="card__meta">Тарас Шевченко • 1840 • Public domain</p>
-                </div>
-                <span class="badge">PDF→Flipbook</span>
-              </div>
-
-              <p class="card__desc">Короткий опис. Додай теги для пошуку.</p>
-
-              <div class="embed">
-                <div class="embed__placeholder">
-                  <iframe
-allowfullscreen="allowfullscreen"
-allow="clipboard-write"
-scrolling="no"
-class="fp-iframe"
-src="https://heyzine.com/flip-book/f3692525e4.html"
-style="border: 1px solid lightgray; width: 100%; height: 400px;">
-</iframe></div>
-              </div>
-
-              <div class="card__tags">
-                <span class="tag">поезія</span>
-                <span class="tag">класика</span>
-                <span class="tag">ukr</span>
-              </div>
-            </article>
-          </div>
-        </details>
-
-        <details class="cat" data-category="Світова класика">
-          <summary class="cat__summary">
-            <span class="cat__title">2) Світова класика</span>
-            <span class="cat__count" data-count>0</span>
-          </summary>
-          <div class="cat__body grid"></div>
-        </details>
-
-        <details class="cat" data-category="Історія"><summary class="cat__summary"><span class="cat__title">3) Історія</span><span class="cat__count" data-count>0</span></summary><div class="cat__body grid"></div></details>
-        <details class="cat" data-category="Філософія"><summary class="cat__summary"><span class="cat__title">4) Філософія</span><span class="cat__count" data-count>0</span></summary><div class="cat__body grid"></div></details>
-        <details class="cat" data-category="Релігія та духовність"><summary class="cat__summary"><span class="cat__title">5) Релігія та духовність</span><span class="cat__count" data-count>0</span></summary><div class="cat__body grid"></div></details>
-        <details class="cat" data-category="Поезія"><summary class="cat__summary"><span class="cat__title">6) Поезія</span><span class="cat__count" data-count>0</span></summary><div class="cat__body grid"></div></details>
-        <details class="cat" data-category="Драма та театр"><summary class="cat__summary"><span class="cat__title">7) Драма та театр</span><span class="cat__count" data-count>0</span></summary><div class="cat__body grid"></div></details>
-        <details class="cat" data-category="Кіно та медіа"><summary class="cat__summary"><span class="cat__title">8) Кіно та медіа</span><span class="cat__count" data-count>0</span></summary><div class="cat__body grid"></div></details>
-        <details class="cat" data-category="Мистецтво та дизайн"><summary class="cat__summary"><span class="cat__title">9) Мистецтво та дизайн</span><span class="cat__count" data-count>0</span></summary><div class="cat__body grid"></div></details>
-        <details class="cat" data-category="Культура та етнографія"><summary class="cat__summary"><span class="cat__title">10) Культура та етнографія</span><span class="cat__count" data-count>0</span></summary><div class="cat__body grid"></div></details>
-        <details class="cat" data-category="Мови та словники"><summary class="cat__summary"><span class="cat__title">11) Мови та словники</span><span class="cat__count" data-count>0</span></summary><div class="cat__body grid"></div></details>
-        <details class="cat" data-category="Освіта та методики"><summary class="cat__summary"><span class="cat__title">12) Освіта та методики</span><span class="cat__count" data-count>0</span></summary><div class="cat__body grid"></div></details>
-        <details class="cat" data-category="Наука та популяризація"><summary class="cat__summary"><span class="cat__title">13) Наука та популяризація</span><span class="cat__count" data-count>0</span></summary><div class="cat__body grid"></div></details>
-        <details class="cat" data-category="Дитяча література"><summary class="cat__summary"><span class="cat__title">14) Дитяча література</span><span class="cat__count" data-count>0</span></summary><div class="cat__body grid"></div></details>
-        <details class="cat" data-category="Архів та спецпроєкти"><summary class="cat__summary"><span class="cat__title">15) Архів та спецпроєкти</span><span class="cat__count" data-count>0</span></summary><div class="cat__body grid"></div></details>
-      </div>
-    </section>
-
-    <section id="about" class="section">
-      <div class="about">
-        <h2 class="section__title">Про проєкт</h2>
-        <p class="about__text">
-          Це некомерційна культурна ініціатива. Відкрито публікуються лише твори у публічному надбанні.
-          Матеріали, захищені авторським правом, не розповсюджуються публічно; доступ може надаватися індивідуально на запит для освітніх і дослідницьких цілей.
-        </p>
-        <p class="about__text">
-          Якщо ви вважаєте, що якийсь матеріал розміщено помилково — напишіть, і він буде прибраний.
-        </p>
-      </div>
-    </section>
-
-    <footer class="footer">
-      <div class="wrap footer__inner">
-        <span>© <span id="yearNow"></span> AUGB Nottingham Library</span>
-        <span class="footer__sep">•</span>
-        <span class="footer__small">Цифрова читальня</span>
-      </div>
-    </footer>
-  </main>
-
-  <script src="app.js"></script>
 </body>
 </html>
