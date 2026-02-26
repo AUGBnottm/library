@@ -130,13 +130,60 @@ library[0].books[0] = {
   title: { en: "Chronicles of the Ukrainian Insurgent Army vol.1", uk: "Літопис Української Повстанської Армії том 1" },
   author: "OUN Chronicle Committee / Комітет Літопису ОУН",
   year: "1975",
-  access: { en: "Public domain", uk: "Публічне надбання" },
   tags: { en: ["history", "OUN", "UIA"], uk: ["історія", "ОУН","УПА"] },
   desc: {
     en: "Chronicles of the Ukrainian Insurgent Army.",
     uk: "Літопис Української Повстанської Армії."
   },
   iframeSrc: "https://heyzine.com/flip-book/f3692525e4.html"
+};
+  // 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books[1] = {
+  title: { en: "Chronicles of the Ukrainian Insurgent Army vol.2", uk: "Літопис Української Повстанської Армії том 2" },
+  author: "OUN Chronicle Committee / Комітет Літопису ОУН",
+  year: "1985",
+  tags: { en: ["history", "OUN", "UIA"], uk: ["історія", "ОУН","УПА"] },
+  desc: {
+    en: "Chronicles of the Ukrainian Insurgent Army.",
+    uk: "Літопис Української Повстанської Армії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/3057e1b0bb.html"
+};
+    // 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books[2] = {
+  title: { en: "Chronicles of the Ukrainian Insurgent Army vol.3", uk: "Літопис Української Повстанської Армії том 3" },
+  author: "OUN Chronicle Committee / Комітет Літопису ОУН",
+  year: "1987",
+  tags: { en: ["history", "OUN", "UIA"], uk: ["історія", "ОУН","УПА"] },
+  desc: {
+    en: "Chronicles of the Ukrainian Insurgent Army.",
+    uk: "Літопис Української Повстанської Армії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/cd2c5ce204.html"
+};
+   // 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books[3] = {
+  title: { en: "Chronicles of the Ukrainian Insurgent Army vol.4", uk: "Літопис Української Повстанської Армії том 4" },
+  author: "OUN Chronicle Committee / Комітет Літопису ОУН",
+  year: "1989",
+  tags: { en: ["history", "OUN", "UIA"], uk: ["історія", "ОУН","УПА"] },
+  desc: {
+    en: "Chronicles of the Ukrainian Insurgent Army.",
+    uk: "Літопис Української Повстанської Армії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/11e853a480.html"
+};
+   // 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books[4] = {
+  title: { en: "Chronicles of the Ukrainian Insurgent Army vol.5", uk: "Літопис Української Повстанської Армії том 5" },
+  author: "OUN Chronicle Committee / Комітет Літопису ОУН",
+  year: "1984",
+  tags: { en: ["history", "OUN", "UIA"], uk: ["історія", "ОУН","УПА"] },
+  desc: {
+    en: "Chronicles of the Ukrainian Insurgent Army.",
+    uk: "Літопис Української Повстанської Армії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/e1eb6f5adb.html"
 };
   // OPTIONAL: demo example (remove if you want)
   // library[0].books[0] = {
