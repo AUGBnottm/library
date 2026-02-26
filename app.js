@@ -110,7 +110,7 @@
   const library = T.catalogue.map((sectionTitle, sIdx) => ({
     id: `sec-${sIdx + 1}`,
     title: sectionTitle, // section titles already bilingual via T.catalogue
-    books: Array.from({ length: 10 }).map(() => ({
+    books: Array.from({ length: 100 }).map(() => ({
       title: placeholders.title,
       author: "",
       year: "",
@@ -120,7 +120,24 @@
       iframeSrc: "" // <-- paste Heyzine link here
     }))
   }));
+// ============ EXAMPLES: add books into different shelves ============
+// Principle:
+// library[НомерПолки].books[НомерКарточки] = { ...книга... };
+// Полки начинаются с 0, карточки тоже с 0.
 
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books[0] = {
+  title: { en: "Chronicles of the Ukrainian Insurgent Army vol.1", uk: "Літопис Української Повстанської Армії том 1" },
+  author: "OUN Chronicle Committee / Комітет Літопису ОУН",
+  year: "1975",
+  access: { en: "Public domain", uk: "Публічне надбання" },
+  tags: { en: ["history", "OUN", "UIA"], uk: ["історія", "ОУН","УПА"] },
+  desc: {
+    en: "Chronicles of the Ukrainian Insurgent Army.",
+    uk: "Літопис Української Повстанської Армії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/f3692525e4.html"
+};
   // OPTIONAL: demo example (remove if you want)
   // library[0].books[0] = {
   //   title: { en: "Chronicle of UPA, Vol. 1", uk: "Літопис Української Повстанської Армії, Том 1" },
