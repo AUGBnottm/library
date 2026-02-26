@@ -54,38 +54,81 @@
 
   const T = UI[lang] || UI.en;
 
+  // ========= Helpers for bilingual fields =========
+  // Allows values like:
+  // title: { en: "Kobzar", uk: "Кобзар" }
+  // desc:  { en: "...",    uk: "..."    }
+  // tags:  { en: ["poetry"], uk: ["поезія"] }
+  function pickLangText(v) {
+    if (v && typeof v === "object" && !Array.isArray(v)) {
+      return v[lang] || v.en || v.uk || "";
+    }
+    return v || "";
+  }
+
+  function pickLangTags(v) {
+    if (Array.isArray(v)) return v;
+    if (v && typeof v === "object") {
+      const t = v[lang] || v.en || v.uk || [];
+      return Array.isArray(t) ? t : [];
+    }
+    return [];
+  }
+
+  // For search: put both languages into data-attributes so you can search either EN or UA
+  function flattenAnyText(v) {
+    if (v && typeof v === "object" && !Array.isArray(v)) {
+      const parts = [v.en, v.uk].filter(Boolean);
+      return parts.join(" | ");
+    }
+    return v || "";
+  }
+
+  function flattenTags(v) {
+    if (Array.isArray(v)) return v.join(",");
+    if (v && typeof v === "object") {
+      const en = Array.isArray(v.en) ? v.en : [];
+      const uk = Array.isArray(v.uk) ? v.uk : [];
+      return [...en, ...uk].join(",");
+    }
+    return "";
+  }
+
   // ============ DATA: 15 sections x 10 books ============
-  // How to add a real book:
-  // 1) Find section by index (0..14)
-  // 2) Find book by index (0..9)
-  // 3) Fill title/author/year/tags and paste iframeSrc (Heyzine link)
+  // IMPORTANT:
+  // - Books are bilingual: title/desc/access can be {en, uk}
+  // - tags can be {en:[...], uk:[...]} or just one array [...]
   //
   // Example iframeSrc:
   // "https://heyzine.com/flip-book/f3692525e4.html"
   //
+  const placeholders = {
+    title: { en: UI.en.placeholderTitle, uk: UI.uk.placeholderTitle },
+    desc: { en: UI.en.placeholderDesc, uk: UI.uk.placeholderDesc },
+  };
+
   const library = T.catalogue.map((sectionTitle, sIdx) => ({
     id: `sec-${sIdx + 1}`,
-    title: sectionTitle,
-    books: Array.from({ length: 10 }).map((_, bIdx) => ({
-      title: T.placeholderTitle,
+    title: sectionTitle, // section titles already bilingual via T.catalogue
+    books: Array.from({ length: 10 }).map(() => ({
+      title: placeholders.title,
       author: "",
       year: "",
-      access: "Public domain",
-      tags: [],
-      desc: T.placeholderDesc,
+      access: { en: "Public domain", uk: "Публічне надбання" },
+      tags: { en: [], uk: [] },
+      desc: placeholders.desc,
       iframeSrc: "" // <-- paste Heyzine link here
     }))
   }));
 
   // OPTIONAL: demo example (remove if you want)
-  // Put your first book here quickly:
   // library[0].books[0] = {
-  //   title: "Літопис Української Повстанської Армії, Том 1",
+  //   title: { en: "Chronicle of UPA, Vol. 1", uk: "Літопис Української Повстанської Армії, Том 1" },
   //   author: "—",
   //   year: "",
-  //   access: "Restricted / On request",
-  //   tags: ["історія", "УПА"],
-  //   desc: "Перегляд у форматі flipbook.",
+  //   access: { en: "Restricted / On request", uk: "Обмежено / За запитом" },
+  //   tags: { en: ["history", "UPA"], uk: ["історія", "УПА"] },
+  //   desc: { en: "Flipbook preview.", uk: "Перегляд у форматі фліпбуку." },
   //   iframeSrc: "https://heyzine.com/flip-book/f3692525e4.html"
   // };
 
@@ -103,22 +146,30 @@
 
   // ============ Render ============
   function bookToCard(book) {
-    const tags = (book.tags || []);
+    const tags = pickLangTags(book.tags);
+
     const metaParts = [];
     if (book.author) metaParts.push(book.author);
     if (book.year) metaParts.push(book.year);
-    if (book.access) metaParts.push(book.access);
+
+    const accessText = pickLangText(book.access);
+    if (accessText) metaParts.push(accessText);
 
     const meta = metaParts.join(" • ");
 
-    const safeTitle = escapeHtml(book.title || "");
-    const safeDesc = escapeHtml(book.desc || "");
+    const titleText = pickLangText(book.title);
+    const descText = pickLangText(book.desc);
+
+    const safeTitle = escapeHtml(titleText || "");
+    const safeDesc = escapeHtml(descText || "");
     const safeMeta = escapeHtml(meta);
 
-    const dataTitle = attrSafe(book.title || "");
+    // searchable fields: include BOTH languages where possible
+    const dataTitle = attrSafe(flattenAnyText(book.title));
+    const dataDesc = attrSafe(flattenAnyText(book.desc));
     const dataAuthor = attrSafe(book.author || "");
     const dataYear = attrSafe(book.year || "");
-    const dataTags = attrSafe((tags || []).join(","));
+    const dataTags = attrSafe(flattenTags(book.tags));
 
     const iframe = book.iframeSrc
       ? `<iframe src="${attrSafe(book.iframeSrc)}" loading="lazy" allow="fullscreen; clipboard-write" allowfullscreen></iframe>`
@@ -131,6 +182,7 @@
     return `
       <article class="card book"
         data-title="${dataTitle}"
+        data-desc="${dataDesc}"
         data-author="${dataAuthor}"
         data-year="${dataYear}"
         data-tags="${dataTags}">
@@ -230,6 +282,7 @@
     books.forEach((b) => {
       const hay = normalise([
         b.dataset.title,
+        b.dataset.desc,
         b.dataset.author,
         b.dataset.year,
         b.dataset.tags,
