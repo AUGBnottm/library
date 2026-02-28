@@ -308,7 +308,7 @@ library[0].books.push({
     en: "Chronicles of the Ukrainian Insurgent Army.",
     uk: "Літопис Української Повстанської Армії."
   },
-  iframeSrc: "https://heyzine.com/flip-book/249b9d35ff.html"
+  iframeSrc: "https://heyzine.com/flip-book/ea49cdb096.html"
 });
 // 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
 library[0].books.push({
