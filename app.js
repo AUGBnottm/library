@@ -694,6 +694,42 @@ library[0].books.push({
   },
   iframeSrc: "https://heyzine.com/flip-book/0d50a569a4.html"
 });
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "The Struggle for Ukrainian Statehood under the Soviet Rule", uk: "Боротьба за Українську Державу під Совєцькою Владою" },
+  author: "Vasyl Plushch" / "Василь Плющ",
+  year: "1973",
+  tags: { en: ["history", "Ukraine", "OUN"], uk: ["історія", "ОУН","Україна"] },
+  desc: {
+    en: "Historical and political study examining national resistance, repression, and the efforts of Ukrainians to preserve statehood and identity under the Soviet regime.",
+    uk: "Історико-публіцистичне дослідження, присвячене аналізу національного спротиву, політичних репресій і змагання українців за збереження державницької ідентичності в умовах радянського режиму."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/e4e02d6406.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "Roman Shukhevych gen. Taras Chuprynka  Commander of the Army of Immortals", uk: "Роман Шухевич ген. Тарас Чупринка, командир Армії Безсмертних" },
+  author: "Petro Mirchuk" / "Петро Мірчук",
+  year: "1970",
+  tags: { en: ["history", "Ukraine", "OUN"], uk: ["історія", "ОУН","Україна"] },
+  desc: {
+    en: "Biographical study devoted to Roman Shukhevych as a leader of the liberation struggle and a symbol of the resilience of the Ukrainian underground movement.",
+    uk: "Біографічне дослідження, присвячене постаті Романа Шухевича як провідника визвольної боротьби та символу незламності українського підпілля."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/1daf2b2ee4.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "Roman Shukhevych gen. Taras Chuprynka  Commander of the Army of Immortals", uk: "Роман Шухевич ген. Тарас Чупринка, командир Армії Безсмертних" },
+  author: "Petro Mirchuk" / "Петро Мірчук",
+  year: "1970",
+  tags: { en: ["history", "Ukraine", "OUN"], uk: ["історія", "ОУН","Україна"] },
+  desc: {
+    en: "Biographical study devoted to Roman Shukhevych as a leader of the liberation struggle and a symbol of the resilience of the Ukrainian underground movement.",
+    uk: "Біографічне дослідження, присвячене постаті Романа Шухевича як провідника визвольної боротьби та символу незламності українського підпілля."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/1daf2b2ee4.html"
+});
 // 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
 library[1].books.push({
   title: { en: "The Fifth Great Assembly of the OUN", uk: "П'ятий Великий Збір ОУН" },
@@ -717,6 +753,54 @@ library[1].books.push({
     uk: "Підпільна Література ОУН."
   },
   iframeSrc: "https://heyzine.com/flip-book/d2419dc478.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Cruel Time", uk: "Жорстокий Час" },
+  author: "Petro Tsisarsky" / "Петро Цісарський",
+  year: "2004",
+  tags: { en: ["history", "Ukraine", "WW2"], uk: ["історія", "Україна","Друга Світова Війна"] },
+  desc: {
+    en: "Literary work that portrays an individual confronting the brutality of a turbulent historical era. Through psychological depth and moral tension, the author explores resilience, fear, and the human cost of freedom amid harsh social realities.",
+    uk: "Художній твір про людину в епосі історичних потрясінь, коли випробування часу оголюють моральний вибір і справжню ціну свободи. Автор досліджує внутрішню стійкість, страх і надію на тлі жорстоких суспільних реалій, створюючи напружений і психологічно глибокий наратив."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/d14a5aaaba.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Yevhen Konovalets", uk: "Євген Коновалець" },
+  author: "Premiere Imprimerie Ukrainienne En France",
+  year: "?",
+  tags: { en: ["history", "OUN", "Biography"], uk: ["історія", "ОУН","Біографія"] },
+  desc: {
+    en: "Biographical work about the founder of the OUN, Yevhen Konovalets.",
+    uk: "Біографічний твір про засновника ОУН Євгена Коновальця."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/6cce654cf5.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "From the Oprichnina to the KGB", uk: "Від Оприччини до КГБ" },
+  author: "S.Mechnyk" / "С.Мечник",
+  year: "1981",
+  tags: { en: ["history", "USSR", "KGB"], uk: ["історія", "СРСР","КГБ"] },
+  desc: {
+    en: "Historical and political study tracing the continuity of repressive power structures from the Tsarist era to the Soviet security services, examining the evolution of state terror as a tool of control.",
+    uk: "Публіцистично-історичне дослідження, що простежує тяглість репресивних механізмів влади від царської доби до радянських спецслужб, аналізуючи еволюцію державного терору як інструменту контролю."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/d9f2b2131a.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Turbulent Times", uk: "Буремні Дні" },
+  author: "Bohdan Bora" / "Богдан Бора",
+  year: "1982",
+  tags: { en: ["poetry", "Ukraine", "WW2"], uk: ["Поезія", "Україна","Друга Світова Війна"] },
+  desc: {
+    en: "Historical and political study tracing the continuity of repressive power structures from the Tsarist era to the Soviet security services, examining the evolution of state terror as a tool of control.",
+    uk: "Поетична збірка, що через образи боротьби, втрат і надії осмислює драматизм історичної доби та внутрішню стійкість людини в часи потрясінь."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/d9f2b2131a.html"
 });
   // OPTIONAL: demo example (remove if you want)
   // library[0].books[0] = {
