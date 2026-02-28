@@ -382,6 +382,30 @@ library[0].books.push({
   },
   iframeSrc: "https://heyzine.com/flip-book/e6f456e9c6.html"
 });
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "The Fifth Great Assembly of the OUN", uk: "П'ятий Великий Збір ОУН" },
+  author: { en: "Library of the Ukrainian Underground Fighter Part 11", uk: "Бібліотека Українського Підпільника ч. 11" },
+  year: "1975",
+  tags: { en: ["history", "OUN", "UIA"], uk: ["історія", "ОУН","УПА"] },
+  desc: {
+    en: "Underground literature of the OUN.",
+    uk: "Підпільна Література ОУН."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/8ce87a22de.html"
+});
+  // 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "The Sixth Great Assembly of the OUN", uk: "Шостий Великий Збір ОУН" },
+  author: { en: "Library of the Ukrainian Underground Fighter Part 11", uk: "Бібліотека Українського Підпільника ч. 11" },
+  year: "1984",
+  tags: { en: ["history", "OUN", "UIA"], uk: ["історія", "ОУН","УПА"] },
+  desc: {
+    en: "Underground literature of the OUN.",
+    uk: "Підпільна Література ОУН."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/d2419dc478.html"
+});
   // OPTIONAL: demo example (remove if you want)
   // library[0].books[0] = {
   //   title: { en: "Chronicle of UPA, Vol. 1", uk: "Літопис Української Повстанської Армії, Том 1" },
