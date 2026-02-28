@@ -129,7 +129,7 @@ library[0].books.push({
     uk: "Літопис Української Повстанської Армії."
   },
   iframeSrc: "https://heyzine.com/flip-book/f3692525e4.html"
-};
+});
   // 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
 library[0].books.push({
   title: { en: "Chronicles of the Ukrainian Insurgent Army vol.2", uk: "Літопис Української Повстанської Армії том 2" },
@@ -141,7 +141,7 @@ library[0].books.push({
     uk: "Літопис Української Повстанської Армії."
   },
   iframeSrc: "https://heyzine.com/flip-book/3057e1b0bb.html"
-};
+});
     // 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
 library[0].books.push({
   title: { en: "Chronicles of the Ukrainian Insurgent Army vol.3", uk: "Літопис Української Повстанської Армії том 3" },
@@ -153,7 +153,7 @@ library[0].books.push({
     uk: "Літопис Української Повстанської Армії."
   },
   iframeSrc: "https://heyzine.com/flip-book/cd2c5ce204.html"
-};
+});
    // 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
 library[0].books.push({
   title: { en: "Chronicles of the Ukrainian Insurgent Army vol.4", uk: "Літопис Української Повстанської Армії том 4" },
@@ -165,7 +165,7 @@ library[0].books.push({
     uk: "Літопис Української Повстанської Армії."
   },
   iframeSrc: "https://heyzine.com/flip-book/11e853a480.html"
-};
+});
    // 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
 library[0].books.push({
   title: { en: "Chronicles of the Ukrainian Insurgent Army vol.5", uk: "Літопис Української Повстанської Армії том 5" },
@@ -177,7 +177,7 @@ library[0].books.push({
     uk: "Літопис Української Повстанської Армії."
   },
   iframeSrc: "https://heyzine.com/flip-book/e1eb6f5adb.html"
-};
+});
   // OPTIONAL: demo example (remove if you want)
   // library[0].books[0] = {
   //   title: { en: "Chronicle of UPA, Vol. 1", uk: "Літопис Української Повстанської Армії, Том 1" },
