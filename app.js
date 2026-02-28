@@ -110,7 +110,7 @@
   const library = T.catalogue.map((sectionTitle, sIdx) => ({
   id: `sec-${sIdx + 1}`,
   title: sectionTitle,
-  books: [] // ✅ теперь в полке нет заглушек, только реальные книги
+  books: [] // ✅ real books only
 }));
   
 // ============ EXAMPLES: add books into different shelves ============
@@ -768,9 +768,14 @@ library[1].books.push({
     const dataYear = attrSafe(book.year || "");
     const dataTags = attrSafe(flattenTags(book.tags));
 
-    const iframe = book.iframeSrc
-      ? `<iframe src="${attrSafe(book.iframeSrc)}" loading="lazy" allow="fullscreen; clipboard-write" allowfullscreen></iframe>`
-      : `<div class="embed__empty">${escapeHtml(T.emptyEmbed)}</div>`;
+    const embed = book.iframeSrc
+  ? `
+    <button class="embed__cover" type="button" data-embed-src="${attrSafe(book.iframeSrc)}">
+      <span class="embed__coverText">${lang === "uk" ? "Відкрити книгу" : "Open book"}</span>
+      <span class="embed__coverSub">${lang === "uk" ? "Натисни, щоб завантажити переглядач" : "Tap to load the viewer"}</span>
+    </button>
+  `
+  : `<div class="embed__empty">${escapeHtml(T.emptyEmbed)}</div>`;
 
     const tagsHtml = tags.length
       ? tags.map(t => `<span class="tag">${escapeHtml(t)}</span>`).join("")
@@ -794,7 +799,7 @@ library[1].books.push({
         <p class="card__desc">${safeDesc}</p>
 
         <div class="embed">
-          ${iframe}
+          ${embed}
         </div>
 
         <div class="card__tags">${tagsHtml}</div>
@@ -917,4 +922,17 @@ library[1].books.push({
 
   // go
   render();
+sectionsEl.addEventListener("click", (e) => {
+  const btn = e.target.closest(".embed__cover");
+  if (!btn) return;
+
+  const src = btn.dataset.embedSrc;
+  if (!src) return;
+
+  const embedBox = btn.closest(".embed");
+  if (!embedBox) return;
+
+  embedBox.innerHTML =
+    `<iframe src="${src}" loading="lazy" allow="fullscreen; clipboard-write" allowfullscreen></iframe>`;
+});
 })();
