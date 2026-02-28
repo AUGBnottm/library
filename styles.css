@@ -314,3 +314,30 @@ body{
   .nav{ gap: 6px; }
   .nav__link{ padding: 7px 7px; }
 }
+/* Load-on-click cover (saves traffic & CPU) */
+.embed__cover{
+  width: 100%;
+  height: 100%;
+  border: 0;
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  padding: 18px;
+  color: rgba(255,255,255,0.92);
+  background:
+    radial-gradient(600px 240px at 50% 30%, rgba(255,255,255,0.10), transparent 60%),
+    rgba(0,0,0,0.20);
+  backdrop-filter: blur(10px);
+}
+
+.embed__coverText{
+  font-weight: 800;
+  font-size: 14px;
+}
+
+.embed__coverSub{
+  margin-top: 6px;
+  font-size: 12px;
+  color: rgba(255,255,255,0.70);
+}
