@@ -108,25 +108,18 @@
   };
 
   const library = T.catalogue.map((sectionTitle, sIdx) => ({
-    id: `sec-${sIdx + 1}`,
-    title: sectionTitle, // section titles already bilingual via T.catalogue
-    books: Array.from({ length: 100 }).map(() => ({
-      title: placeholders.title,
-      author: "",
-      year: "",
-      access: { en: "Public domain", uk: "Публічне надбання" },
-      tags: { en: [], uk: [] },
-      desc: placeholders.desc,
-      iframeSrc: "" // <-- paste Heyzine link here
-    }))
-  }));
+  id: `sec-${sIdx + 1}`,
+  title: sectionTitle,
+  books: [] // ✅ теперь в полке нет заглушек, только реальные книги
+}));
+  
 // ============ EXAMPLES: add books into different shelves ============
 // Principle:
 // library[НомерПолки].books[НомерКарточки] = { ...книга... };
 // Полки начинаются с 0, карточки тоже с 0.
 
 // 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
-library[0].books[0] = {
+library[0].books.push({
   title: { en: "Chronicles of the Ukrainian Insurgent Army vol.1", uk: "Літопис Української Повстанської Армії том 1" },
   author: "OUN Chronicle Committee / Комітет Літопису ОУН",
   year: "1975",
@@ -138,7 +131,7 @@ library[0].books[0] = {
   iframeSrc: "https://heyzine.com/flip-book/f3692525e4.html"
 };
   // 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
-library[0].books[1] = {
+library[0].books.push({
   title: { en: "Chronicles of the Ukrainian Insurgent Army vol.2", uk: "Літопис Української Повстанської Армії том 2" },
   author: "OUN Chronicle Committee / Комітет Літопису ОУН",
   year: "1985",
@@ -150,7 +143,7 @@ library[0].books[1] = {
   iframeSrc: "https://heyzine.com/flip-book/3057e1b0bb.html"
 };
     // 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
-library[0].books[2] = {
+library[0].books.push({
   title: { en: "Chronicles of the Ukrainian Insurgent Army vol.3", uk: "Літопис Української Повстанської Армії том 3" },
   author: "OUN Chronicle Committee / Комітет Літопису ОУН",
   year: "1987",
@@ -162,7 +155,7 @@ library[0].books[2] = {
   iframeSrc: "https://heyzine.com/flip-book/cd2c5ce204.html"
 };
    // 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
-library[0].books[3] = {
+library[0].books.push({
   title: { en: "Chronicles of the Ukrainian Insurgent Army vol.4", uk: "Літопис Української Повстанської Армії том 4" },
   author: "OUN Chronicle Committee / Комітет Літопису ОУН",
   year: "1989",
@@ -174,7 +167,7 @@ library[0].books[3] = {
   iframeSrc: "https://heyzine.com/flip-book/11e853a480.html"
 };
    // 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
-library[0].books[4] = {
+library[0].books.push({
   title: { en: "Chronicles of the Ukrainian Insurgent Army vol.5", uk: "Літопис Української Повстанської Армії том 5" },
   author: "OUN Chronicle Committee / Комітет Літопису ОУН",
   year: "1984",
