@@ -797,10 +797,10 @@ library[1].books.push({
   year: "1982",
   tags: { en: ["poetry", "Ukraine", "WW2"], uk: ["Поезія", "Україна","Друга Світова Війна"] },
   desc: {
-    en: "Historical and political study tracing the continuity of repressive power structures from the Tsarist era to the Soviet security services, examining the evolution of state terror as a tool of control.",
+    en: "A poetic collection that, through images of struggle, loss, and hope, reflects on the drama of the historical era and the inner resilience of a person in times of upheaval.",
     uk: "Поетична збірка, що через образи боротьби, втрат і надії осмислює драматизм історичної доби та внутрішню стійкість людини в часи потрясінь."
   },
-  iframeSrc: "https://heyzine.com/flip-book/d9f2b2131a.html"
+  iframeSrc: "https://heyzine.com/flip-book/1ce54aa974.html"
 });
   // OPTIONAL: demo example (remove if you want)
   // library[0].books[0] = {
