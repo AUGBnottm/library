@@ -677,8 +677,8 @@ library[0].books.push({
   year: "?",
   tags: { en: ["history", "OUN", "UIA"], uk: ["історія", "ОУН","УПА"] },
   desc: {
-    en: "A unique testimony to the horrors of the Nazi concentration camp Auschwitz through the prism of humorous cartoons.",
-    uk: "Унікальне свідоцтво про жахи нацистського концтабору Аушвіц через призму жартівливих шаржів."
+    en: "A unique testimony to the horrors of the Nazi concentration camp Auschwitz through the prism of caricatures.",
+    uk: "Унікальне свідоцтво про жахи нацистського концтабору Аушвіц через призму шаржів."
   },
   iframeSrc: "https://heyzine.com/flip-book/53dd0fb042.html"
 });
@@ -697,7 +697,7 @@ library[0].books.push({
 // 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
 library[0].books.push({
   title: { en: "The Struggle for Ukrainian Statehood under the Soviet Rule", uk: "Боротьба за Українську Державу під Совєцькою Владою" },
-  author: "Vasyl Plushch" / "Василь Плющ",
+  author: "Vasyl Plushch / Василь Плющ",
   year: "1973",
   tags: { en: ["history", "Ukraine", "OUN"], uk: ["історія", "ОУН","Україна"] },
   desc: {
@@ -709,7 +709,7 @@ library[0].books.push({
 // 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
 library[0].books.push({
   title: { en: "Roman Shukhevych gen. Taras Chuprynka  Commander of the Army of Immortals", uk: "Роман Шухевич ген. Тарас Чупринка, командир Армії Безсмертних" },
-  author: "Petro Mirchuk" / "Петро Мірчук",
+  author: "Petro Mirchuk / Петро Мірчук",
   year: "1970",
   tags: { en: ["history", "Ukraine", "OUN"], uk: ["історія", "ОУН","Україна"] },
   desc: {
@@ -720,20 +720,20 @@ library[0].books.push({
 });
 // 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
 library[0].books.push({
-  title: { en: "Roman Shukhevych gen. Taras Chuprynka  Commander of the Army of Immortals", uk: "Роман Шухевич ген. Тарас Чупринка, командир Армії Безсмертних" },
-  author: "Petro Mirchuk" / "Петро Мірчук",
-  year: "1970",
-  tags: { en: ["history", "Ukraine", "OUN"], uk: ["історія", "ОУН","Україна"] },
+  title: { en: "UIA Chronicles new serias vol.2", uk: "Літопис УПА нова серія том 2" },
+  author: "O.Vovk / О.Вовк",
+  year: "1999",
+  tags: { en: ["history", "Ukraine", "UIA"], uk: ["історія", "УПА","Україна"] },
   desc: {
-    en: "Biographical study devoted to Roman Shukhevych as a leader of the liberation struggle and a symbol of the resilience of the Ukrainian underground movement.",
-    uk: "Біографічне дослідження, присвячене постаті Романа Шухевича як провідника визвольної боротьби та символу незламності українського підпілля."
+    en: "Chronicles of the Ukrainian Insurgent Army.",
+    uk: "Літописи Української Повстанської Армії."
   },
-  iframeSrc: "https://heyzine.com/flip-book/1daf2b2ee4.html"
+  iframeSrc: "https://heyzine.com/flip-book/6f2d7d3fd7.html"
 });
 // 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
 library[1].books.push({
   title: { en: "The Fifth Great Assembly of the OUN", uk: "П'ятий Великий Збір ОУН" },
-  author: "Library of the Ukrainian Underground Fighter Part 11" / "Бібліотека Українського Підпільника ч. 11",
+  author: "Library of the Ukrainian Underground Fighter Part 11 / Бібліотека Українського Підпільника ч. 11",
   year: "1975",
   tags: { en: ["history", "OUN", "UIA"], uk: ["історія", "ОУН","УПА"] },
   desc: {
@@ -745,7 +745,7 @@ library[1].books.push({
   // 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
 library[1].books.push({
   title: { en: "The Sixth Great Assembly of the OUN", uk: "Шостий Великий Збір ОУН" },
-  author: "Library of the Ukrainian Underground Fighter Part 15" / "Бібліотека Українського Підпільника ч. 15",
+  author: "Library of the Ukrainian Underground Fighter Part 15 / Бібліотека Українського Підпільника ч. 15",
   year: "1984",
   tags: { en: ["history", "OUN", "UIA"], uk: ["історія", "ОУН","УПА"] },
   desc: {
@@ -757,7 +757,7 @@ library[1].books.push({
 // 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
 library[1].books.push({
   title: { en: "Cruel Time", uk: "Жорстокий Час" },
-  author: "Petro Tsisarsky" / "Петро Цісарський",
+  author: "Petro Tsisarsky / Петро Цісарський",
   year: "2004",
   tags: { en: ["history", "Ukraine", "WW2"], uk: ["історія", "Україна","Друга Світова Війна"] },
   desc: {
@@ -781,7 +781,7 @@ library[1].books.push({
 // 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
 library[1].books.push({
   title: { en: "From the Oprichnina to the KGB", uk: "Від Оприччини до КГБ" },
-  author: "S.Mechnyk" / "С.Мечник",
+  author: "S.Mechnyk / С.Мечник",
   year: "1981",
   tags: { en: ["history", "USSR", "KGB"], uk: ["історія", "СРСР","КГБ"] },
   desc: {
@@ -793,7 +793,7 @@ library[1].books.push({
 // 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
 library[1].books.push({
   title: { en: "Turbulent Times", uk: "Буремні Дні" },
-  author: "Bohdan Bora" / "Богдан Бора",
+  author: "Bohdan Bora / Богдан Бора",
   year: "1982",
   tags: { en: ["poetry", "Ukraine", "WW2"], uk: ["Поезія", "Україна","Друга Світова Війна"] },
   desc: {
