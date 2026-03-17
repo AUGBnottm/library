@@ -730,6 +730,162 @@ library[0].books.push({
   },
   iframeSrc: "https://heyzine.com/flip-book/6f2d7d3fd7.html"
 });
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "UIA Chronicles new serias vol.3", uk: "Літопис УПА нова серія том 3" },
+  author: "Litopys UPA / Літопис УПА",
+  year: "2001",
+  tags: { en: ["history", "Ukraine", "UIA"], uk: ["історія", "УПА","Україна"] },
+  desc: {
+    en: "Chronicles of the Ukrainian Insurgent Army.",
+    uk: "Літописи Української Повстанської Армії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/552d501591.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "UIA Chronicles new serias vol.4", uk: "Літопис УПА нова серія том 4" },
+  author: "Litopys UPA / Літопис УПА",
+  year: "2002",
+  tags: { en: ["history", "Ukraine", "UIA"], uk: ["історія", "УПА","Україна"] },
+  desc: {
+    en: "Chronicles of the Ukrainian Insurgent Army.",
+    uk: "Літописи Української Повстанської Армії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/5f894c800b.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "UIA Chronicles new serias vol.5", uk: "Літопис УПА нова серія том 5" },
+  author: "Litopys UPA / Літопис УПА",
+  year: "2002",
+  tags: { en: ["history", "Ukraine", "UIA"], uk: ["історія", "УПА","Україна"] },
+  desc: {
+    en: "Chronicles of the Ukrainian Insurgent Army.",
+    uk: "Літописи Української Повстанської Армії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/5524e25e2c.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "UIA Chronicles new serias vol.6", uk: "Літопис УПА нова серія том 6" },
+  author: "Litopys UPA / Літопис УПА",
+  year: "2003",
+  tags: { en: ["history", "Ukraine", "UIA"], uk: ["історія", "УПА","Україна"] },
+  desc: {
+    en: "Chronicles of the Ukrainian Insurgent Army.",
+    uk: "Літописи Української Повстанської Армії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/51003098d9.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "UIA Chronicles new serias vol.9", uk: "Літопис УПА нова серія том 9" },
+  author: "Litopys UPA / Літопис УПА",
+  year: "2007",
+  tags: { en: ["history", "Ukraine", "UIA"], uk: ["історія", "УПА","Україна"] },
+  desc: {
+    en: "Chronicles of the Ukrainian Insurgent Army.",
+    uk: "Літописи Української Повстанської Армії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/1f93c23d3b.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "UIA Chronicles new serias vol.11", uk: "Літопис УПА нова серія том 11" },
+  author: "Litopys UPA / Літопис УПА",
+  year: "2007",
+  tags: { en: ["history", "Ukraine", "UIA"], uk: ["історія", "УПА","Україна"] },
+  desc: {
+    en: "Chronicles of the Ukrainian Insurgent Army.",
+    uk: "Літописи Української Повстанської Армії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/09396ffa20.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "UIA Chronicles new serias vol.12", uk: "Літопис УПА нова серія том 12" },
+  author: "Litopys UPA / Літопис УПА",
+  year: "2009",
+  tags: { en: ["history", "Ukraine", "UIA"], uk: ["історія", "УПА","Україна"] },
+  desc: {
+    en: "Chronicles of the Ukrainian Insurgent Army.",
+    uk: "Літописи Української Повстанської Армії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/853676b8ec.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "UIA Chronicles new serias vol.13", uk: "Літопис УПА нова серія том 13" },
+  author: "Litopys UPA / Літопис УПА",
+  year: "2009",
+  tags: { en: ["history", "Ukraine", "UIA"], uk: ["історія", "УПА","Україна"] },
+  desc: {
+    en: "Chronicles of the Ukrainian Insurgent Army.",
+    uk: "Літописи Української Повстанської Армії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/d1f137b8c5.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "UIA Chronicles new serias vol.14", uk: "Літопис УПА нова серія том 14" },
+  author: "Litopys UPA / Літопис УПА",
+  year: "2010",
+  tags: { en: ["history", "Ukraine", "UIA"], uk: ["історія", "УПА","Україна"] },
+  desc: {
+    en: "Chronicles of the Ukrainian Insurgent Army.",
+    uk: "Літописи Української Повстанської Армії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/57de5c22b6.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "Prospects of the Ukrainian Revolution", uk: "Перспективи Української Революції" },
+  author: "Stepan Bandera / Степан Бандера",
+  year: "1978",
+  tags: { en: ["politics", "Ukraine", "ideology"], uk: ["політика", "Україна","ідеологія"] },
+  desc: {
+    en: "A political and ideological work in which the author examines the conditions, goals, and possible development of the Ukrainian liberation movement in its struggle for an independent state.",
+    uk: "Політично-ідеологічна праця, у якій автор аналізує умови, цілі та можливі шляхи розвитку українського визвольного руху у боротьбі за незалежну державу."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/27143f0d82.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "Yevhen Konovalets and His Era", uk: "Євген Коновалець та Його Доба" },
+  author: "Yevhen Konovalets Foundation / Фундація Євгена Коновальця",
+  year: "1974",
+  tags: { en: ["Yevhen Konovalets", "OUN", "history"], uk: ["Євген Коновалець", "ОУН","історія"] },
+  desc: {
+    en: "A a historical and biographical study exploring the life of Yevhen Konovalets and his role in the Ukrainian national liberation movement of the early twentieth century.",
+    uk: "Історико-біографічне дослідження, присвячене постаті Євгена Коновальця та ролі його діяльності в українському національно-визвольному русі першої половини ХХ століття."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/95fac41737.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "The Concept of Ukrainian Liberation part 1", uk: "Українська Визвольна Концепція ч.1" },
+  author: "Yevhen Konovalets Foundation / Ярослав Стецько",
+  year: "1987",
+  tags: { en: ["ideology", "statehood", "politics","Ukraine"], uk: ["ідеологія", "державність","політика","Україна"] },
+  desc: {
+    en: "A political and ideological work outlining the author’s vision of the strategy of the Ukrainian liberation movement and the principles for building an independent Ukrainian state.",
+    uk: "Політично-ідеологічна праця, у якій автор викладає бачення стратегії українського визвольного руху та принципів побудови незалежної української держави."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/86897ed36c.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "Moscow’s Murderers of Bandera Before the Court", uk: "Московські Вбивці Бандери Перед Судом" },
+  author: "Ukrainian Publisher in Munich / Українське Видавництво у Мюнхені",
+  year: "1965",
+  tags: { en: ["Stepan Bandera", "KGB"], uk: ["Степан Бандера", "КДБ"] },
+  desc: {
+    en: "A political and ideological work outlining the author’s vision of the strategy of the Ukrainian liberation movement and the principles for building an independent Ukrainian state.",
+    uk: "Документально-публіцистичне видання, присвячене судовому процесу над агентом радянських спецслужб, причетним до вбивства Степана Бандери, та обставинам цього політичного злочину."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/dc6966fef1.html"
+});
 // 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
 library[1].books.push({
   title: { en: "The Fifth Great Assembly of the OUN", uk: "П'ятий Великий Збір ОУН" },
