@@ -948,7 +948,9 @@ library[0].books.push({
 });
 // 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
 library[0].books.push({
-  title: { en: ""Nachtigal" a Battalion of The Ukrainian Nationalists Facts and Documents", uk: ""Нахтігаль" Курінь ДУН У світлі фактів і документів" },
+  title: {
+    en: `"Nachtigal" a Battalion of The Ukrainian Nationalists Facts and Documents`,
+    uk: `"Нахтігаль" Курінь ДУН У світлі фактів і документів`},
   author: "Myroslav Kalba / Мирослав Кальба",
   year: "1984",
   tags: { en: ["Nachtigal", "OUN", "World War II"], uk: ["Нахтігаль", "ДУН", "Друга світова війна"] },
