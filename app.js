@@ -886,6 +886,138 @@ library[0].books.push({
   },
   iframeSrc: "https://heyzine.com/flip-book/dc6966fef1.html"
 });
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "Friends in Combat: A Collection of Memoires from OUN Activities, Vol. 2", uk: "Бойові друзі: Збірка спогадів з дій ОУН, Том 2" },
+  author: "Volodymyr Makar / Володимир Макар",
+  year: "1993",
+  tags: { en: ["OUN", "memoires", "Ukrainian underground"], uk: ["ОУН", "спогади", "підпілля"] },
+  desc: {
+    en: "A collection of memoirs recounting the experiences, struggles, and everyday realities of OUN members, offering a personal perspective on the underground liberation movement.",
+    uk: "Збірка спогадів учасників ОУН, що висвітлює їхній досвід, боротьбу та повсякденне життя в умовах підпільного визвольного руху."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/3dab761261.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "The March Toward Freedom: Memoires, Vol. 1", uk: "В поході до волі: Спомини, Том 1" },
+  author: "Mykola Klymyshyn / Микола Климишин",
+  year: "1975",
+  tags: { en: ["OUN", "memoires", "liberation struggle"], uk: ["ОУН", "спогади", "визвольна боротьба"] },
+  desc: {
+    en: "A memoir recounting the author’s participation in the Ukrainian liberation movement, reflecting on the path, challenges, and ideals that shaped the struggle for freedom.",
+    uk: "Мемуарний твір, у якому автор описує свою участь в українському визвольному русі, осмислюючи шлях, випробування та ідеї, що формували боротьбу за свободу."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/c96681e30b.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "The March Toward Freedom: Memoires, Vol. 2", uk: "В поході до волі: Спомини, Том 2" },
+  author: "Mykola Klymyshyn / Микола Климишин",
+  year: "?",
+  tags: { en: ["OUN", "memoires", "Ukrainian underground"], uk: ["ОУН", "спогади", "підпілля"] },
+  desc: {
+    en: "The continuation of the author’s memoirs, detailing further episodes of the Ukrainian underground struggle and offering deeper insight into the realities of resistance.",
+    uk: "Продовження мемуарів автора, що висвітлює наступні етапи підпільної боротьби та дає глибше розуміння реалій спротиву."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/3c1d0dfec3.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "The Ukrainian State Restored by the Act of June 30, 1941", uk: "Українська Держава Відновлена актом 30-го червня 1941-го року" },
+  author: "Anatol Berdii / Анатоль Бердій",
+  year: "1981",
+  tags: { en: ["June 30 Act", "Ukrainian statehood", "OUN"], uk: ["Акт 30 червня", "державність", "ОУН"] },
+  desc: {
+    en: "A historical and political study examining the proclamation of the Ukrainian state on June 30, 1941, its context, significance, and consequences within the liberation movement.",
+    uk: "Історико-політичне дослідження, присвячене проголошенню Української держави 30 червня 1941 року, його передумовам, значенню та наслідкам у визвольному русі."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/53479dd405.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "Under the Banner of Bandera", uk: "Під прапором Бандери" },
+  author: "Artur Furman / Артур Фурман",
+  year: "1964",
+  tags: { en: ["Stepan Bandera", "OUN", "liberation struggle"], uk: ["Степан Бандера", "ОУН", "визвольна боротьба"] },
+  desc: {
+    en: "A historical and memoir-based account depicting the activities, ideals, and experiences of the Ukrainian nationalist movement under the leadership of Stepan Bandera.",
+    uk: "Історико-мемуарний твір, що відображає діяльність, ідеї та досвід українського націоналістичного руху під проводом Степана Бандери."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/f09aa180b6.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: ""Nachtigal" a Battalion of The Ukrainian Nationalists Facts and Documents", uk: ""Нахтігаль" Курінь ДУН У світлі фактів і документів" },
+  author: "Myroslav Kalba / Мирослав Кальба",
+  year: "1984",
+  tags: { en: ["Nachtigal", "OUN", "World War II"], uk: ["Нахтігаль", "ДУН", "Друга світова війна"] },
+  desc: {
+    en: "A documentary-based study examining the formation, activities, and historical context of the Nachtigall Battalion and DUN unit through facts and archival evidence.",
+    uk: "Документальне дослідження, що розглядає формування, діяльність та історичний контекст батальйону «Нахтігаль» і куреня ДУН на основі фактів та архівних матеріалів."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/02c71bd3b8.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "Rimini 1945–1947, Collection 1", uk: "Ріміні 1945–1947, Збірник 1" },
+  author: "Brotherhood of Former Soldiers of the First Ukrainian Division of the Ukrainian National Army / Братство колишніх вояків Першої Української Дивізії Української Національної Армії",
+  year: "1979",
+  tags: { en: ["Ukrainian National Army", "Rimini", "memoires"], uk: ["Українська національна армія", "Ріміні", "спогади"] },
+  desc: {
+    en: "A collection of memoirs and documents by former soldiers of the First Ukrainian Division, reflecting on their experiences in Rimini during 1945–1947 and the post-war fate of the unit.",
+    uk: "Збірник спогадів і документів колишніх вояків Першої Української Дивізії, що висвітлює їхній досвід у Ріміні в 1945–1947 роках та повоєнну долю підрозділу."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/ce1b9df026.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "Muscovy", uk: "Московщина" },
+  author: "Yurii A.Vudka / Юрій А.Вудка",
+  year: "1978",
+  tags: { en: ["Russia", "political analysis", "history"], uk: ["Росія", "політичний аналіз", "історія"] },
+  desc: {
+    en: "A political and historical analysis examining the nature of the Russian state, its imperial traditions, and their impact on neighbouring nations.",
+    uk: "Політико-історичне дослідження, що аналізує природу російської державності, її імперські традиції та їхній вплив на сусідні народи."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/a552ecc663.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "The Idea and Deeds", uk: "Ідея і Чин" },
+  author: "Osyp Diakiw-Hornovyj / Осип Дяків-Горновий",
+  year: "1968",
+  tags: { en: ["OUN", "ideology", "nationalism"], uk: ["ОУН", "ідеологія", "націоналізм"] },
+  desc: {
+    en: "A political and ideological work exploring the relationship between national ideas and practical action within the Ukrainian liberation movement.",
+    uk: "Політично-ідеологічна праця, що досліджує взаємозв’язок між національною ідеєю та практичним чином у межах українського визвольного руху."
+  },
+   iframeSrc: "https://heyzine.com/flip-book/c98a1dd909.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "Ataman Volia", uk: "Отаман Воля" },
+  author: "Lesia Khraplyva / Леся Храплива",
+  year: "1965",
+  tags: { en: ["fiction", "YA"], uk: ["художня література", "підліткова література"] },
+  desc: {
+    en: "A literary work portraying the image of a Ukrainian leader and the spirit of resistance, reflecting the ideals of freedom and struggle rooted in national tradition.",
+    uk: "Художній твір, що змальовує образ українського провідника та дух спротиву, відображаючи ідеали свободи й боротьби, закорінені в національній традиції."
+  },
+   iframeSrc: "https://heyzine.com/flip-book/9e9c19ee56.html"
+});
+// 1) Shelf 1 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[0].books.push({
+  title: { en: "From the Book of My Life, Vol. 1", uk: "З книги мого життя, Том 1" },
+  author: "Roman Malaschuk / Роман Малащук",
+  year: "1987",
+  tags: { en: ["memoires", "Ukrainian underground", "OUN"], uk: ["спогади", "підпілля", "ОУН"] },
+  desc: {
+    en: "A memoire in which the author reflects on his life, experiences, and involvement in the Ukrainian liberation movement, offering a personal perspective on historical events.",
+    uk: "Мемуарний твір, у якому автор осмислює своє життя, досвід і участь в українському визвольному русі, подаючи особистий погляд на історичні події."
+  },
+   iframeSrc: "https://heyzine.com/flip-book/ace5cdead4.html"
+});
 // 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
 library[1].books.push({
   title: { en: "The Fifth Great Assembly of the OUN", uk: "П'ятий Великий Збір ОУН" },
