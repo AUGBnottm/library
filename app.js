@@ -1020,7 +1020,139 @@ library[0].books.push({
   },
    iframeSrc: "https://heyzine.com/flip-book/ace5cdead4.html"
 });
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[1]
+library[1].books.push({
+  title: { en: "OUN–UPA During the War Years", uk: "ОУН-УПА в роки війни" },
+  author: "Volodymyr Serhiichuk / Володимир Сергійчук",
+  year: "1996",
+  tags: { en: ["OUN-UPA", "World War II", "Ukrainian history"], uk: ["ОУН-УПА", "Друга світова війна", "історія України"] },
+  desc: {
+    en: "A historical study analysing the activities and role of the OUN and UPA during the war years, focusing on their strategies, challenges, and impact on the liberation struggle.",
+    uk: "Історичне дослідження, присвячене діяльності ОУН і УПА в роки війни, з аналізом їхніх стратегій, викликів та ролі у визвольній боротьбі."
+  },
+ iframeSrc: "https://heyzine.com/flip-book/6ebbcf552c.html"
+});
 // 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "In the Whirpool of Combat", uk: "У вирі боротьби" },
+  author: "Yurii Borets / Юрій Борець",
+  year: "1971",
+  tags: { en: ["memoires", "OUN-UIA", "liberation struggle"], uk: ["спогади", "ОУН-УПА", "визвольна боротьба"] },
+  desc: {
+    en: "A memoir depicting the intense experiences of the Ukrainian liberation struggle, revealing the realities of underground resistance and personal endurance.",
+    uk: "Мемуарний твір, що передає напружений досвід української визвольної боротьби, розкриваючи реалії підпільного спротиву та особистої витривалості."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/3f34383995.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Forever Forged in Chains", uk: "Навічно кайдани кували" },
+  author: "Vasyl Lyzanchuk / Василь Лизанчук",
+  year: "1995",
+  tags: { en: ["repression", "Ukrainian history", "Soviet regime"], uk: ["репресії", "історія України", "радянський режим"] },
+  desc: {
+    en: "A historical and publicistic work examining the enduring oppression of Ukrainians under the Soviet regime and the struggle to preserve national identity and freedom.",
+    uk: "Історико-публіцистична праця, що висвітлює тривале поневолення українців у радянський період та боротьбу за збереження національної ідентичності й свободи."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/6171148669.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Nationalism", uk: "Націоналізм" },
+  author: "D. Dontsov / Д. Донцов",
+  year: "1966",
+  tags: { en: ["nationalism", "political ideology", "Ukrainian thought"], uk: ["націоналізм", "політична ідеологія", "українська думка"] },
+  desc: {
+    en: "A foundational political work outlining the principles of Ukrainian nationalism and examining its philosophical and ideological basis.",
+    uk: "Ключова політично-ідеологічна праця, що викладає засади українського націоналізму та аналізує його філософське й ідеологічне підґрунтя."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/8b028b544a.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "The Unconquered Commander", uk: "Нескорений командир" },
+  author: "Mykola Posivnych / Микола Посівнич",
+  year: "2008",
+  tags: { en: ["Roman Shukhevych", "OUN-UIA", "biography"], uk: ["Роман Шухевич", "ОУН-УПА", "біографія"] },
+  desc: {
+    en: "A biographical study dedicated to Roman Shukhevych, exploring his leadership, character, and role in the Ukrainian liberation movement.",
+    uk: "Біографічне дослідження, присвячене Роману Шухевичу, що розкриває його провідницькі якості, характер і роль у визвольному русі."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/237d7ebe31.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "With Ukraine in My Heart", uk: "З Україною у серці" },
+  author: "Halyna Kokhanska / Галина Коханська",
+  year: "2008",
+  tags: { en: ["memoires", "Ukrainian identity", "patriotism"], uk: ["спогади", "українська ідентичність", "патріотизм"] },
+  desc: {
+    en: "A memoir reflecting personal experiences and devotion to Ukraine, highlighting the emotional and cultural dimensions of national identity.",
+    uk: "Мемуарний твір, що передає особистий досвід і відданість Україні, висвітлюючи емоційний і культурний вимір національної ідентичності."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/09ed421010.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "And the Wounds Did Not Heal", uk: "А рани не гоїлися" },
+  author: "Yaroslav Hrytsai (“Chornota”), Paraskeviia Hrytsai / Ярослав Грицай («Чорнота»), Параскевія Грицай",
+  year: "2001",
+  tags: { en: ["memoires", "OUN-UIA", "war experiences"], uk: ["спогади", "ОУН-УПА", "досвід війни"] },
+  desc: {
+    en: "A memoir recounting the hardships and lasting consequences of the liberation struggle, reflecting on personal experiences and the enduring impact of war.",
+    uk: "Мемуарний твір, що відображає труднощі та тривалі наслідки визвольної боротьби, осмислюючи особистий досвід і незагойні рани війни."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/0c2b2f08a5.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "\"Hrim\": UIA Colonel Tverdokhlib", uk: "«Грім»: полковник УПА Твердохліб" },
+  author: "Roman Hrytskiv / Роман Грицьків",
+  year: "2008",
+  tags: { en: ["UIA", "biography", "Roman Tverdokhlib"], uk: ["УПА", "біографія", "Твердохліб"] },
+  desc: {
+    en: "A biographical work dedicated to UPA Colonel Tverdokhlib (“Hrim”), highlighting his leadership and role in the Ukrainian liberation struggle.",
+    uk: "Біографічна праця, присвячена полковнику УПА Твердохлібу («Грім»), що висвітлює його провідницьку діяльність і роль у визвольній боротьбі."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/88d1978115.html"
+});
+  // 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "The Life of Halyna Holoiad – Marta Hai", uk: "Життєвий шлях Галини Голояд – «Марти Гай»" },
+  author: "Oleksandr Ishchuk, Volodymyr Ivanchenko / Олександр Іщук, Володимир Іванченко",
+  year: "2010",
+  tags: { en: ["UIA", "biography", "women in resistance"], uk: ["УПА", "біографія", "жінки в боротьбі"] },
+  desc: {
+    en: "A biographical study tracing the life and activities of Halyna Holoiad (“Marta Hai”), highlighting her role and contribution to the Ukrainian liberation movement.",
+    uk: "Біографічне дослідження, що простежує життєвий шлях Галини Голояд («Марти Гай») та висвітлює її роль і внесок у визвольний рух."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/e9e4a2e6c5.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "The Life and Fate of Mykhailo Diachenko – Marko Boieslav", uk: "Життя та доля Михайла Дяченка – «Марка Боєслава»" },
+  author: "Oleksandr Ishchuk / Олександр Іщук",
+  year: "2010",
+  tags: { en: ["UIA", "biography", "Marko Boieslav"], uk: ["УПА", "біографія", "Марко Боєслав"] },
+  desc: {
+    en: "A biographical study exploring the life, творчість, and role of Mykhailo Diachenko (“Marko Boieslav”) in the Ukrainian liberation movement.",
+    uk: "Біографічне дослідження, що розкриває життєвий шлях, творчість і роль Михайла Дяченка («Марка Боєслава») у визвольному русі."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/26be33b1ae.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "A Flower in the Red Hell: The Life Path of Liudmyla Foia", uk: "Квітка у червоному пеклі: Життєвий шлях Людмили Фої" },
+  author: "Volodymyr Ivanchenko / Володимир Іванченко",
+  year: "2009",
+  tags: { en: ["UPA", "biography", "Soviet repression"], uk: ["УПА", "біографія", "радянські репресії"] },
+  desc: {
+    en: "A biographical study recounting the life of Liudmyla Foia, highlighting her experiences of resistance and survival under Soviet repression.",
+    uk: "Біографічне дослідження, що висвітлює життєвий шлях Людмили Фої, її досвід спротиву та виживання в умовах радянських репресій."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/3eba3cee01.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[1]
 library[1].books.push({
   title: { en: "The Fifth Great Assembly of the OUN", uk: "П'ятий Великий Збір ОУН" },
   author: "Library of the Ukrainian Underground Fighter Part 11 / Бібліотека Українського Підпільника ч. 11",
