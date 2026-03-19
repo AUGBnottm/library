@@ -1145,12 +1145,348 @@ library[1].books.push({
   title: { en: "A Flower in the Red Hell: The Life Path of Liudmyla Foia", uk: "Квітка у червоному пеклі: Життєвий шлях Людмили Фої" },
   author: "Volodymyr Ivanchenko / Володимир Іванченко",
   year: "2009",
-  tags: { en: ["UPA", "biography", "Soviet repression"], uk: ["УПА", "біографія", "радянські репресії"] },
+  tags: { en: ["UIA", "biography", "Soviet repression"], uk: ["УПА", "біографія", "радянські репресії"] },
   desc: {
     en: "A biographical study recounting the life of Liudmyla Foia, highlighting her experiences of resistance and survival under Soviet repression.",
     uk: "Біографічне дослідження, що висвітлює життєвий шлях Людмили Фої, її досвід спротиву та виживання в умовах радянських репресій."
   },
   iframeSrc: "https://heyzine.com/flip-book/3eba3cee01.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Petro Fedun – \"Poltava\": Leading Ideologist of the OUN and UIA", uk: "Петро Федун – «Полтава»: провідний ідеолог ОУН та УПА" },
+  author: "Mykhailo Romaniuk / Михайло Романюк",
+  year: "2009",
+  tags: { en: ["OUN-UIA", "biography", "ideology"], uk: ["ОУН-УПА", "біографія", "ідеологія"] },
+  desc: {
+    en: "A biographical study examining the life and intellectual legacy of Petro Fedun (“Poltava”), a leading ideologist of the Ukrainian liberation movement.",
+    uk: "Біографічне дослідження, присвячене життю та ідейній спадщині Петра Федуна («Полтави») як провідного ідеолога визвольного руху."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/5f3123898e.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "The Ukrainian Supreme Liberation Council", uk: "Українська Головна Визвольна Рада" },
+  author: "P. Y. Potichnyi / П. Й. Потічний",
+  year: "2009",
+  tags: { en: ["UHVR", "OUN-UIA", "liberation movement"], uk: ["УГВР", "ОУН-УПА", "визвольний рух"] },
+  desc: {
+    en: "A historical study exploring the creation, structure, and role of the Ukrainian Supreme Liberation Council as a coordinating body of the liberation movement.",
+    uk: "Історичне дослідження, що розкриває створення, структуру та роль Української Головної Визвольної Ради як координаційного органу визвольного руху."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/6a5fc881e8.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Kyrylo Osmak – The Unbowed President of the UHVR", uk: "Кирило Осьмак – нескорений Президент УГВР" },
+  author: "Natalka Osmak / Наталка Осьмак",
+  year: "2008",
+  tags: { en: ["Kyrylo Osmak", "UHVR", "biography"], uk: ["Кирило Осьмак", "УГВР", "біографія"] },
+  desc: {
+    en: "A biographical work dedicated to Kyrylo Osmak, highlighting his leadership as President of the UHVR and his steadfast role in the Ukrainian liberation movement.",
+    uk: "Біографічна праця, присвячена Кирилу Осьмаку, що висвітлює його діяльність як Президента УГВР та його незламну роль у визвольному русі."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/3a23066377.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Stepan Bandera – Life Dedicated to Freedom", uk: "Степан Бандера – життя, присвячене свободі" },
+  author: "Mykola Posivnych / Микола Посівнич",
+  year: "2008",
+  tags: { en: ["Stepan Bandera", "biography", "OUN"], uk: ["Степан Бандера", "біографія", "ОУН"] },
+  desc: {
+    en: "A biographical study exploring the life, діяльність, and legacy of Stepan Bandera as a central figure of the Ukrainian liberation movement.",
+    uk: "Біографічне дослідження, що розкриває життя, діяльність і спадщину Степана Бандери як ключової постаті визвольного руху."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/0d4bcf7120.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Activities of the OUN (b) and the UPA Underground in Volhynia and Southern Polissia", uk: "Діяльність ОУН (б) і запілля УПА на Волині й Південному Поліссі" },
+  author: "Volodymyr Kovalchuk / Володимир Ковальчук",
+  year: "2006",
+  tags: { en: ["OUN-UIA", "Volhynia", "underground"], uk: ["ОУН-УПА", "Волинь", "підпілля"] },
+  desc: {
+    en: "A historical study examining the activities of the OUN (b) and the UIA underground network in Volhynia and Southern Polissia during the liberation struggle.",
+    uk: "Історичне дослідження, присвячене діяльності ОУН (б) та запілля УПА на Волині й Південному Поліссі в період визвольної боротьби."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/71fad96e0f.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Insurgent Graves", uk: "Повстанські могили" },
+  author: "Yevhen Misilo / Євген Місило",
+  year: "1995",
+  tags: { en: ["UIA", "memory", "history"], uk: ["УПА", "пам’ять", "історія"] },
+  desc: {
+    en: "A historical and memorial work documenting the burial sites of Ukrainian insurgents and reflecting on the preservation of historical memory.",
+    uk: "Історико-меморіальне видання, що документує місця поховань українських повстанців і осмислює збереження історичної пам’яті."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/ff34f8c6a6.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Zakerzonnia: Memoirs of UPA Soldiers, Vol. 2", uk: "Закерзоння: спомини вояків УПА, Том 2" },
+  author: "Bohdan Huk / Богдан Гук",
+  year: "1996",
+  tags: { en: ["UIA", "memoires", "Zakerzonnia"], uk: ["УПА", "спогади", "Закерзоння"] },
+  desc: {
+    en: "A collection of memoirs by UPA soldiers recounting their experiences in Zakerzonnia, highlighting the hardships and realities of the post-war struggle.",
+    uk: "Збірка спогадів вояків УПА про їхній досвід у Закерзонні, що висвітлює труднощі та реалії післявоєнної боротьби."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/96b57881bb.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Training Course No. 1: Materials on the History of Socio-Political Thought in Ukraine (19th–20th Centuries)", uk: "Вишкільний курс ч. 1: Матеріали до історії розвитку суспільно-політичної думки в Україні ХІХ–ХХ ст." },
+  author: "Institute of Socio-Political Education / Інститут суспільно-політичної освіти",
+  year: "1975",
+  tags: { en: ["political thought", "Ukraine", "education"], uk: ["політична думка", "Україна", "освіта"] },
+  desc: {
+    en: "An educational compilation of materials tracing the development of socio-political thought in Ukraine across the 19th and 20th centuries.",
+    uk: "Навчальний збірник матеріалів, що висвітлює розвиток суспільно-політичної думки в Україні у ХІХ–ХХ століттях."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/aaa2127f80.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Reference Guide: Register of Persons Associated with the Liberation Struggle in the Drohobych Region 1939–1950 (Based on Archival Documents), Vol. 6", uk: "Довідник-пошуківець: Реєстр осіб, пов'язаних з визвольною боротьбою на теренах Дрогобиччини 1939–1950 (за архівними документами), Том 6" },
+  author: "Myroslav Horbal / Мирослав Горбаль",
+  year: "2005",
+  tags: { en: ["archive", "UШA", "Drohobych region"], uk: ["архів", "УПА", "Дрогобиччина"] },
+  desc: {
+    en: "An archival reference guide compiling records of individuals connected to the Ukrainian liberation movement in the Drohobych region between 1939 and 1950.",
+    uk: "Архівний довідник, що містить реєстр осіб, пов’язаних із українським визвольним рухом на теренах Дрогобиччини у 1939–1950 роках."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/812edc317c.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "\"The Sun Smiled at Us Through Rusty Bars\": Kateryna Zarytska in the Ukrainian National Liberation Movement", uk: "«Нам сонце всміхалось крізь ржавії ґрати»: Катерина Зарицька в українському національно-визвольному русі" },
+  author: "Lesia Onyshko / Леся Онишко",
+  year: "2007",
+  tags: { en: ["Kateryna Zarytska", "UPA", "biography"], uk: ["Катерина Зарицька", "УПА", "біографія"] },
+  desc: {
+    en: "A biographical study exploring the life and role of Kateryna Zarytska in the Ukrainian national liberation movement, highlighting her resilience and dedication.",
+    uk: "Біографічне дослідження, що висвітлює життєвий шлях і роль Катерини Зарицької в українському національно-визвольному русі, підкреслюючи її стійкість і відданість."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/cc107c1025.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "The Ukrainian Insurgent Army 1942–1952", uk: "Українська Повстанська Армія 1942–1952" },
+  author: "Petro Mirchuk / Петро Мірчук",
+  year: "1953",
+  tags: { en: ["UIA", "history", "liberation struggle"], uk: ["УПА", "історія", "визвольна боротьба"] },
+  desc: {
+    en: "A comprehensive historical study of the Ukrainian Insurgent Army, covering its formation, activities, and role in the liberation struggle between 1942 and 1952.",
+    uk: "Комплексне історичне дослідження Української Повстанської Армії, що охоплює її формування, діяльність та роль у визвольній боротьбі в 1942–1952 роках."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/e37e42cd19.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Soldiers to Soldiers", uk: "Вояки воякам" },
+  author: "Association of Former Ukrainian Soldiers in Great Britain / Об'єднання бувших вояків українців у Великій Британії",
+  year: "1992",
+  tags: { en: ["veterans", "memoirs", "Ukrainian diaspora"], uk: ["ветерани", "спогади", "українська діаспора"] },
+  desc: {
+    en: "A collection reflecting the experiences, solidarity, and shared memory of Ukrainian veterans, highlighting their bonds and post-war community life.",
+    uk: "Збірник, що відображає досвід, солідарність і спільну пам’ять українських ветеранів, висвітлюючи їхні зв’язки та повоєнне життя в діаспорі."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/e3e979b726.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Word and Weapon", uk: "Слово і зброя" },
+  author: "Leonid Poltava / Леонід Полтава",
+  year: "1968",
+  tags: { en: ["literature", "UIA", "national struggle"], uk: ["література", "УПА", "визвольна боротьба"] },
+  desc: {
+    en: "A literary and publicistic work combining artistic expression and national thought, reflecting the spirit of struggle and resistance.",
+    uk: "Літературно-публіцистичний твір, що поєднує художнє слово й національну думку, відображаючи дух боротьби та спротиву."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/194abcdfe9.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Positions of the Ukrainian Liberation Movement", uk: "Позиції Українського визвольного руху" },
+  author: "Materials from Native Lands on the Struggle for the Ukrainian State / Матеріяли з рідних земель до питань боротьби за Українську державу",
+  year: "1948",
+  tags: { en: ["OUN-UPA", "political documents", "statehood"], uk: ["ОУН-УПА", "політичні документи", "державність"] },
+  desc: {
+    en: "A collection of documents outlining the positions and strategic views of the Ukrainian liberation movement in its struggle for an independent state.",
+    uk: "Збірник документів, що відображає позиції та стратегічні погляди Українського визвольного руху в боротьбі за незалежну державу."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/36ee28f698.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Bereza Kartuzka: Memoirs", uk: "Береза Картузька: Спомини" },
+  author: "V. Makar / В. Макар",
+  year: "1956",
+  tags: { en: ["memoires", "repression", "history"], uk: ["спогади", "репресії", "історія"] },
+  desc: {
+    en: "A memoire recounting the experiences of imprisonment in the Bereza Kartuzka detention camp, shedding light on political repression and personal endurance.",
+    uk: "Мемуарний твір про досвід ув’язнення в таборі Береза Картузька, що висвітлює політичні репресії та особисту витривалість."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/c20ca7fee7.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Camp Triptych", uk: "Лаґерний триптих" },
+  author: "Oleh Pushkar / Олег Пушкар",
+  year: "1994",
+  tags: { en: ["memoires", "repression", "Soviet camps"], uk: ["спогади", "репресії", "радянські табори"] },
+  desc: {
+    en: "A literary and memoir-based work reflecting on life in Soviet labour camps, portraying suffering, resilience, and the struggle for dignity.",
+    uk: "Літературно-мемуарний твір про життя в радянських таборах, що передає страждання, стійкість і боротьбу за людську гідність."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/f488a46ebc.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "In the German Mills of Death", uk: "В німецьких млинах смерти" },
+  author: "Dr. P. Mirchuk / Др. П. Мірчук",
+  year: "1957",
+  tags: { en: ["memoires", "World War II", "Nazi camps"], uk: ["спогади", "Друга світова війна", "нацистські табори"] },
+  desc: {
+    en: "A memoir depicting the author’s experiences in Nazi concentration camps, revealing the brutality of the regime and the struggle for survival.",
+    uk: "Мемуарний твір про перебування автора в нацистських концтаборах, що розкриває жорстокість режиму та боротьбу за виживання."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/d9b6903a7a.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "On the Blood-Stained Land", uk: "На скривавленій землі" },
+  author: "Petro Kisko / Петро Кіско",
+  year: "1952",
+  tags: { en: ["memoires", "UIA", "war"], uk: ["спогади", "УПА", "війна"] },
+  desc: {
+    en: "A memoir reflecting on the трагічні події війни та визвольної боротьби, передаючи досвід втрат, боротьби та виживання.",
+    uk: "Мемуарний твір, що відображає трагічні події війни та визвольної боротьби, передаючи досвід втрат, боротьби й виживання."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/df9dfd4792.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "From the Times of Yezhovshchyna", uk: "З часів Єжовщини" },
+  author: "Olha Mak / Ольга Мак",
+  year: "1954",
+  tags: { en: ["repression", "Soviet terror", "memoirs"], uk: ["репресії", "радянський терор", "спогади"] },
+  desc: {
+    en: "A memoir-based work depicting the period of Stalinist terror known as Yezhovshchyna, revealing the realities of repression and human suffering.",
+    uk: "Мемуарний твір про період сталінського терору — Єжовщину, що розкриває реалії репресій і людських страждань."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/fc4fa3cc42.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Enemy of the People, Vol. 1: Against the Current", uk: "Ворог народу, Том 1: Проти течії" },
+  author: "Olena Zvychaina, Mykhailo Mlakovyi / Олена Звичайна, Михайло Млаковий",
+  year: "1966",
+  tags: { en: ["repression", "Soviet regime", "memoirs"], uk: ["репресії", "радянський режим", "спогади"] },
+  desc: {
+    en: "A literary and memoir-based work portraying the fate of individuals persecuted as “enemies of the people,” highlighting resistance and moral strength against the system.",
+    uk: "Літературно-мемуарний твір про долю людей, переслідуваних як «вороги народу», що висвітлює спротив і моральну стійкість перед системою."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/344cc4ef9a.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Enemy of the People, Vol. 2: Planet of Slaves", uk: "Ворог народу, Том 2: Плянета рабів" },
+  author: "Olena Zvychaina, Mykhailo Mlakovyi / Олена Звичайна, Михайло Млаковий",
+  year: "1967",
+  tags: { en: ["repression", "Soviet regime", "memoirs"], uk: ["репресії", "радянський режим", "спогади"] },
+  desc: {
+    en: "A continuation of the memoir narrative depicting life under totalitarian rule, exposing systemic oppression and the dehumanising realities of the Soviet regime.",
+    uk: "Продовження мемуарної оповіді про життя в умовах тоталітарного режиму, що викриває системне пригнічення та дегуманізуючі реалії радянської влади."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/6ad3138c9c.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "The Fourth Dimension", uk: "Четвертий вимір" },
+  author: "Avraam Shifrin / Авраам Шифрін",
+  year: "1973",
+  tags: { en: ["Gulag", "memoirs", "Soviet camps"], uk: ["ГУЛАГ", "спогади", "радянські табори"] },
+  desc: {
+    en: "A memoir exposing the hidden realities of the Soviet Gulag system, revealing the mechanisms of repression and the psychological endurance of prisoners.",
+    uk: "Мемуарний твір, що викриває приховану реальність радянської системи ГУЛАГу, розкриваючи механізми репресій і психологічну витривалість в’язнів."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/b9ff0f0ad0.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Cold Ravine", uk: "Холодний Яр" },
+  author: "Yurii Horlis-Horskyi / Юрій Горліс-Горський",
+  year: "",
+  tags: { en: ["Cold Ravine", "Ukrainian insurgents", "memoirs"], uk: ["Холодний Яр", "повстанці", "спогади"] },
+  desc: {
+    en: "A memoir-based narrative depicting the struggle of Ukrainian insurgents in the Cold Ravine region, highlighting resistance against occupying forces.",
+    uk: "Мемуарно-художній твір про боротьбу українських повстанців у Холодному Яру, що відображає спротив окупаційним силам."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/14741dbd48.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "The Everyday Life of Our Era, Vol. I", uk: "Будні нашої епохи, Том I" },
+  author: "Lev T. Orlyhora / Лев Т. Орлигора",
+  year: "1953",
+  tags: { en: ["memoires", "history", "Ukrainian experience"], uk: ["спогади", "історія", "український досвід"] },
+  desc: {
+    en: "A memoir reflecting on the realities of the era, capturing personal experiences and the broader historical context of turbulent times.",
+    uk: "Мемуарний твір, що відображає реалії епохи, передаючи особистий досвід і ширший історичний контекст буремного часу."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/f076baa16c.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "The Everyday Life of Our Era, Vol. II", uk: "Будні нашої епохи, Том II" },
+  author: "Lev T. Orlyhora / Лев Т. Орлигора",
+  year: "1953",
+  tags: { en: ["memoirs", "history", "Ukrainian experience"], uk: ["спогади", "історія", "український досвід"] },
+  desc: {
+    en: "A continuation of the memoir reflecting on the realities of the era, offering further insight into personal experiences and historical circumstances.",
+    uk: "Продовження мемуарного твору про реалії епохи, що дає глибше розуміння особистого досвіду та історичних обставин."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/6517acbdc1.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Mosaic of My Memories", uk: "Мозаїка моїх споминів" },
+  author: "Col. Yevhen Pobihushchyi-Ren / Полк. Євген Побігушний-Рен",
+  year: "1972",
+  tags: { en: ["memoirs", "UPA", "military history"], uk: ["спогади", "УПА", "військова історія"] },
+  desc: {
+    en: "A memoir offering a multifaceted account of the author’s life and military experiences, reflecting on key moments of the Ukrainian liberation struggle.",
+    uk: "Мемуарний твір, що подає багатогранний опис життя та військового досвіду автора, осмислюючи ключові моменти визвольної боротьби."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/d9fbb5ebc3.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "On the Centenary of the Birth of Symon Petliura, President of the UNR", uk: "У століття народження сл. п. Симона Петлюри, Президента УНР" },
+  author: "Mykola Stepanenko / Микола Степаненко",
+  year: "1967",
+  tags: { en: ["Symon Petliura", "UNR", "history"], uk: ["Симон Петлюра", "УНР", "історія"] },
+  desc: {
+    en: "A commemorative and historical work dedicated to Symon Petliura, reflecting on his life, leadership, and role in the struggle for Ukrainian statehood.",
+    uk: "Пам’ятне історичне видання, присвячене Симону Петлюрі, що висвітлює його життя, провідницьку діяльність і роль у боротьбі за українську державність."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/7eec56a87b.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Fearless Viter and Dym", uk: "Безстрашні Вітер і Дим" },
+  author: "Stepan Liubomyrskyi / Степан Любомирський",
+  year: "1990",
+  tags: { en: ["memoirs", "UIA", "resistance"], uk: ["спогади", "УПА", "спротив"] },
+  desc: {
+    en: "A literary and memoir-based work reflecting the courage and endurance of participants in the Ukrainian liberation struggle.",
+    uk: "Літературно-мемуарний твір, що відображає мужність і витривалість учасників української визвольної боротьби."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/4ca340dd7d.html"
 });
 // 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[1]
 library[1].books.push({
