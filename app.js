@@ -1560,6 +1560,354 @@ library[1].books.push({
   },
   iframeSrc: "https://heyzine.com/flip-book/1ce54aa974.html"
 });
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Notebook of Short Stories, Vol. 1", uk: "Нотатник новелі, Том 1" },
+  author: "Yurii Lypa / Юрій Липа",
+  year: "1955",
+  tags: { en: ["novellas", "Ukrainian literature", "prose"], uk: ["новели", "українська література", "проза"] },
+  desc: {
+    en: "A collection of short literary works by Yurii Lypa exploring human character, historical experience, and national consciousness.",
+    uk: "Збірка новел Юрія Липи, що осмислює людський характер, історичний досвід і національну свідомість."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/d4b4f5bb4a.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Mykhailyk", uk: "Михайлик" },
+  author: "Mariia Dmytrenko / Марія Дмитренко",
+  year: "1960",
+  tags: { en: ["UIA", "children in resistance", "liberation struggle"], uk: ["УПА", "діти в боротьбі", "визвольна боротьба"] },
+  desc: {
+    en: "A story about the Ukrainian Insurgent Army told through the fate of thirteen-year-old village boy Mykhailyk, who becomes a brave scout and helps the underground resistance together with his loyal dog Brovko.",
+    uk: "Оповідання про визвольну боротьбу УПА, розказане через долю тринадцятирічного сільського хлопця Михайлика, який стає відважним розвідником і разом зі своїм вірним псом Бровком допомагає повстанцям."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/cee8c96797.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "The Ukrainian Division \"Galicia\"", uk: "Українська Дивізія «Галичина»" },
+  author: "Mykhailo Slaboshpytskyi / Михайло Слабошпицький",
+  year: "2008",
+  tags: { en: ["Division Galicia", "World War II", "military history"], uk: ["Дивізія Галичина", "Друга світова війна", "військова історія"] },
+  desc: {
+    en: "A historical work examining the formation, wartime path, and later fate of the Ukrainian Division “Galicia” within the broader context of World War II and Ukrainian political history.",
+    uk: "Історична праця, що розглядає створення, воєнний шлях і подальшу долю Української Дивізії «Галичина» в ширшому контексті Другої світової війни та української політичної історії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/56b9d61b97.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Bellaria – Rimini – England", uk: "Белярія – Ріміні – Англія" },
+  author: "Yevstakhii Zahachevskyi / Євстахій Загачевський",
+  year: "1968",
+  tags: { en: ["Division Galicia", "Rimini", "Ukrainian veterans"], uk: ["Дивізія Галичина", "Ріміні", "українські ветерани"] },
+  desc: {
+    en: "A reportage-memoir tracing the post-war fate of Ukrainian Division soldiers from Italy to England, depicting camp life, uncertainty, and resistance to forced repatriation.",
+    uk: "Репортаж-спогад про повоєнну долю вояків Української Дивізії від Італії до Англії, що висвітлює таборове життя, невизначеність і спротив примусовій репатріації."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/b941929c3b.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Notes of a Prisoner", uk: "Записки полоненого" },
+  author: "Oleksa Kobets / Олекса Кобець",
+  year: "1959",
+  tags: { en: ["World War I", "memoirs", "war captivity"], uk: ["Перша світова війна", "спогади", "полон"] },
+  desc: {
+    en: "A memoir and historical testimony based on the author’s experiences during the First World War, depicting military life, captivity, and the human cost of war.",
+    uk: "Мемуарно-історичне свідчення, засноване на досвіді автора під час Першої світової війни, що змальовує військове життя, полон і людську ціну війни."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/48705c00ca.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "For Freedom and the State", uk: "За волю і державу" },
+  author: "Semen Levchenko / Семен Левченко",
+  year: "1966",
+  tags: { en: ["Ukrainian Army", "First Winter Campaign", "liberation struggle"], uk: ["Українська Армія", "Перший Зимовий похід", "визвольні змагання"] },
+  desc: {
+    en: "A historical memoir-narrative about the Ukrainian liberation struggle of 1918–1920, depicting the experience of the Ukrainian Army and the dramatic events of the First Winter Campaign.",
+    uk: "Історико-мемуарна повість про визвольні змагання українського народу 1918–1920 років, що висвітлює досвід Української Армії та драматичні події Першого Зимового походу."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/60b3c6db6c.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "My Memoirs of the Recent Past", uk: "Мої спомини про недавнє минуле" },
+  author: "Dmytro Doroshenko / Дмитро Дорошенко",
+  year: "1969",
+  tags: { en: ["Ukrainian Revolution", "memoirs", "statehood"], uk: ["Українська революція", "спогади", "державність"] },
+  desc: {
+    en: "A major memoir by historian and statesman Dmytro Doroshenko covering the dramatic years 1914–1920, offering a first-hand view of war, revolution, and the struggle for Ukrainian statehood.",
+    uk: "Важливі спогади історика й державного діяча Дмитра Дорошенка про драматичні 1914–1920 роки, що подають безпосередній погляд на війну, революцію та боротьбу за українську державність."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/7f981bf6b1.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "East–West Relations and the Problems of Nations Subjugated by Moscow", uk: "Відносини Захід-Схід і проблеми поневолених Москвою націй" },
+  author: "Mykola Livytskyi / Микола Лівицький",
+  year: "1975",
+  tags: { en: ["Cold War", "captive nations", "political analysis"], uk: ["холодна війна", "поневолені нації", "політичний аналіз"] },
+  desc: {
+    en: "A political study analysing East–West relations during the Cold War and arguing for the international significance of nations subjugated by Moscow in the struggle against Soviet imperial domination.",
+    uk: "Політичне дослідження, що аналізує відносини Заходу і Сходу в добу холодної війни та підкреслює міжнародне значення поневолених Москвою націй у боротьбі проти радянського імперського панування."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/8aee2877dd.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "At the Crossroads: To the History of One Generation", uk: "На розпуттях: до історії одного покоління" },
+  author: "Vasyl Harba / Василь Гарба",
+  year: "1976",
+  tags: { en: ["memoirs", "Ukrainian generation", "diaspora"], uk: ["спогади", "українське покоління", "діаспора"] },
+  desc: {
+    en: "A memoir-trilogy tracing the fate of one Ukrainian generation through education, social upheaval, historical change, and the search for a national path in the twentieth century.",
+    uk: "Мемуарна трилогія про долю одного українського покоління, що проходить через освіту, суспільні злами, історичні зміни та пошук національного шляху у ХХ столітті."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/55c8043786.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "In the Claws of the Double-Headed Eagle", uk: "В кігтях двоголового орла" },
+  author: "Oleksandr Luhovyi / Олександр Луговий",
+  year: "1955",
+  tags: { en: ["World War I", "historical fiction", "Ukraine"], uk: ["Перша світова війна", "історична проза", "Україна"] },
+  desc: {
+    en: "A historical chronicle-novel set during the First World War, portraying Ukraine in 1914–1917 through the turmoil of empire, military conflict, and the human experience of war.",
+    uk: "Історична повість-хроніка з часів Першої світової війни, що змальовує Україну 1914–1917 років крізь призму імперської влади, воєнних потрясінь і людського досвіду війни."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/a0fce30a20.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "The Campaign of the Ukrainian Armies toward Kyiv and Odesa in 1919", uk: "Похід Українських Армій на Київ–Одесу в 1919 році" },
+  author: "Mykola Kapustianskyi / Микола Капустянський",
+  year: "1946",
+  tags: { en: ["Ukrainian Army", "UNR", "military history"], uk: ["Українська Армія", "УНР", "військова історія"] },
+  desc: {
+    en: "A concise military-historical study of the 1919 campaign of the Ukrainian armies toward Kyiv and Odesa, analysing operations, strategic decisions, and the struggle for Ukrainian statehood.",
+    uk: "Короткий воєнно-історичний огляд походу Українських Армій на Київ–Одесу в 1919 році, що аналізує бойові операції, стратегічні рішення та боротьбу за українську державність."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/899d2fb498.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "In the Kherson Steppes", uk: "В Херсонських степах" },
+  author: "Yurko Stepovyi / Юрко Степовий",
+  year: "1947",
+  tags: { en: ["Kost Blakytnyi", "insurgents", "historical fiction"], uk: ["Кость Блакитний", "повстанці", "історична проза"] },
+  desc: {
+    en: "A documentary-style historical novella about the insurgent struggle in the Kherson steppes under Kost Blakytnyi, portraying anti-Bolshevik resistance, underground life, and the dramatic atmosphere of the post-revolutionary years.",
+    uk: "Документально-історична повість про повстанську боротьбу в херсонських степах під проводом Костя Блакитного, що змальовує антибільшовицький спротив, підпільне життя та драматичну атмосферу післяреволюційних років."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/37350ee9bb.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Vira the Liaison", uk: "Зв’язкова Віра" },
+  author: "Yurko Stepovyi / Юрко Степовий",
+  year: "1948",
+  tags: { en: ["Vira Babenko", "insurgent movement", "historical novella"], uk: ["Віра Бабенко", "повстанський рух", "історична повість"] },
+  desc: {
+    en: "A documentary-style historical novella about Vira Babenko, a liaison for Ukrainian insurgents in 1917–1918, portraying courage, underground commitment, and the turbulent atmosphere of the national struggle.",
+    uk: "Документально-історична повість про Віру Бабенко, зв’язкову українських повстанців у 1917–1918 роках, що змальовує мужність, підпільну відданість і буремну атмосферу національної боротьби."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/1a7021f458.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Victory, Part 1: A Novella of the Liberation War", uk: "Перемога, ч. 1: Повість з визвольної війни" },
+  author: "Volodymyr Lopushanskyi / Володимир Лопушанський",
+  year: "1954",
+  tags: { en: ["liberation war", "historical fiction", "Ukrainian struggle"], uk: ["визвольна війна", "історична проза", "українська боротьба"] },
+  desc: {
+    en: "A historical novella about the Ukrainian liberation war, portraying the dramatic struggle for freedom through the experiences, choices, and endurance of people caught in a time of national upheaval.",
+    uk: "Історична повість про українську визвольну війну, що передає драматизм боротьби за свободу через досвід, вибір і витривалість людей у час національних потрясінь."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/ca980d2174.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Victory, Part 2: A Novella of the Liberation War", uk: "Перемога, ч. 2: Повість з визвольної війни" },
+  author: "Volodymyr Lopushanskyi / Володимир Лопушанський",
+  year: "1954",
+  tags: { en: ["liberation war", "historical fiction", "Ukrainian struggle"], uk: ["визвольна війна", "історична проза", "українська боротьба"] },
+  desc: {
+    en: "The second part of a historical novella about the Ukrainian liberation war, continuing the portrayal of armed struggle, personal sacrifice, and the pursuit of national freedom.",
+    uk: "Друга частина історичної повісті про українську визвольну війну, що продовжує оповідь про збройну боротьбу, особисту жертовність і прагнення національної свободи."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/fed4f70313.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "In the Claws of Tyrants", uk: "У кігтях тиранів" },
+  author: "Mykola Serhiienko / Микола Сергієнко",
+  year: "1953",
+  tags: { en: ["memoirs", "Red Army", "totalitarianism"], uk: ["спогади", "Червона армія", "тоталітаризм"] },
+  desc: {
+    en: "A memoir by a Ukrainian Red Army soldier depicting personal experience under the pressures of war and totalitarian power, revealing the human cost of life caught between violent regimes.",
+    uk: "Спогади українця-червоноармійця, що передають особистий досвід людини під тиском війни й тоталітарної влади, розкриваючи людську ціну життя між жорстокими режимами."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/12d1024af5.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "By the Riflemen’s Code", uk: "За стрілецький звичай" },
+  author: "Oleh Lysiak / Олег Лисяк",
+  year: "1953",
+  tags: { en: ["Division Galicia", "historical novel", "comradeship"], uk: ["Дивізія Галичина", "історичний роман", "побратимство"] },
+  desc: {
+    en: "A historical novel about the soldiers of the Ukrainian Division “Galicia”, portraying comradeship, military duty, and the personal choices of Ukrainians caught in the upheavals of the Second World War.",
+    uk: "Історичний роман про вояків Української Дивізії «Галичина», що змальовує побратимство, військовий обов’язок і особистий вибір українців у вирі Другої світової війни."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/750096d627.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "The Crime", uk: "Злочин" },
+  author: "Petro Kardash / Петро Кардаш",
+  year: "2003",
+  tags: { en: ["Soviet crimes", "genocide", "historical memory"], uk: ["радянські злочини", "геноцид", "історична пам’ять"] },
+  desc: {
+    en: "A documentary and memorial collection exposing the mass crimes of the communist Bolshevik regime against Ukrainians in the twentieth century, preserving testimonies of repression, famine, and national suffering.",
+    uk: "Документально-меморіальне видання про масові злочини комуністично-більшовицької влади проти українців у ХХ столітті, що зберігає свідчення репресій, голодоморів і національних страждань."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/7d641465a8.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Yarema in the Yoke of Communism: On the Centenary of Taras Shevchenko’s Death", uk: "Ярема в ярмі комунізму: до сотих роковин з дня смерти Тараса Шевченка" },
+  author: "P. Speka (Pamfil Ses) / П. Спека (Памфіл Сесь)",
+  year: "1961",
+  tags: { en: ["Taras Shevchenko", "literary criticism", "anti-communism"], uk: ["Тарас Шевченко", "літературознавство", "антикомунізм"] },
+  desc: {
+    en: "A literary and political reflection on Shevchenko’s image of Yarema, written for the centenary of the poet’s death and aimed at opposing communist interpretations of Ukrainian national literature.",
+    uk: "Літературно-політична розвідка про образ Яреми у Шевченковій спадщині, написана до сотих роковин смерті поета та спрямована проти комуністичного трактування української національної літератури."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/8bf2508da8.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "The Corps of Sich Riflemen: A Military-Historical Essay", uk: "Корпус Січових Стрільців: воєнно-історичний нарис" },
+  author: "Vasyl Kuchabskyi / Василь Кучабський",
+  year: "1969",
+  tags: { en: ["Sich Riflemen", "Ukrainian Army", "military history"], uk: ["Січові Стрільці", "Українська Армія", "військова історія"] },
+  desc: {
+    en: "A substantial military-historical study of the Corps of Sich Riflemen, combining memoirs, documents, and analytical material to trace the formation’s origins, campaigns, and role in the struggle for Ukrainian statehood.",
+    uk: "Ґрунтовний воєнно-історичний нарис про Корпус Січових Стрільців, що поєднує спогади, документи й аналітичні матеріали для висвітлення витоків, бойового шляху та ролі формації в боротьбі за українську державність."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/147d382510.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "The Path Travelled: Memoirs, Vol. 1 — From the Bystrytsia to the Buh (1911–1929)", uk: "Пройдений шлях: Спомини, Том 1 — Від Бистриці до Бугу (1911–1929)" },
+  author: "Volodymyr Makar / Володимир Макар",
+  year: "1983",
+  tags: { en: ["memoirs", "Galicia", "Ukrainian history"], uk: ["спогади", "Галичина", "історія України"] },
+  desc: {
+    en: "The first volume of Volodymyr Makar’s memoirs, tracing his early life from Galicia to the Buh region between 1911 and 1929 against the backdrop of Ukrainian social, cultural, and national awakening.",
+    uk: "Перший том спогадів Володимира Макара, що простежує його ранній життєвий шлях від Галичини до Надбужжя у 1911–1929 роках на тлі українського суспільного, культурного й національного пробудження."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/8f57d22507.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "The Ukrainian Army in the Struggle for Statehood", uk: "Українська армія в боротьбі за державність" },
+  author: "Lev Shankovskyi / Лев Шанковський",
+  year: "1958",
+  tags: { en: ["Ukrainian Army", "statehood", "military history"], uk: ["Українська Армія", "державність", "військова історія"] },
+  desc: {
+    en: "A military-historical study of the Ukrainian Army’s role in the struggle for statehood, tracing the development of Ukrainian armed formations, strategic challenges, and the connection between military organisation and national independence.",
+    uk: "Воєнно-історичне дослідження ролі Української Армії в боротьбі за державність, що простежує розвиток українських військових формацій, стратегічні виклики та зв’язок між військовою організацією і національною незалежністю."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/8d0e92f10e.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "With the Best", uk: "З найкращими" },
+  author: "Yurii Borets / Юрій Борець",
+  year: "1986",
+  tags: { en: ["UIA", "memoirs", "Ukrainian diaspora"], uk: ["УПА", "спогади", "українська діаспора"] },
+  desc: {
+    en: "A memoir by UIA veteran Yurii Borets-Chumak, recounting the struggle of Ukrainian insurgents and the post-war fate of former fighters within the wider Ukrainian diaspora.",
+    uk: "Спогади ветерана УПА Юрія Борця-Чумака про боротьбу українських повстанців і повоєнну долю колишніх вояків у ширшому середовищі української діаспори."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/f5015bfb3e.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Insurgent Sketches", uk: "Повстанські нариси" },
+  author: "Yevhen Dmytryk (Zinovii Matla) / Євген Дмитрик (Зіновій Матла)",
+  year: "1951",
+  tags: { en: ["UPA", "literary sketches", "insurgent prose"], uk: ["УПА", "літературні нариси", "повстанська проза"] },
+  desc: {
+    en: "A collection of literary sketches about the Ukrainian insurgent struggle, portraying the lives, courage, and moral world of fighters in the underground resistance.",
+    uk: "Збірка літературних нарисів про українську повстанську боротьбу, що змальовує життя, мужність і моральний світ учасників підпільного спротиву."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/4269c066a4.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "The Homeland, Emigration, and International Behind-the-Scenes Politics", uk: "Край, еміграція і міжнародні закуліси" },
+  author: "Anatol Kaminskyi / Анатоль Камінський",
+  year: "1982",
+  tags: { en: ["Ukrainian diaspora", "political analysis", "OUN"], uk: ["українська діаспора", "політичний аналіз", "ОУН"] },
+  desc: {
+    en: "A political and analytical work examining the relationship between Ukraine, the émigré community, and international power politics in the context of the Ukrainian liberation movement.",
+    uk: "Політико-аналітична праця, що розглядає взаємозв’язок між Україною, еміграційним середовищем і міжнародними політичними закулісами в контексті українського визвольного руху."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/04f2fc32d7.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Fearless: Wind and Smoke", uk: "Безстрашні. Вітер і дим" },
+  author: "Stepan Liubomyrskyi (Liubomyr Rykhtytskyi) / Степан Любомирський (Любомир Рихтицький)",
+  year: "1990",
+  tags: { en: ["historical essay", "UIA", "resistance"], uk: ["історичний нарис", "УПА", "спротив"] },
+  desc: {
+    en: "A historical essay portraying the courage and endurance of Ukrainians involved in the armed and underground resistance, preserving the atmosphere of struggle through vivid documentary-literary sketches.",
+    uk: "Історичний нарис про мужність і витривалість українців у збройному та підпільному спротиві, що передає атмосферу боротьби через виразні документально-літературні замальовки."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/4ca340dd7d.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "Fearless: Wind and Smoke", uk: "Безстрашні. Вітер і дим" },
+  author: "Stepan Liubomyrskyi (Liubomyr Rykhtytskyi) / Степан Любомирський (Любомир Рихтицький)",
+  year: "1990",
+  tags: { en: ["historical essay", "UIA", "resistance"], uk: ["історичний нарис", "УПА", "спротив"] },
+  desc: {
+    en: "A historical essay portraying the courage and endurance of Ukrainians involved in the armed and underground resistance, preserving the atmosphere of struggle through vivid documentary-literary sketches.",
+    uk: "Історичний нарис про мужність і витривалість українців у збройному та підпільному спротиві, що передає атмосферу боротьби через виразні документально-літературні замальовки."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/4ca340dd7d.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "I Shall Never Forget", uk: "Ніколи не забуду" },
+  author: "Stepan Liubomyrskyi (Liubomyr Rykhtytskyi) / Степан Любомирський (Любомир Рихтицький)",
+  year: "1984",
+  tags: { en: ["UIA", "World War II", "historical novel"], uk: ["УПА", "Друга світова війна", "історичний роман"] },
+  desc: {
+    en: "A historical novel about a Canadian airman of Ukrainian origin whose wartime mission in Ukraine, encounters with the UIA, and witness to NKVD crimes transform his understanding of loyalty, freedom, and national struggle.",
+    uk: "Історичний роман про канадського льотчика українського походження, чия воєнна місія в Україні, зустріч з УПА та зіткнення зі злочинами НКВД змінюють його розуміння вірності, свободи й національної боротьби."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/2b68a08e73.html"
+});
+// 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
+library[1].books.push({
+  title: { en: "The Last Days of the Sturmführer: In His Name", uk: "Останні дні штурмфюрера: Його ім’ям" },
+  author: "M. Yanishevskyi, K. Yavorskyi / М. Янішевський, К. Яворський",
+  year: "1948",
+  tags: { en: ["World War II", "cinema-novel", "Ukrainian diaspora literature"], uk: ["Друга світова війна", "кіно-роман", "діаспорна література"] },
+  desc: {
+    en: "A Ukrainian diaspora cinema-novel set against the backdrop of the Second World War, combining dramatic and adventure elements to portray the collapse of the Nazi world and the human choices made in its shadow.",
+    uk: "Український діаспорний кіно-роман на тлі Другої світової війни, що поєднує драматичні й пригодницькі елементи та змальовує крах нацистського світу й людський вибір у його тіні."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/3c220ed7c8.html"
+});
   // OPTIONAL: demo example (remove if you want)
   // library[0].books[0] = {
   //   title: { en: "Chronicle of UPA, Vol. 1", uk: "Літопис Української Повстанської Армії, Том 1" },
