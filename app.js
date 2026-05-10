@@ -1908,6 +1908,426 @@ library[1].books.push({
   },
   iframeSrc: "https://heyzine.com/flip-book/3c220ed7c8.html"
 });
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Following the Testament, Part 1: Bury and Rise!", uk: "Слідами заповіту, ч. 1: Поховайте та вставайте!" },
+  author: "Stepan Liubomyrskyi (Liubomyr Rykhtytskyi) / Степан Любомирський (Любомир Рихтицький)",
+  year: "1985",
+  tags: { en: ["political novel", "Shevchenko", "national struggle"], uk: ["політичний роман", "Шевченко", "національна боротьба"] },
+  desc: {
+    en: "The first part of Stepan Liubomyrskyi’s political vision-novel trilogy, inspired by Shevchenko’s testament and reflecting on national awakening, historical memory, and the call to renewed struggle.",
+    uk: "Перша частина політичного роману-візії Степана Любомирського, натхнена Шевченковим заповітом і присвячена національному пробудженню, історичній пам’яті та заклику до оновленої боротьби."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/02018f807b.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Following the Testament, Part 2: Break the Chains!", uk: "Слідами заповіту, ч. 2: Кайдани порвіте!" },
+  author: "Stepan Liubomyrskyi (Liubomyr Rykhtytskyi) / Степан Любомирський (Любомир Рихтицький)",
+  year: "1985",
+  tags: { en: ["political novel", "Shevchenko", "national awakening"], uk: ["політичний роман", "Шевченко", "національне пробудження"] },
+  desc: {
+    en: "The second part of the political vision-novel trilogy inspired by Shevchenko’s testament, continuing its reflection on national bondage, resistance, and the moral call to break imperial chains.",
+    uk: "Друга частина політичного роману-візії, натхненного Шевченковим заповітом, що продовжує осмислення національної неволі, спротиву та морального заклику розірвати імперські кайдани."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/6f2bda0288.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Following the Testament, Part 3: And with Evil Enemy Blood Sprinkle Freedom!", uk: "Слідами заповіту, ч. 3: І вражою злою кров’ю волю окропіте!" },
+  author: "Stepan Liubomyrskyi (Liubomyr Rykhtytskyi) / Степан Любомирський (Любомир Рихтицький)",
+  year: "1986",
+  tags: { en: ["political novel", "Shevchenko", "liberation struggle"], uk: ["політичний роман", "Шевченко", "визвольна боротьба"] },
+  desc: {
+    en: "The third part of the political vision-novel trilogy inspired by Shevchenko’s testament, bringing its themes of national awakening, sacrifice, and resistance to an uncompromising conclusion.",
+    uk: "Третя частина політичного роману-візії, натхненного Шевченковим заповітом, що доводить теми національного пробудження, жертовності та спротиву до безкомпромісного завершення."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/423c943a76.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Encyclopedia of Ukrainian Studies, Vol. 1", uk: "Енциклопедія українознавства, Том 1" },
+  author: "Shevchenko Scientific Society; ed. Volodymyr Kubiiovych / Наукове товариство ім. Шевченка; ред. Володимир Кубійович",
+  year: "1955",
+  tags: { en: ["Ukrainian studies", "encyclopedia", "reference work"], uk: ["українознавство", "енциклопедія", "довідник"] },
+  desc: {
+    en: "The first volume of the dictionary section of the Encyclopedia of Ukrainian Studies, a major scholarly reference work produced by the Shevchenko Scientific Society to document Ukrainian history, culture, geography, society, and prominent figures.",
+    uk: "Перший том словникової частини «Енциклопедії українознавства» — фундаментального наукового довідника, створеного Науковим товариством ім. Шевченка для висвітлення історії, культури, географії, суспільства та визначних постатей України."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/b78fc3a699.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Encyclopedia of Ukrainian Studies, Vol. 2", uk: "Енциклопедія українознавства, Том 2" },
+  author: "Shevchenko Scientific Society; ed. Volodymyr Kubiiovych / Наукове товариство ім. Шевченка; ред. Володимир Кубійович",
+  year: "1957",
+  tags: { en: ["Ukrainian studies", "encyclopedia", "reference work"], uk: ["українознавство", "енциклопедія", "довідник"] },
+  desc: {
+    en: "The second volume of the dictionary section of the Encyclopedia of Ukrainian Studies, continuing the major scholarly reference project with entries on Ukrainian history, culture, geography, society, and public figures.",
+    uk: "Другий том словникової частини «Енциклопедії українознавства», що продовжує фундаментальний науковий довідковий проєкт зі статтями про історію, культуру, географію, суспільство та визначних діячів України."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/359f24216d.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Encyclopedia of Ukrainian Studies, Vol. 3", uk: "Енциклопедія українознавства, Том 3" },
+  author: "Shevchenko Scientific Society; ed. Volodymyr Kubiiovych / Наукове товариство ім. Шевченка; ред. Володимир Кубійович",
+  year: "1959",
+  tags: { en: ["Ukrainian studies", "encyclopedia", "reference work"], uk: ["українознавство", "енциклопедія", "довідник"] },
+  desc: {
+    en: "The third volume of the dictionary section of the Encyclopedia of Ukrainian Studies, continuing the scholarly reference series with entries on Ukrainian history, culture, geography, society, and notable figures.",
+    uk: "Третій том словникової частини «Енциклопедії українознавства», що продовжує фундаментальну довідкову серію зі статтями про історію, культуру, географію, суспільство та визначних діячів України."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/3eb5175a3b.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Encyclopedia of Ukrainian Studies, Vol. 4", uk: "Енциклопедія українознавства, Том 4" },
+  author: "Shevchenko Scientific Society; ed. Volodymyr Kubiiovych / Наукове товариство ім. Шевченка; ред. Володимир Кубійович",
+  year: "1962",
+  tags: { en: ["Ukrainian studies", "encyclopedia", "reference work"], uk: ["українознавство", "енциклопедія", "довідник"] },
+  desc: {
+    en: "The fourth volume of the dictionary section of the Encyclopedia of Ukrainian Studies, continuing the major scholarly reference series with entries covering Ukrainian history, culture, geography, society, and public figures.",
+    uk: "Четвертий том словникової частини «Енциклопедії українознавства», що продовжує фундаментальну довідкову серію зі статтями про історію, культуру, географію, суспільство та визначних діячів України."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/418069603f.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "The Repressive-Punitive System in Ukraine 1917–1953, Vol. 1", uk: "Репресивно-каральна система в Україні 1917–1953, Том 1" },
+  author: "Ivan Bilas / Іван Білас",
+  year: "1994",
+  tags: { en: ["Soviet repression", "NKVD", "historical-legal analysis"], uk: ["радянські репресії", "НКВД", "історико-правовий аналіз"] },
+  desc: {
+    en: "The first volume of Ivan Bilas’s historical and legal study analysing the structure, mechanisms, and role of the Soviet repressive-punitive system in Ukraine as an instrument of Bolshevik rule and the suppression of the national liberation movement.",
+    uk: "Перший том історико-правового дослідження Івана Біласа, що аналізує структуру, механізми та роль радянської репресивно-каральної системи в Україні як знаряддя більшовицького режиму й придушення національно-визвольного руху."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/0e83e0ec8a.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "The Repressive-Punitive System in Ukraine 1917–1953, Vol. 2", uk: "Репресивно-каральна система в Україні 1917–1953, Том 2" },
+  author: "Ivan Bilas / Іван Білас",
+  year: "1994",
+  tags: { en: ["Soviet repression", "archival documents", "punitive organs"], uk: ["радянські репресії", "архівні документи", "каральні органи"] },
+  desc: {
+    en: "The second volume of Ivan Bilas’s study serves as a documentary supplement, presenting archival materials on the activity of Soviet repressive-punitive organs in Ukraine.",
+    uk: "Другий том праці Івана Біласа є документальним додатком, що подає архівні матеріали про діяльність радянських репресивно-каральних органів в Україні."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/de4d31fdf9.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "God Will Judge Us", uk: "Нас розсудить Бог" },
+  author: "Sviatomyr M. Fostun / Святомир М. Фостун",
+  year: "1985",
+  tags: { en: ["Pavlo Polubotok", "historical novella", "Cossack Ukraine"], uk: ["Павло Полуботок", "історична повість", "козацька Україна"] },
+  desc: {
+    en: "A historical novella set in the time of Hetman Pavlo Polubotok, portraying the defence of Cossack rights and Ukrainian autonomy against imperial pressure.",
+    uk: "Історична повість із часів гетьмана Павла Полуботка, що змальовує оборону козацьких прав і української автономії перед імперським тиском."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/204506321c.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Echoes of Time", uk: "Відгуки часу" },
+  author: "Irena Knysh / Ірена Книш",
+  year: "1972",
+  tags: { en: ["essays", "memoirs", "Ukrainian diaspora"], uk: ["нариси", "спогади", "українська діаспора"] },
+  desc: {
+    en: "A collection of selected essays, articles, memoirs, and materials by Irena Knysh, reflecting Ukrainian cultural, public, and émigré life through the concerns and debates of the mid-twentieth century.",
+    uk: "Збірка вибраних нарисів, статей, спогадів і матеріалів Ірени Книш, що відображає українське культурне, громадське й еміграційне життя крізь проблеми та дискусії середини ХХ століття."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/39b30757bc.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Under the Hammer of War, Part 1: The Serpent Withdraws", uk: "Під молотом війни, ч. 1: Гад відходить" },
+  author: "Stepan Liubomyrskyi (Liubomyr Rykhtytskyi) / Степан Любомирський (Любомир Рихтицький)",
+  year: "1955",
+  tags: { en: ["World War II", "Western Ukraine", "historical novel"], uk: ["Друга світова війна", "Західна Україна", "історичний роман"] },
+  desc: {
+    en: "The first volume of a wartime novel cycle set in Western Ukraine during the Second World War, portraying the upheaval of occupation, the collapse of one regime, and the difficult choices faced by Ukrainians in a time of violence and uncertainty.",
+    uk: "Перший том воєнного романного циклу про Західну Україну часів Другої світової війни, що змальовує потрясіння окупації, відступ одного режиму та складний вибір українців у добу насильства й невизначеності."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/073a394989.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Under the Hammer of War, Part 2: Another Night", uk: "Під молотом війни, ч. 2: Ще одна ніч" },
+  author: "Stepan Liubomyrskyi (Liubomyr Rykhtytskyi) / Степан Любомирський (Любомир Рихтицький)",
+  year: "1956",
+  tags: { en: ["World War II", "Western Ukraine", "historical novel"], uk: ["Друга світова війна", "Західна Україна", "історичний роман"] },
+  desc: {
+    en: "The second volume of the wartime novel cycle set in Western Ukraine, continuing the story of life under occupation, moral endurance, and the struggle to survive amid political violence and historical upheaval.",
+    uk: "Другий том воєнного романного циклу про Західну Україну, що продовжує оповідь про життя в умовах окупації, моральну витривалість і боротьбу за виживання серед політичного насильства та історичних потрясінь."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/9fe73d72e1.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Under the Hammer of War, Part 3: Fiery Souls", uk: "Під молотом війни, ч. 3: Полум’яні душі" },
+  author: "Stepan Liubomyrskyi (Liubomyr Rykhtytskyi) / Степан Любомирський (Любомир Рихтицький)",
+  year: "1956",
+  tags: { en: ["World War II", "Western Ukraine", "historical novel"], uk: ["Друга світова війна", "Західна Україна", "історичний роман"] },
+  desc: {
+    en: "The third volume of the wartime novel cycle set in Western Ukraine, continuing the portrayal of lives shaped by occupation, ideological conflict, and the moral trials of Ukrainians under the pressure of war.",
+    uk: "Третій том воєнного романного циклу про Західну Україну, що продовжує змалювання людських доль в умовах окупації, ідейного протистояння та моральних випробувань українців під тиском війни."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/bc224e40e9.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "The Turmoil", uk: "Крутіж" },
+  author: "Bohdan Lepkyi / Богдан Лепкий",
+  year: "1947",
+  tags: { en: ["Hetmanate", "Ivan Vyhovskyi", "historical fiction"], uk: ["Гетьманщина", "Іван Виговський", "історична проза"] },
+  desc: {
+    en: "A historical novella set during the turbulent struggle for the Hetmanate after Bohdan Khmelnytskyi’s death, portraying political intrigue, Cossack divisions, and Valentii Bosakovskyi’s attempt to defend his homeland.",
+    uk: "Історична повість з часів боротьби за гетьманство після смерті Богдана Хмельницького, що змальовує політичні інтриги, розбрат серед козацької старшини та спробу Валентія Босаковського стати на захист рідної землі."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/401d5223a4.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Day of Wrath, Part 1: A Tale of 1648", uk: "День гніву, ч. 1: Повість про 1648 рік" },
+  author: "Yurii Kosach / Юрій Косач",
+  year: "1947",
+  tags: { en: ["Khmelnytsky Uprising", "historical novel", "Cossack Ukraine"], uk: ["Хмельниччина", "історичний роман", "козацька Україна"] },
+  desc: {
+    en: "The first part of Yurii Kosach’s historical novel about the uprising of 1648 under Bohdan Khmelnytskyi, portraying the explosive beginning of the Cossack revolt and the wider social forces that shaped a turning point in Ukrainian history.",
+    uk: "Перша частина історичного роману Юрія Косача про повстання 1648 року під проводом Богдана Хмельницького, що змальовує вибуховий початок козацького руху та ширші суспільні сили переломної доби української історії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/7de2316430.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Cossacks in Muscovy", uk: "Козаки в Московії" },
+  author: "Yurii Lypa / Юрій Липа",
+  year: "1957",
+  tags: { en: ["Cossacks", "historical adventure novel", "17th century"], uk: ["козацтво", "історико-пригодницький роман", "XVII століття"] },
+  desc: {
+    en: "A historical adventure novel set in the seventeenth century, following Cossack characters in Muscovy while exploring political intrigue, cultural confrontation, and the wider Ukrainian view of imperial power.",
+    uk: "Історико-пригодницький роман XVII століття, що веде козацьких героїв у простір Московії та розкриває політичні інтриги, культурне зіткнення й український погляд на імперську владу."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/aa8b5f4147.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Hetman Pylyp Orlyk (1672–1742): His Life and Fate", uk: "Гетьман Пилип Орлик (1672–1742): його життя і доля" },
+  author: "Borys Krupnytskyi / Борис Крупницький",
+  year: "1956",
+  tags: { en: ["Pylyp Orlyk", "Hetmanate", "Ukrainian statehood"], uk: ["Пилип Орлик", "Гетьманщина", "українська державність"] },
+  desc: {
+    en: "A historical-biographical study of Hetman Pylyp Orlyk, tracing his political life, exile, diplomatic efforts, and enduring role in the struggle for Ukrainian statehood after Mazepa.",
+    uk: "Історико-біографічне дослідження про гетьмана Пилипа Орлика, що висвітлює його політичний шлях, еміграцію, дипломатичні зусилля та тривалу роль у боротьбі за українську державність після Мазепи."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/d1b3835309.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Historical Walks Through Lviv", uk: "Історичні проходи по Львові" },
+  author: "Ivan Krypiakevych / Іван Крип’якевич",
+  year: "1991",
+  tags: { en: ["Lviv", "local history", "guidebook"], uk: ["Львів", "краєзнавство", "путівник"] },
+  desc: {
+    en: "A historical and local-studies guide to Lviv, first published in 1932, introducing readers to the city’s past, landmarks, and key events from the medieval period to the early twentieth century.",
+    uk: "Історико-краєзнавчий путівник Львовом, уперше виданий 1932 року, що знайомить читача з минулим міста, його пам’ятками та важливими подіями від середньовіччя до початку ХХ століття."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/e93413f32b.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Hetman Ivan Mazepa and His Era", uk: "Гетьман Іван Мазепа та його доба" },
+  author: "Oleksandr Ohloblyn / Олександр Оглоблин",
+  year: "1960",
+  tags: { en: ["Ivan Mazepa", "Hetmanate", "Ukrainian statehood"], uk: ["Іван Мазепа", "Гетьманщина", "українська державність"] },
+  desc: {
+    en: "A major historical monograph on Hetman Ivan Mazepa, examining his political leadership, diplomacy, and the wider Hetmanate era as a crucial stage in the development of Ukrainian statehood.",
+    uk: "Фундаментальна історична монографія про гетьмана Івана Мазепу, що аналізує його політичне лідерство, дипломатію та ширшу добу Гетьманщини як важливий етап розвитку української державності."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/96909546d0.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Baturyn", uk: "Батурин" },
+  author: "Bohdan Lepkyi / Богдан Лепкий",
+  year: "1959",
+  tags: { en: ["Ivan Mazepa", "Baturyn", "historical fiction"], uk: ["Іван Мазепа", "Батурин", "історична проза"] },
+  desc: {
+    en: "A historical novella from Bohdan Lepkyi’s Mazepa cycle, portraying Mazepa’s final decision to ally with Sweden against Peter I and the tragic destruction of the Hetmanate capital, Baturyn.",
+    uk: "Історична повість із мазепинського циклу Богдана Лепкого, що змальовує остаточний вибір Мазепи виступити зі шведами проти Петра І та трагічне зруйнування гетьманської столиці Батурина."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/30a8bb5338.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "The Black Council: A Chronicle of 1663", uk: "Чорна рада: Хроніка 1663 року" },
+  author: "Panteleimon Kulish / Пантелеймон Куліш",
+  year: "1955",
+  tags: { en: ["Cossack Ukraine", "historical novel", "The Ruin"], uk: ["козацька Україна", "історичний роман", "Руїна"] },
+  desc: {
+    en: "The first Ukrainian historical novel, centred on the Black Council of 1663 in Nizhyn and portraying the political conflict, social divisions, and moral choices of Cossack Ukraine during the Ruin.",
+    uk: "Перший український історичний роман, зосереджений на Чорній раді 1663 року в Ніжині та змалюванні політичної боротьби, суспільних розколів і морального вибору козацької України доби Руїни."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/8b2a0f9e58.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Hetman Petro Sahaidachny", uk: "Гетьман Петро Сагайдачний" },
+  author: "Danylo Mordovets; adapted by Mariia Zahirnia / Данило Мордовець; перероб. Марія Загірня",
+  year: "1957",
+  tags: { en: ["Petro Sahaidachny", "Cossack Ukraine", "historical fiction"], uk: ["Петро Сагайдачний", "козацька Україна", "історична проза"] },
+  desc: {
+    en: "A historical story based on Danylo Mordovets’s prose and adapted by Mariia Zahirnia, portraying Hetman Petro Sahaidachny as a Cossack military and political leader in the wider struggle for Ukrainian dignity and power.",
+    uk: "Історичне оповідання на основі повісті Данила Мордовця в переробці Марії Загірньої, що змальовує гетьмана Петра Сагайдачного як козацького військового й політичного провідника в боротьбі за українську гідність і силу."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/88359c734b.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Princely Glory", uk: "Княжа слава" },
+  author: "Antin Lototskyi / Антін Лотоцький",
+  year: "1946",
+  tags: { en: ["Kyivan Rus", "historical stories", "children’s literature"], uk: ["Київська Русь", "історичні оповідання", "дитяча література"] },
+  desc: {
+    en: "A collection of historical stories for young readers, introducing the princely era of Kyivan Rus and the Galicia-Volhynia lands through vivid episodes of courage, leadership, faith, and national memory.",
+    uk: "Збірка історичних оповідань для юного читача, що знайомить із княжою добою Київської Русі та Галицько-Волинських земель через яскраві епізоди мужності, провідництва, віри й національної пам’яті."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/def800f75b.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "History of Ukraine, Vol. 1: To the Middle of the 17th Century", uk: "Історія України, Том 1: До половини XVII сторіччя" },
+  author: "Nataliia Polonska-Vasylenko / Наталія Полонська-Василенко",
+  year: "1972",
+  tags: { en: ["Ukrainian history", "Kyivan Rus", "Cossack era"], uk: ["історія України", "Київська Русь", "козацька доба"] },
+  desc: {
+    en: "The first volume of Nataliia Polonska-Vasylenko’s major synthesis of Ukrainian history, tracing the development of Ukrainian lands and society from the earliest periods through Kyivan Rus, Lithuanian-Polish rule, and the rise of the Cossack era.",
+    uk: "Перший том фундаментального синтезу історії України Наталії Полонської-Василенко, що простежує розвиток українських земель і суспільства від найдавніших часів через Київську Русь, литовсько-польську добу та становлення козацької епохи."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/96e4337962.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "History of Ukraine, Vol. 2: From the Middle of the 17th Century to 1923", uk: "Історія України, Том 2: Від половини XVII сторіччя до 1923 року" },
+  author: "Nataliia Polonska-Vasylenko / Наталія Полонська-Василенко",
+  year: "1976",
+  tags: { en: ["Ukrainian history", "Hetmanate", "modern Ukraine"], uk: ["історія України", "Гетьманщина", "модерна Україна"] },
+  desc: {
+    en: "The second volume of Nataliia Polonska-Vasylenko’s synthesis of Ukrainian history, covering the period from the mid-seventeenth century to 1923 through the Hetmanate, imperial rule, national revival, revolution, and the struggle for statehood.",
+    uk: "Другий том синтетичної історії України Наталії Полонської-Василенко, що охоплює період від середини XVII століття до 1923 року — від Гетьманщини й імперської доби до національного відродження, революції та боротьби за державність."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/a4dd682ea2.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "History of Ukraine", uk: "Історія України" },
+  author: "Ivan Kholmskyi (Ivan Krypiakevych) / Іван Холмський (Іван Крип’якевич)",
+  year: "1949",
+  tags: { en: ["Ukrainian history", "statehood", "reference work"], uk: ["історія України", "державність", "довідкова праця"] },
+  desc: {
+    en: "A concise scholarly survey of Ukrainian history from prehistoric times to 1914, covering political development, statehood, culture, social life, and Ukraine’s relations with neighbouring countries.",
+    uk: "Стислий науковий огляд історії України від доісторичних часів до 1914 року, що охоплює політичний розвиток, державність, культуру, суспільне життя та взаємини з сусідніми країнами."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/9afcb66e48.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Outline of the History of Ukraine", uk: "Нарис історії України" },
+  author: "Dmytro I. Doroshenko / Дмитро І. Дорошенко",
+  year: "1991",
+  tags: { en: ["Ukrainian history", "statehood", "historiography"], uk: ["історія України", "державність", "історіографія"] },
+  desc: {
+    en: "A landmark synthesis of Ukrainian history by Dmytro Doroshenko, presenting the development of Ukrainian lands and society as a long historical process of state formation, political struggle, and national continuity.",
+    uk: "Фундаментальний синтез історії України Дмитра Дорошенка, що подає розвиток українських земель і суспільства як тривалий історичний процес державотворення, політичної боротьби та національної тяглості."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/7c61abced2.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Almanac of the Ukrainian National Association for 1973", uk: "Альманах Українського Народного Союзу на 1973 рік" },
+  author: "Ukrainian National Association / Український Народний Союз",
+  year: "1973",
+  tags: { en: ["Ukrainian diaspora", "almanac", "community history"], uk: ["українська діаспора", "альманах", "громадська історія"] },
+  desc: {
+    en: "An annual Ukrainian diaspora almanac published by Svoboda in Jersey City, bringing together historical articles, literary works, essays, commemorative materials, and community records of Ukrainian life abroad.",
+    uk: "Щорічний альманах української діаспори, виданий «Свободою» в Джерзі-Ситі, що поєднує історичні статті, літературні твори, есеї, ювілейні матеріали та хроніку громадського життя українців за кордоном."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/c6187a8c2f.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "In the Forests near Vyazma", uk: "В лісах під Вязьмою" },
+  author: "Dmytro Chub / Дмитро Чуб",
+  year: "1958",
+  tags: { en: ["World War II", "reportage memoir", "war experience"], uk: ["Друга світова війна", "репортаж-спогад", "воєнний досвід"] },
+  desc: {
+    en: "A reportage-memoir about the author’s experience during the Second World War, depicting the chaos of retreat, survival near Vyazma, and the psychological reality of Ukrainians caught in the machinery of war.",
+    uk: "Репортаж-спогад про досвід автора під час Другої світової війни, що змальовує хаос відступу, виживання під Вязьмою та психологічну реальність українців, втягнутих у воєнну машину."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/69a02f6e98.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Fervent Lightnings: A Selection of Works", uk: "Палкі блискавиці: вибір із творів" },
+  author: "Lesia Ukrainka; selected and introduced by Volodymyr Shaian / Леся Українка; вступне слово і вибір Володимира Шаяна",
+  year: "1971",
+  tags: { en: ["Lesia Ukrainka", "poetry", "selected works"], uk: ["Леся Українка", "поезія", "вибрані твори"] },
+  desc: {
+    en: "A centenary selection of Lesia Ukrainka’s works, prepared by Volodymyr Shaian, presenting her poetry and dramatic voice through themes of freedom, spiritual resistance, national dignity, and creative defiance.",
+    uk: "Ювілейний вибір із творів Лесі Українки, упорядкований Володимиром Шаяном, що представляє її поетичний і драматичний голос через теми свободи, духовного спротиву, національної гідності та творчої непокори."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/a69f35c914.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Poetry from Ukraine", uk: "Поезії з України" },
+  author: "Ihor Kalynets / Ігор Калинець",
+  year: "1970",
+  tags: { en: ["poetry", "Sixtiers", "Ukrainian dissident literature"], uk: ["поезія", "шістдесятники", "дисидентська література"] },
+  desc: {
+    en: "A Brussels edition of Ihor Kalynets’s second poetry collection, published abroad as a cultural act of preservation and resistance, presenting the symbolic, spiritually charged voice of a Ukrainian Sixtier poet under Soviet censorship.",
+    uk: "Брюссельське видання другої поетичної збірки Ігоря Калинця, опубліковане за кордоном як акт культурного збереження й спротиву, що представляє символічний, духовно наснажений голос українського поета-шістдесятника в умовах радянської цензури."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/4a76dea4da.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Humorous Samizdat", uk: "Гумористичний самвидав" },
+  author: "Sviatoslav Karavanskyi / Святослав Караванський",
+  year: "1982",
+  tags: { en: ["satire", "samizdat", "Soviet regime"], uk: ["сатира", "самвидав", "радянський режим"] },
+  desc: {
+    en: "A collection of humorous and satirical samizdat verse, based on uncensored folk humour and anecdotes about Soviet power, reworked by Sviatoslav Karavanskyi into a sharp literary form of anti-totalitarian wit.",
+    uk: "Збірка гумористично-сатиричних самвидавних віршів, заснована на нецензурованому народному гуморі й анекдотах про радянську владу, які Святослав Караванський літературно опрацював як дотепну форму антитоталітарної сатири."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/d398ce7f70.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Winter Trees", uk: "Зимові дерева" },
+  author: "Vasyl Stus / Василь Стус",
+  year: "1970",
+  tags: { en: ["poetry", "Ukrainian dissident literature", "Sixtiers"], uk: ["поезія", "дисидентська література", "шістдесятники"] },
+  desc: {
+    en: "Vasyl Stus’s first poetry collection, published abroad in Brussels and London, presenting a morally uncompromising poetic voice shaped by existential reflection, spiritual resistance, and the pressure of Soviet censorship.",
+    uk: "Перша поетична збірка Василя Стуса, видана за кордоном у Брюсселі й Лондоні, що представляє морально безкомпромісний голос поета, сформований екзистенційними роздумами, духовним спротивом і тиском радянської цензури."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/4b88d019c5.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Ukraine of My Blue Days", uk: "Україна моїх блакитних днів" },
+  author: "Oleksa Hryshchenko / Олекса Грищенко",
+  year: "1958",
+  tags: { en: ["memoirs", "Ukrainian art", "cultural memory"], uk: ["спогади", "українське мистецтво", "культурна пам’ять"] },
+  desc: {
+    en: "A lyrical memoir by modernist painter and art scholar Oleksa Hryshchenko, returning to the Ukraine of his youth through personal memory, artistic vision, landscape, childhood impressions, and the cultural atmosphere of a lost homeland.",
+    uk: "Ліричні спогади художника-модерніста й мистецтвознавця Олекси Грищенка, у яких Україна юності постає через особисту пам’ять, мистецьке бачення, краєвиди, дитячі враження та культурну атмосферу втраченої батьківщини."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/28dcc4fe24.html"
+});
   // OPTIONAL: demo example (remove if you want)
   // library[0].books[0] = {
   //   title: { en: "Chronicle of UPA, Vol. 1", uk: "Літопис Української Повстанської Армії, Том 1" },
