@@ -2580,6 +2580,390 @@ library[2].books.push({
   },
   iframeSrc: "https://heyzine.com/flip-book/3232909bf0.html"
 });
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Ivan Franko and Women’s Equality", uk: "Іван Франко та рівноправність жінки" },
+  author: "Irena Knysh / Ірена Книш",
+  year: "1956",
+  tags: { en: ["Ivan Franko", "women’s rights", "literary criticism"], uk: ["Іван Франко", "права жінок", "літературознавство"] },
+  desc: {
+    en: "A literary and social study by Irena Knysh, published for the centenary of Ivan Franko’s birth, examining Franko’s views on women’s equality and his engagement with the Ukrainian women’s movement and social emancipation.",
+    uk: "Літературно-суспільна праця Ірени Книш, видана до сторіччя з дня народження Івана Франка, що досліджує його погляди на рівноправність жінки та зв’язок із українським жіночим рухом і суспільною емансипацією."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/a982a48f94.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Dzvony: Scientific and Literary Journal, No. 3–4", uk: "Дзвони: науково-літературний журнал, ч. 3–4" },
+  author: "ed. Bohdan Lonchyna / ред. Богдан Лончина",
+  year: "1978",
+  tags: { en: ["literary journal", "Ukrainian diaspora", "cultural criticism"], uk: ["літературний журнал", "українська діаспора", "культурна критика"] },
+  desc: {
+    en: "An issue of the Ukrainian scientific and literary journal Dzvony, bringing together literary texts, scholarly essays, cultural commentary, and reflections on Ukrainian intellectual life in the diaspora.",
+    uk: "Випуск українського науково-літературного журналу «Дзвони», що поєднує художні тексти, наукові статті, культурну публіцистику та роздуми про українське інтелектуальне життя в діаспорі."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/00c74c6f93.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Dzvony: Scientific and Literary Journal, No. 1–2", uk: "Дзвони: науково-літературний журнал, ч. 1–2" },
+  author: "ed. Bohdan Lonchyna / ред. Богдан Лончина",
+  year: "1980",
+  tags: { en: ["literary journal", "Christian literature", "Ukrainian diaspora"], uk: ["літературний журнал", "християнська література", "українська діаспора"] },
+  desc: {
+    en: "An issue of the renewed Ukrainian scientific and literary journal Dzvony, reflecting the Christian-humanist and cultural concerns of Ukrainian émigré intellectual life through literary works, essays, and scholarly materials.",
+    uk: "Випуск відновленого українського науково-літературного журналу «Дзвони», що через художні твори, есеї та наукові матеріали відображає християнсько-гуманістичні й культурні зацікавлення українського інтелектуального життя в діаспорі."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/ece3f6e2ed.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "My Craft", uk: "Моє ремесло" },
+  author: "Sviatoslav Karavanskyi / Святослав Караванський",
+  year: "1981",
+  tags: { en: ["poetry", "dissident literature", "translations"], uk: ["поезія", "дисидентська література", "переклади"] },
+  desc: {
+    en: "A poetry collection by Ukrainian dissident, linguist, and long-term Soviet political prisoner Sviatoslav Karavanskyi, combining civic lyricism, moral resistance, linguistic precision, and authorial translations of Shakespeare.",
+    uk: "Поетична збірка українського дисидента, мовознавця й багатолітнього політичного в’язня Святослава Караванського, що поєднує громадянську лірику, моральний спротив, мовну точність і авторські переклади Шекспіра."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/e8c246295a.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "In the Footsteps of Mykhailo Kotsiubynskyi", uk: "Слідами Михайла Коцюбинського" },
+  author: "Petro Pavlovych (Apollon Trembovetskyi) / Петро Павлович (Аполлон Трембовецький)",
+  year: "1946",
+  tags: { en: ["Mykhailo Kotsiubynskyi", "illustrated collection", "literary heritage"], uk: ["Михайло Коцюбинський", "ілюстрований збірник", "літературна спадщина"] },
+  desc: {
+    en: "An illustrated collection dedicated to the memory of Mykhailo Kotsiubynskyi, combining biographical material, photographs, and excerpts from his works to introduce the life and literary legacy of the Ukrainian writer.",
+    uk: "Ілюстрований збірник, присвячений пам’яті Михайла Коцюбинського, що поєднує біографічні відомості, фотоматеріали та уривки з творів для ознайомлення з життям і літературною спадщиною письменника."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/e66b52baf6.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Longing for Ukraine: From the Poetry of the Young", uk: "Туга за Україною: із поезій молодих" },
+  author: "Liubomyr Hoseiko / Любомир Госейко",
+  year: "1971",
+  tags: { en: ["poetry", "Ukrainian diaspora", "young poets"], uk: ["поезія", "українська діаспора", "молоді поети"] },
+  desc: {
+    en: "An early poetry collection by Liubomyr Hoseiko, published in London by the Association of Ukrainians in Great Britain, giving voice to a young émigré generation’s longing for Ukraine, cultural memory, and search for belonging.",
+    uk: "Рання поетична збірка Любомира Госейка, видана в Лондоні Союзом Українців у Великій Британії, що передає тугу молодого еміграційного покоління за Україною, культурну пам’ять і пошук належності."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/c05d4bc783.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "The Ballad of the Forest Murmur", uk: "Баляда лісового шуму" },
+  author: "Volodymyr Shaian / Володимир Шаян",
+  year: "1965",
+  tags: { en: ["poetry", "Ukrainian diaspora literature", "nature lyricism"], uk: ["поезія", "українська діаспорна література", "природна лірика"] },
+  desc: {
+    en: "A short poetry collection by Volodymyr Shaian, published in London, where the image of the forest becomes a lyrical space of memory, exile, nostalgia, and spiritual connection with Ukraine.",
+    uk: "Коротка поетична збірка Володимира Шаяна, видана в Лондоні, у якій образ лісу постає ліричним простором пам’яті, еміграційної туги, ностальгії та духовного зв’язку з Україною."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/8c71acfa2e.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Arise, Perun!", uk: "Повстань, Перуне!" },
+  author: "Volodymyr Shaian / Володимир Шаян",
+  year: "1967",
+  tags: { en: ["oratorio poem", "Ukrainian mythology", "spiritual poetry"], uk: ["ораторійна поема", "українська міфологія", "духовна поезія"] },
+  desc: {
+    en: "An oratorio poem in nine parts by Volodymyr Shaian, invoking the figure of Perun as a symbol of ancient Ukrainian spiritual power, heroic awakening, and national-cultural renewal.",
+    uk: "Ораторійна поема у дев’яти частинах Володимира Шаяна, що звертається до образу Перуна як символу давньої української духовної сили, героїчного пробудження та національно-культурного оновлення."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/e08ba643c7.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "The Word of the Golden Diadem", uk: "Слово золотої діадеми" },
+  author: "Volodymyr Shaian / Володимир Шаян",
+  year: "1963",
+  tags: { en: ["poetry", "Ukrainian mythology", "spiritual nationalism"], uk: ["поезія", "українська міфологія", "духовний націоналізм"] },
+  desc: {
+    en: "A short poetry collection by Volodymyr Shaian, published in London by Orden, where symbolic and mythological imagery becomes a poetic language of spiritual renewal, national memory, and Ukrainian cultural self-assertion.",
+    uk: "Коротка поетична збірка Володимира Шаяна, видана в Лондоні видавництвом «Орден», у якій символічна й міфологічна образність стає поетичною мовою духовного оновлення, національної пам’яті та українського культурного самоутвердження."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/9294709dca.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Tryzna", uk: "Тризна" },
+  author: "Taras Shevchenko; trans. Volodymyr Shaian / Тарас Шевченко; пер. Володимир Шаян",
+  year: "1963",
+  tags: { en: ["Taras Shevchenko", "poetry", "translation"], uk: ["Тарас Шевченко", "поезія", "переклад"] },
+  desc: {
+    en: "A Ukrainian translation by Volodymyr Shaian of Taras Shevchenko’s Russian-language poem Tryzna, preserving a lesser-known part of Shevchenko’s poetic legacy through an émigré London edition.",
+    uk: "Український переклад Володимира Шаяна російськомовної поеми Тараса Шевченка «Тризна», що зберігає маловідомішу частину Шевченкової поетичної спадщини в лондонському еміграційному виданні."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/33d8bc4583.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Without Sword and Homeland", uk: "Без шаблі і вітчизни" },
+  author: "Stepan Sapeliak / Степан Сапеляк",
+  year: "1989",
+  tags: { en: ["poetry", "dissident literature", "Soviet imprisonment"], uk: ["поезія", "дисидентська література", "радянське ув’язнення"] },
+  desc: {
+    en: "A poetry collection by Ukrainian dissident and political prisoner Stepan Sapeliak, written largely during imprisonment in the late 1970s and 1980s, where biblical imagery, national longing, and inner resistance shape a powerful poetic testimony.",
+    uk: "Поетична збірка українського дисидента й політичного в’язня Степана Сапеляка, значна частина якої написана в ув’язненні наприкінці 1970-х — у 1980-х роках і поєднує біблійні образи, національну тугу та внутрішній спротив."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/7d949eee9a.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "The Last Spring", uk: "Остання весна" },
+  author: "Yevhen Malaniuk / Євген Маланюк",
+  year: "1959",
+  tags: { en: ["poetry", "Ukrainian diaspora literature", "national memory"], uk: ["поезія", "українська діаспорна література", "національна пам’ять"] },
+  desc: {
+    en: "A New York poetry collection by Yevhen Malaniuk, where the poet’s severe classical voice combines exile, historical memory, spiritual tension, and reflections on Ukraine’s fate in the twentieth century.",
+    uk: "Нью-йоркська поетична збірка Євгена Маланюка, у якій суворий класичний голос поета поєднує еміграційний досвід, історичну пам’ять, духовну напругу та роздуми про долю України у ХХ столітті."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/d3689fc41b.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "The Poet", uk: "Поет" },
+  author: "Todos Osmachka / Тодось Осьмачка",
+  year: "",
+  tags: { en: ["poem", "Ukrainian modernism", "spiritual resistance"], uk: ["поема", "український модернізм", "духовний спротив"] },
+  desc: {
+    en: "A large poetic work by Todos Osmachka, structured as a poem in twenty-four songs and three parts, where the figure of the poet becomes a symbol of truth-seeking, moral suffering, and spiritual resistance in a violent historical age.",
+    uk: "Велика поетична праця Тодося Осьмачки, побудована як поема у двадцяти чотирьох піснях і трьох частинах, де постать поета стає символом правдошукання, морального страждання та духовного спротиву в жорстоку історичну добу."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/97147ec8c8.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Scouts of the Steppe Cohorts", uk: "Звідуни степових когорт" },
+  author: "Sviatomyr M. Fostun / Святомир М. Фостун",
+  year: "1972",
+  tags: { en: ["historical novella", "Ukrainian historical memory", "adventure prose"], uk: ["історична повість", "українська історична пам’ять", "пригодницька проза"] },
+  desc: {
+    en: "A historical novella by Sviatomyr Fostun that uses the motif of scouts and steppe warriors to recreate Ukrainian historical memory, courage, loyalty, and the spirit of national struggle.",
+    uk: "Історична повість Святомира Фостуна, що через образ звідунів і степових когорт відтворює українську історичну пам’ять, мужність, вірність і дух національної боротьби."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/6d1bbb21ca.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "May Wreath: A Collection of Poems and Stories for Mother’s Day", uk: "Травневий вінок: збірка віршів і оповідань з нагоди Дня матері" },
+  author: "compiled and published by Olena Kostiv / зібрала й видала Олена Костів",
+  year: "1963",
+  tags: { en: ["Mother’s Day", "poetry and stories", "Ukrainian diaspora"], uk: ["День матері", "вірші й оповідання", "українська діаспора"] },
+  desc: {
+    en: "A Toronto-published Ukrainian diaspora collection of poems and stories for Mother’s Day, bringing together literary pieces that honour motherhood, family memory, gratitude, and the emotional bond with Ukrainian cultural tradition.",
+    uk: "Торонська збірка української діаспори з віршами й оповіданнями до Дня матері, що об’єднує твори про материнство, родинну пам’ять, вдячність і духовний зв’язок з українською культурною традицією."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/e76568fadf.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Estafeta: ADUK Journal, No. 1", uk: "Естафета: журнал АДУК, число перше" },
+  author: "Association of Ukrainian Cultural Figures / Асоціація діячів української культури",
+  year: "1970",
+  tags: { en: ["literary journal", "Ukrainian culture", "diaspora"], uk: ["літературний журнал", "українська культура", "діаспора"] },
+  desc: {
+    en: "The first issue of Estafeta, a journal of the Association of Ukrainian Cultural Figures, bringing together literature, art, scholarship, and criticism as part of Ukrainian cultural life in New York and Toronto.",
+    uk: "Перше число журналу «Естафета» Асоціації діячів української культури, що поєднує літературу, мистецтво, науку й критику як частину українського культурного життя Нью-Йорка і Торонто."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/c0fc71ff76.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "The Kremlin’s Greatest Crime: The Planned Artificial Famine in Ukraine, 1932–1933", uk: "Найбільший злочин Кремля: Запланований штучний голод в Україні 1932–1933 років" },
+  author: "M. Verbytskyi / М. Вербицький",
+  year: "1952",
+  tags: { en: ["Holodomor", "eyewitness testimonies", "Soviet crimes"], uk: ["Голодомор", "свідчення очевидців", "радянські злочини"] },
+  desc: {
+    en: "One of the earliest émigré documentary collections on the Holodomor, published in London for the twentieth anniversary of the famine and based on testimonies of survivors gathered among former Soviet-repressed Ukrainians in Great Britain.",
+    uk: "Одна з найперших еміграційних документальних збірок про Голодомор, видана в Лондоні до двадцятих роковин трагедії та заснована на свідченнях очевидців, зібраних серед колишніх репресованих українців у Великій Британії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/1768387ad5.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Memorial Book of the Millennium of Christianity in Ukraine, 988–1988", uk: "Пам’ятна книга відзначення Тисячоліття Хрещення України, 988–1988" },
+  author: "National Millennium Committee in Great Britain; ed. Sviatomyr M. Fostun, Vasyl Oleskiv et al. / Крайовий комітет Тисячоліття у Великій Британії; ред. Святомир М. Фостун, Василь Олеськів та ін.",
+  year: "2001",
+  tags: { en: ["Christianisation of Ukraine", "Ukrainian diaspora", "commemorative book"], uk: ["Хрещення України", "українська діаспора", "пам’ятне видання"] },
+  desc: {
+    en: "A commemorative book documenting how Ukrainians in Great Britain marked the Millennium of Christianity in Ukraine, bringing together historical reflection, community records, photographs, and materials on religious and cultural remembrance.",
+    uk: "Пам’ятне видання про відзначення українцями у Великій Британії Тисячоліття Хрещення України, що поєднує історичні роздуми, громадську хроніку, фотографії та матеріали релігійної й культурної пам’яті."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/fde863e5f7.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Fear, Vol. 1", uk: "Страх, Том 1" },
+  author: "Olena Zvychaina / Олена Звичайна",
+  year: "1957",
+  tags: { en: ["Yezhovshchyna", "Soviet terror", "Ukrainian diaspora prose"], uk: ["Єжовщина", "радянський терор", "українська діаспорна проза"] },
+  desc: {
+    en: "The first volume of Olena Zvychaina’s novel about Soviet Ukraine during the Yezhovshchyna, portraying fear as a daily condition of life under Stalinist terror and revealing the moral pressure placed on both victims and collaborators of the regime.",
+    uk: "Перший том роману Олени Звичайної про підрадянську Україну доби Єжовщини, що показує страх як щоденний стан життя під сталінським терором і розкриває моральний тиск як на жертв, так і на виконавців режиму."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/8a5a80746f.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Fear, Vol. 2", uk: "Страх, Том 2" },
+  author: "Olena Zvychaina / Олена Звичайна",
+  year: "1958",
+  tags: { en: ["Yezhovshchyna", "Soviet terror", "Ukrainian diaspora prose"], uk: ["Єжовщина", "радянський терор", "українська діаспорна проза"] },
+  desc: {
+    en: "The second volume of Olena Zvychaina’s novel about Soviet Ukraine during the Yezhovshchyna, continuing the psychological portrayal of life under Stalinist terror, where fear, moral compromise, love, and resistance shape the fate of individuals under totalitarian rule.",
+    uk: "Другий том роману Олени Звичайної про підрадянську Україну доби Єжовщини, що продовжує психологічне змалювання життя під сталінським терором, де страх, моральний компроміс, любов і спротив визначають долі людей у тоталітарній системі."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/d5bef2047b.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Tsarivna", uk: "Царівна" },
+  author: "Olha Kobylianska / Ольга Кобилянська",
+  year: "1954",
+  tags: { en: ["Ukrainian classic", "women’s emancipation", "psychological prose"], uk: ["українська класика", "емансипація жінки", "психологічна проза"] },
+  desc: {
+    en: "A landmark psychological novella by Olha Kobylianska centred on Nataliia Verkovychivna, a thoughtful and self-aware young woman whose struggle for education, dignity, love, and inner freedom embodies the author’s early feminist vision.",
+    uk: "Знакова психологічна повість Ольги Кобилянської про Наталію Верковичівну — мислячу й самосвідому молоду жінку, чия боротьба за освіту, гідність, любов і внутрішню свободу втілює раннє феміністичне бачення авторки."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/dee706e906.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Literary Life in Soviet Ukraine, Part 1: Prose of the 1920s–1930s", uk: "Літературне життя на підсовєтській Україні, ч. 1: Проза 1920–30 років" },
+  author: "M. Halchuk / М. Гальчук",
+  year: "1952",
+  tags: { en: ["literary criticism", "Soviet Ukraine", "Ukrainian prose"], uk: ["літературознавство", "підсовєтська Україна", "українська проза"] },
+  desc: {
+    en: "A concise émigré literary-critical survey of Ukrainian prose in Soviet Ukraine during the 1920s and 1930s, examining literary development under ideological pressure, censorship, and the Soviet transformation of cultural life.",
+    uk: "Стислий еміграційний літературознавчий огляд української прози на підсовєтській Україні 1920–1930-х років, що розглядає розвиток літератури під ідеологічним тиском, цензурою та радянською трансформацією культурного життя."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/2d64a191ab.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Materials for the History of Ukrainian Medicine, Vol. 1", uk: "Матеріяли до історії української медицини, Том 1" },
+  author: "chief ed. Vasyl Pliushch; ed. Roman Osinchuk et al. / гол. ред. Василь Плющ; ред. Роман Осінчук та ін.",
+  year: "1975",
+  tags: { en: ["history of medicine", "Ukrainian scholarship", "medical heritage"], uk: ["історія медицини", "українська наука", "медична спадщина"] },
+  desc: {
+    en: "The first volume of a scholarly émigré collection on the history of Ukrainian medicine, created to document Ukrainian medical science, education, institutions, and physicians beyond Soviet ideological interpretations.",
+    uk: "Перший том наукової еміграційної збірки з історії української медицини, створеної для висвітлення української медичної науки, освіти, інституцій і лікарів поза радянськими ідеологічними трактуваннями."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/8362f43c0f.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "The Steppe Flower", uk: "Степова квітка" },
+  author: "Mykola Lazorskyi / Микола Лазорський",
+  year: "1965",
+  tags: { en: ["Roksolana", "historical novel", "Ottoman Empire"], uk: ["Роксолана", "історичний роман", "Османська імперія"] },
+  desc: {
+    en: "A historical novel about Roksolana, reimagined by Mykola Lazorskyi as Nastia Vysovska from the Ukrainian steppe, whose intelligence, courage, and political influence shape her role at the Ottoman court while preserving a living bond with her homeland.",
+    uk: "Історичний роман про Роксолану, переосмислену Миколою Лазорським як Настя Висовська з українського степу, чий розум, мужність і політичний вплив визначають її роль при османському дворі та зберігають живий зв’язок із рідним краєм."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/f164b9653e.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Granite: A Drama in Four Acts", uk: "Ґраніт: Драма на чотири дії" },
+  author: "Oleksa Zaporizkyi (Oleksii Senyk) / Олекса Запорізький (Олексій Сеник)",
+  year: "1947",
+  tags: { en: ["drama", "German occupation", "Ukrainian diaspora literature"], uk: ["драма", "німецька окупація", "українська діаспорна література"] },
+  desc: {
+    en: "A four-act drama by Oleksa Zaporizkyi, written in the émigré milieu after the Second World War and set in Ukraine under German occupation, where personal choices unfold under the pressure of war, fear, and moral conflict.",
+    uk: "Драма на чотири дії Олекси Запорізького, написана в повоєнному еміграційному середовищі та дія якої відбувається в Україні під німецькою окупацією, де людський вибір розкривається під тиском війни, страху й морального конфлікту."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/e9caaa0251.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "From Hutsulshchyna: Essays", uk: "З Гуцульщини: Нариси" },
+  author: "Mykhailo Lomatskyi / Михайло Ломацький",
+  year: "1956",
+  tags: { en: ["Hutsulshchyna", "ethnographic essays", "Carpathian culture"], uk: ["Гуцульщина", "етнографічні нариси", "карпатська культура"] },
+  desc: {
+    en: "A collection of essays on Hutsulshchyna by Mykhailo Lomatskyi, a long-time teacher and devoted observer of the region, portraying the landscape, people, customs, and cultural spirit of the Hutsul world.",
+    uk: "Збірка нарисів про Гуцульщину Михайла Ломацького — довголітнього вчителя й уважного знавця краю, що змальовує природу, людей, звичаї та культурний дух гуцульського світу."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/7c54242b24.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Ukrainian Music: A Historical and Critical Review", uk: "Українська музика: історично-критичний огляд" },
+  author: "Antin Rudnytskyi / Антін Рудницький",
+  year: "1963",
+  tags: { en: ["Ukrainian music", "musicology", "cultural history"], uk: ["українська музика", "музикознавство", "культурна історія"] },
+  desc: {
+    en: "A major musicological survey by composer and conductor Antin Rudnytskyi, tracing the development of Ukrainian music through historical, critical, and cultural perspectives, from folk and church traditions to professional composition.",
+    uk: "Важливий музикознавчий огляд композитора й диригента Антіна Рудницького, що простежує розвиток української музики в історичному, критичному й культурному вимірах — від народної та церковної традиції до професійної композиції."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/5bee9f9134.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Storks, Part 1", uk: "Лелеки, ч. 1" },
+  author: "Pamfil Ses / Памфіл Сесь",
+  year: "1960",
+  tags: { en: ["poetry", "Ukrainians in Britain", "diaspora literature"], uk: ["поезія", "українці у Британії", "діаспорна література"] },
+  desc: {
+    en: "The first part of Pamfil Ses’s verse work, created in the Ukrainian émigré milieu in Britain and shaped by longing for the homeland, historical memory, and the emotional symbolism of the stork as a sign of return and belonging.",
+    uk: "Перша частина віршованого твору Памфіла Сеся, створеного в українському еміграційному середовищі Великої Британії та позначеного тугою за батьківщиною, історичною пам’яттю й символікою лелеки як знаку повернення та належності."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/8e5ec00df5.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "The God of Fire, Vol. 1: In Santo Antônio", uk: "Бог вогню, Том 1: В Санто Антоніо" },
+  author: "Olha Mak / Ольга Мак",
+  year: "1955",
+  tags: { en: ["adventure fiction", "Brazilian life", "Ukrainian diaspora literature"], uk: ["пригодницька проза", "бразилійське життя", "українська діаспорна література"] },
+  desc: {
+    en: "The first volume of Olha Mak’s adventure story set in Brazil, following its characters into the unfamiliar world of Santo Antônio and opening a vivid Ukrainian émigré literary vision of South American life, danger, and discovery.",
+    uk: "Перший том пригодницької повісті Ольги Мак із бразилійського життя, що вводить героїв у незнайомий світ Санто Антоніо та відкриває яскраве українське еміграційне бачення Південної Америки, небезпеки й відкриття."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/89a71e34f1.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "The God of Fire, Vol. 2: Drama on Guaíra", uk: "Бог вогню, Том 2: Драма на Ґваїрі" },
+  author: "Olha Mak / Ольга Мак",
+  year: "1955",
+  tags: { en: ["adventure fiction", "Brazilian life", "Ukrainian diaspora literature"], uk: ["пригодницька проза", "бразилійське життя", "українська діаспорна література"] },
+  desc: {
+    en: "The second volume of Olha Mak’s adventure story set in Brazil, continuing the journey of Ukrainian characters through South American landscapes, local customs, danger, and discovery around Guaíra.",
+    uk: "Другий том пригодницької повісті Ольги Мак із бразилійського життя, що продовжує подорож українських героїв крізь південноамериканські краєвиди, місцеві звичаї, небезпеки й відкриття довкола Ґваїри."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/8a39be56e1.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "The Generations Will Meet", uk: "Покоління зійдуться" },
+  author: "Ivan Bodnarchuk / Іван Боднарчук",
+  year: "1974",
+  tags: { en: ["Ukrainian diaspora", "generational memory", "novella"], uk: ["українська діаспора", "пам’ять поколінь", "повість"] },
+  desc: {
+    en: "A novella by Ukrainian Canadian writer Ivan Bodnarchuk about the hope that younger émigré generations will reconnect with the spiritual and cultural heritage of their parents, preserving a living Ukrainian identity abroad.",
+    uk: "Повість українсько-канадського письменника Івана Боднарчука про надію на те, що молодші еміграційні покоління повернуться до духовної й культурної спадщини батьків, зберігаючи живу українську ідентичність за кордоном."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/1044cfd8ac.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "The Generations Will Meet", uk: "Покоління зійдуться" },
+  author: "Ivan Bodnarchuk / Іван Боднарчук",
+  year: "1974",
+  tags: { en: ["Ukrainian diaspora", "generational memory", "novella"], uk: ["українська діаспора", "пам’ять поколінь", "повість"] },
+  desc: {
+    en: "A novella by Ukrainian Canadian writer Ivan Bodnarchuk about the hope that younger émigré generations will reconnect with the spiritual and cultural heritage of their parents, preserving a living Ukrainian identity abroad.",
+    uk: "Повість українсько-канадського письменника Івана Боднарчука про надію на те, що молодші еміграційні покоління повернуться до духовної й культурної спадщини батьків, зберігаючи живу українську ідентичність за кордоном."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/1044cfd8ac.html"
+});
   // OPTIONAL: demo example (remove if you want)
   // library[0].books[0] = {
   //   title: { en: "Chronicle of UPA, Vol. 1", uk: "Літопис Української Повстанської Армії, Том 1" },
