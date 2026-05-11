@@ -1764,6 +1764,18 @@ library[1].books.push({
   },
   iframeSrc: "https://heyzine.com/flip-book/750096d627.html"
 });
+// 2) Shelf 2 -> library[1] 
+library[1].books.push({ 
+  title: { en: "Vinnytsia: A Crime Without Punishment", uk: "Вінниця: Злочин без кари" }, 
+  author: "Documents and Testimonies; ed. Yevhen Sverstiuk, O. Skop / Документи і свідчення; ред. Євген Сверстюк, О. Скоп",
+  year: "1994",
+  tags: { en: ["Soviet terror", "Vinnytsia massacre", "documentary evidence"], uk: ["радянський терор", "Вінницька трагедія", "документальні свідчення"] },
+  desc: {
+    en: "A documentary collection of evidence, testimonies, and materials on the Bolshevik executions in Vinnytsia in 1937–1938, preserving the record of a Soviet crime long concealed from public memory.",
+    uk: "Документальна збірка свідчень, матеріалів і доказів про більшовицькі розстріли у Вінниці 1937–1938 років, що зберігає пам’ять про радянський злочин, довго прихований від суспільства."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/2fddc64e62.html"
+});
 // 2) Shelf 2 (OUN and UIA History / Історія ОУН та УПА) -> library[0]
 library[1].books.push({
   title: { en: "The Crime", uk: "Злочин" },
@@ -2126,6 +2138,18 @@ library[2].books.push({
 });
 // 2) Shelf 3 -> library[2]
 library[2].books.push({
+  title: { en: "Saint Volodymyr the Great: Ruler and Baptiser of Rus-Ukraine (960–1015)", uk: "Святий Володимир Великий: володар і христитель Руси-України (960–1015)" },
+  author: "Irynei Ivan Nazarko, OSBM / Іриней Іван Назарко, ЧСВВ",
+  year: "1954",
+  tags: { en: ["Volodymyr the Great", "Christianisation of Rus", "church history"], uk: ["Володимир Великий", "хрещення Руси", "історія Церкви"] },
+  desc: {
+    en: "A church-historical study of Saint Volodymyr the Great, presenting his rule, the Christianisation of Rus-Ukraine, and his lasting place in the religious and political history of the Ukrainian lands.",
+    uk: "Церковно-історичне дослідження про святого Володимира Великого, що висвітлює його правління, хрещення Руси-України та тривале місце князя в релігійній і політичній історії українських земель."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/a466655b99.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
   title: { en: "Historical Walks Through Lviv", uk: "Історичні проходи по Львові" },
   author: "Ivan Krypiakevych / Іван Крип’якевич",
   year: "1991",
@@ -2327,6 +2351,234 @@ library[2].books.push({
     uk: "Ліричні спогади художника-модерніста й мистецтвознавця Олекси Грищенка, у яких Україна юності постає через особисту пам’ять, мистецьке бачення, краєвиди, дитячі враження та культурну атмосферу втраченої батьківщини."
   },
   iframeSrc: "https://heyzine.com/flip-book/28dcc4fe24.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Ukraine of My Blue Days", uk: "Україна моїх блакитних днів" },
+  author: "Oleksa Hryshchenko / Олекса Грищенко",
+  year: "1958",
+  tags: { en: ["memoirs", "Ukrainian art", "cultural memory"], uk: ["спогади", "українське мистецтво", "культурна пам’ять"] },
+  desc: {
+    en: "A lyrical memoir by modernist painter and art scholar Oleksa Hryshchenko, returning to the Ukraine of his youth through personal memory, artistic vision, landscape, childhood impressions, and the cultural atmosphere of a lost homeland.",
+    uk: "Ліричні спогади художника-модерніста й мистецтвознавця Олекси Грищенка, у яких Україна юності постає через особисту пам’ять, мистецьке бачення, краєвиди, дитячі враження та культурну атмосферу втраченої батьківщини."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/28dcc4fe24.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Roseate Fire", uk: "Вогонь трояндний" },
+  author: "Oleksander De (Oleksandr Barchuk) / Олександер Де (Олександр Барчук)",
+  year: "1970",
+  tags: { en: ["poetry", "Ukrainian diaspora", "lyrical romanticism"], uk: ["поезія", "українська діаспора", "ліричний романтизм"] },
+  desc: {
+    en: "A poetry collection by Ukrainian émigré writer Oleksander De, published in London, combining lyrical-romantic imagery with national, civic, and anti-imperial themes characteristic of his literary voice.",
+    uk: "Поетична збірка українського еміграційного письменника Олександера Де, видана в Лондоні, що поєднує лірично-романтичну образність із національними, громадянськими та антиімперськими мотивами його творчості."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/8b82551cd1.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Adventures of the Zaporozhians", uk: "Пригоди запорожців" },
+  author: "Viacheslav Budzynovskyi / В’ячеслав Будзиновський",
+  year: "1957",
+  tags: { en: ["Zaporozhian Cossacks", "historical story", "adventure fiction"], uk: ["запорожці", "історичне оповідання", "пригодницька проза"] },
+  desc: {
+    en: "A historical adventure story about Zaporozhian Cossacks after the destruction of the Sich, portraying exile, resistance to Muscovite domination, and the search for freedom beyond the Dnipro lands.",
+    uk: "Історико-пригодницьке оповідання про запорожців після зруйнування Січі, що змальовує вигнання, спротив московському пануванню та пошук волі поза наддніпрянськими землями."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/676cd74232.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Zakhar Berkut", uk: "Захар Беркут" },
+  author: "Ivan Franko / Іван Франко",
+  year: "",
+  tags: { en: ["Ivan Franko", "historical fiction", "Carpathian Rus"], uk: ["Іван Франко", "історична проза", "Карпатська Русь"] },
+  desc: {
+    en: "A historical novella set in thirteenth-century Carpathian Rus, portraying the community of Tukhla, its struggle against Mongol invasion, and Franko’s ideal of freedom, solidarity, and collective responsibility.",
+    uk: "Історична повість про Карпатську Русь XIII століття, що змальовує громаду Тухлі, її боротьбу проти монгольської навали та Франковий ідеал свободи, солідарності й громадської відповідальності."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/e2b3bf2c36.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Collected Works, 1938–1978", uk: "Зібрані твори 1938–1978" },
+  author: "Yar Slavutych / Яр Славутич",
+  year: "1978",
+  tags: { en: ["poetry", "collected works", "Ukrainian diaspora literature"], uk: ["поезія", "зібрані твори", "українська діаспорна література"] },
+  desc: {
+    en: "A collected edition covering forty years of Yar Slavutych’s literary work, bringing together poetry, a long poem, and translations that reflect his émigré experience, historical memory, and lyrical-intellectual vision of Ukraine.",
+    uk: "Зібране видання, що охоплює сорок років творчості Яра Славутича та поєднує поезії, поему й переклади, відображаючи його еміграційний досвід, історичну пам’ять і лірико-інтелектуальне бачення України."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/00633adc3f.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "The Forest Song", uk: "Лісова пісня" },
+  author: "Lesia Ukrainka / Леся Українка",
+  year: "1964",
+  tags: { en: ["dramatic fairy play", "Ukrainian classic", "mythology"], uk: ["драма-феєрія", "українська класика", "міфологія"] },
+  desc: {
+    en: "Lesia Ukrainka’s celebrated dramatic fairy play, written in 1911, intertwines human drama with the mythic world of Polissia to explore love, freedom, betrayal, and the conflict between spiritual beauty and everyday compromise.",
+    uk: "Знаменита драма-феєрія Лесі Українки, написана 1911 року, поєднує людську драму з міфологічним світом Полісся та осмислює любов, свободу, зраду і конфлікт між духовною красою та буденною поступкою."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/0fc64833c4.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "The White World", uk: "Білий світ" },
+  author: "Vasyl Barka / Василь Барка",
+  year: "1947",
+  tags: { en: ["poetry", "Ukrainian diaspora literature", "spiritual lyricism"], uk: ["поезія", "українська діаспорна література", "духовна лірика"] },
+  desc: {
+    en: "An early poetry collection by Vasyl Barka, published in post-war Munich, where biblical imagery, spiritual searching, memory of catastrophe, and modernist poetic language shape a deeply introspective Ukrainian émigré voice.",
+    uk: "Рання поетична збірка Василя Барки, видана в повоєнному Мюнхені, у якій біблійна образність, духовні пошуки, пам’ять про катастрофи й модерністична мова формують глибоко внутрішній голос української еміграційної поезії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/4f7aefefc5.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "The Cathedral", uk: "Собор" },
+  author: "Oles Honchar / Олесь Гончар",
+  year: "1968",
+  tags: { en: ["Ukrainian classic", "spiritual memory", "Soviet censorship"], uk: ["українська класика", "духовна пам’ять", "радянська цензура"] },
+  desc: {
+    en: "A landmark Ukrainian novel about the defence of spiritual memory, human dignity, and cultural heritage, centred on an old Cossack cathedral whose fate becomes a moral test for a Soviet industrial community.",
+    uk: "Знаковий український роман про захист духовної пам’яті, людської гідності та культурної спадщини, у центрі якого старовинний козацький собор стає моральним випробуванням для радянського індустріального середовища."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/a3c69e6664.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "On the Slopes of the Carpathian and Pyrenean Mountains", uk: "На схилах гір Карпат і Піренеїв" },
+  author: "Mykola Halychko (Fr. Vasyl Pryima) / Микола Галичко (о. Василь Прийма)",
+  year: "1975",
+  tags: { en: ["poetry", "Ukrainian diaspora", "religious lyricism"], uk: ["поезія", "українська діаспора", "релігійна лірика"] },
+  desc: {
+    en: "A poetry collection by priest and émigré author Mykola Halychko, written between the memory of the Carpathians and life near the Pyrenees, combining patriotic feeling, religious reflection, exile, and longing for Ukraine.",
+    uk: "Поетична збірка священника й еміграційного автора Миколи Галичка, написана між пам’яттю про Карпати та життям біля Піренеїв, що поєднує патріотичне почуття, релігійні роздуми, еміграційний досвід і тугу за Україною."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/cda2290935.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Ruddy Veles", uk: "Рум’яний Влес" },
+  author: "Yurii Buriakivets / Юрій Буряківець",
+  year: "1982",
+  tags: { en: ["poetry", "mythology", "Ukrainian diaspora literature"], uk: ["поезія", "міфологія", "українська діаспорна література"] },
+  desc: {
+    en: "A large-scale poetic epic by Ukrainian émigré writer Yurii Buriakivets, blending historical imagination, mythological motifs, folklore, and reflections on Ukraine’s ancient cultural memory.",
+    uk: "Масштабна поетична епопея українського еміграційного письменника Юрія Буряківця, що поєднує історичну уяву, міфологічні мотиви, фольклор і роздуми про давню культурну пам’ять України."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/8ab635305c.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "From the Stream of Life: Novellas", uk: "З потоку життя: новелі" },
+  author: "Ivanna Chornobryvets (Oleksandra Sulyma-Blokhyn) / Іванна Чорнобривець (Олександра Сулима-Блохина)",
+  year: "1963",
+  tags: { en: ["novellas", "Ukrainian diaspora literature", "women’s prose"], uk: ["новели", "українська діаспорна література", "жіноча проза"] },
+  desc: {
+    en: "A collection of novellas by Ivanna Chornobryvets, bringing together psychologically attentive stories from the stream of everyday life, with a focus on human character, moral choices, women’s experience, and the emotional world of Ukrainian émigré prose.",
+    uk: "Збірка новел Іванни Чорнобривець, що через психологічно уважні сюжети з потоку повсякденного життя розкриває людські характери, моральний вибір, жіночий досвід і внутрішній світ української еміграційної прози."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/29d513235a.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Anthology of Ukrainian Poetry", uk: "Антологія української поезії" },
+  author: "Volodymyr Derzhavyn / Володимир Державин",
+  year: "1957",
+  tags: { en: ["Ukrainian poetry", "anthology", "literary heritage"], uk: ["українська поезія", "антологія", "літературна спадщина"] },
+  desc: {
+    en: "A substantial London-published anthology of Ukrainian poetry compiled by Volodymyr Derzhavyn, presenting Ukrainian poetic tradition as a continuous literary and cultural heritage for readers in the diaspora.",
+    uk: "Ґрунтовна лондонська антологія української поезії, укладена Володимиром Державиним, що представляє українську поетичну традицію як тяглу літературну й культурну спадщину для читачів у діаспорі."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/e61f150af1.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Homin: Literary Anthology", uk: "Гомін: Літературна антологія" },
+  author: "ed. Kost Kuzyk / ред. Кость Кузик",
+  year: "1964",
+  tags: { en: ["literary anthology", "Ukrainians in Poland", "diaspora literature"], uk: ["літературна антологія", "українці в Польщі", "діаспорна література"] },
+  desc: {
+    en: "A Warsaw-published literary anthology edited by Kost Kuzyk, bringing together poetry and prose by Ukrainian writers in Poland and reflecting the cultural life of the Ukrainian community around the Ukrainian Social and Cultural Society.",
+    uk: "Варшавська літературна антологія за редакцією Костя Кузика, що об’єднує поетичні й прозові твори українських письменників у Польщі та відображає культурне життя громади навколо Українського суспільно-культурного товариства."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/f7dc63b494.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Easter Bells: An Anthology of Modern Ukrainian Easter Poetry", uk: "Великодні дзвони: Антологія новішої української Великодньої поезії" },
+  author: "compiled by H. H. Kinakh, OSBM / склав Г. Г. Кінах, ЧСВВ",
+  year: "1968",
+  tags: { en: ["Easter poetry", "religious poetry", "Ukrainian anthology"], uk: ["великодня поезія", "духовна поезія", "українська антологія"] },
+  desc: {
+    en: "A Rome-published anthology of modern Ukrainian Easter poetry compiled by H. H. Kinakh, bringing together religious, lyrical, and national poetic reflections on Resurrection, sacrifice, renewal, and spiritual hope.",
+    uk: "Римська антологія новішої української великодньої поезії, укладена Г. Г. Кінахом, що поєднує релігійні, ліричні й національні поетичні роздуми про Воскресіння, жертву, оновлення та духовну надію."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/f5802227d0.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "My Insurgent Marches", uk: "Мої повстанські марші" },
+  author: "Petro Hetmanets (Petro Vasylenko) / Петро Гетьманець (Петро Василенко)",
+  year: "1946",
+  tags: { en: ["insurgent poetry", "UIA", "liberation struggle"], uk: ["повстанська поезія", "УПА", "визвольна боротьба"] },
+  desc: {
+    en: "A wartime poetry collection by UIA fighter Petro Hetmanets, combining march-like rhythm, patriotic lyricism, and the emotional voice of the Ukrainian underground struggle.",
+    uk: "Воєнна поетична збірка вояка УПА Петра Гетьманця, що поєднує маршову ритміку, патріотичну лірику та емоційний голос українського підпільного спротиву."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/92c4c6f27f.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Mazepa: Baturyn and Poltava", uk: "Мазепа: Батурин і Полтава" },
+  author: "Ivan Desnianskyi / Іван Деснянський",
+  year: "1957",
+  tags: { en: ["Ivan Mazepa", "Baturyn", "historical poem"], uk: ["Іван Мазепа", "Батурин", "історична поема"] },
+  desc: {
+    en: "A historical poem-tragedy about Ivan Mazepa, Baturyn, and Poltava, portraying the events of 1708–1709 through the drama of the Hetman’s anti-Muscovite choice, national sacrifice, and the struggle for Ukrainian statehood.",
+    uk: "Історична поема-трагедія про Івана Мазепу, Батурин і Полтаву, що осмислює події 1708–1709 років через драму антимосковського вибору гетьмана, національної жертви та боротьби за українську державність."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/d687bf46c3.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Modern Aeneid", uk: "Енеїда модерна" },
+  author: "Leonid Poltava / Леонід Полтава",
+  year: "1955",
+  tags: { en: ["satirical poem", "Ukrainian diaspora literature", "modern Aeneid"], uk: ["сатирична поема", "українська діаспорна література", "модерна Енеїда"] },
+  desc: {
+    en: "A satirical poem-epic that reimagines the Aeneid tradition in a modern Ukrainian émigré context, using humour, adventure, and cultural parody to comment on politics, society, and national identity.",
+    uk: "Сатирична поема-епопея, що переосмислює традицію «Енеїди» в модерному українському еміграційному контексті, поєднуючи гумор, пригоди й культурну пародію для осмислення політики, суспільства та національної ідентичності."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/fe41d1eb56.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Volhynian Year", uk: "Волинський рік" },
+  author: "Leonid Mosendz / Леонід Мосендз",
+  year: "1948",
+  tags: { en: ["poem", "Volhynia", "cultural memory"], uk: ["поема", "Волинь", "культурна пам’ять"] },
+  desc: {
+    en: "A neoclassical poem by Leonid Mosendz that returns to the Volhynian landscape and the memory of childhood, transforming the rhythm of the year into a lyrical meditation on homeland, nature, and inner belonging.",
+    uk: "Неокласична поема Леоніда Мосендза, що повертається до волинського краєвиду й пам’яті дитинства, перетворюючи ритм року на ліричне осмислення батьківщини, природи та внутрішньої належності."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/61588f763d.html"
+});
+// 2) Shelf 3 -> library[2]
+library[2].books.push({
+  title: { en: "Reflections", uk: "Роздуми" },
+  author: "Oleksander De (Oleksandr Barchuk) / Олександер Де (Олександр Барчук)",
+  year: "1967",
+  tags: { en: ["poetry", "Ukrainian diaspora literature", "philosophical lyricism"], uk: ["поезія", "українська діаспорна література", "філософська лірика"] },
+  desc: {
+    en: "A poetry collection by Ukrainian émigré writer Oleksander De, bringing together reflective, civic, and lyrical meditations on the human condition, memory, moral choice, and the Ukrainian experience abroad.",
+    uk: "Поетична збірка українського еміграційного письменника Олександера Де, що поєднує рефлексивні, громадянські й ліричні роздуми про людину, пам’ять, моральний вибір та український досвід на чужині."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/3232909bf0.html"
 });
   // OPTIONAL: demo example (remove if you want)
   // library[0].books[0] = {
