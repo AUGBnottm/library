@@ -2964,6 +2964,66 @@ library[2].books.push({
   },
   iframeSrc: "https://heyzine.com/flip-book/1044cfd8ac.html"
 });
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "An Introduction to Ukrainian History, Vol. 2: The Lithuanian-Rus’ Commonwealth, the Polish Domination and the Cossack-Hetman State", uk: "Вступ до історії України, Том 2: Литовсько-руська держава, польське панування та козацько-гетьманська держава" },
+  author: "Nicholas L. Fr.-Chirovsky / Ніколас Л. Фр.-Чировський",
+  year: "1984",
+  tags: { en: ["Ukrainian history", "Cossack Hetmanate", "Lithuanian-Rus’ Commonwealth"], uk: ["історія України", "Гетьманщина", "Литовсько-руська держава"] },
+  desc: {
+    en: "The second volume of Nicholas L. Chirovsky’s English-language survey of Ukrainian history, covering the Lithuanian-Rus’ Commonwealth, Polish domination, and the rise of the Cossack-Hetman state as key stages in Ukraine’s political and cultural development.",
+    uk: "Другий том англомовного огляду історії України Ніколаса Л. Чировського, що висвітлює литовсько-руську добу, польське панування та становлення козацько-гетьманської держави як ключові етапи політичного й культурного розвитку України."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/f550750bdb.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Anglo-American Perspectives on the Ukrainian Question, 1938–1951: A Documentary Collection", uk: "Англо-американські погляди на українське питання, 1938–1951: документальна збірка" },
+  author: "compiled by Lubomyr Y. Luciuk, Bohdan S. Kordan / упоряд. Любомир Я. Луцюк, Богдан С. Кордан",
+  year: "1987",
+  tags: { en: ["Ukrainian question", "diplomatic documents", "Anglo-American policy"], uk: ["українське питання", "дипломатичні документи", "англо-американська політика"] },
+  desc: {
+    en: "A documentary collection presenting British, American, and Canadian perspectives on the Ukrainian question from 1938 to 1951, tracing how Ukraine, nationalism, borders, refugees, and Soviet power were viewed in wartime and early Cold War diplomacy.",
+    uk: "Документальна збірка британських, американських і канадських поглядів на українське питання 1938–1951 років, що показує, як Україну, націоналізм, кордони, біженців і радянську владу сприймали у воєнній та ранньохолодновоєнній дипломатії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/b8fe646315.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Against the Invaders: Taras Chuprynka — Roman Shukhevych, Commander-in-Chief of the UPA", uk: "Проти загарбників: Тарас Чупринка — Роман Шухевич, головний командир УПА" },
+  author: "Petro Mirchuk; trans. Ihor Mirchuk / Петро Мірчук; пер. Ігор Мірчук",
+  year: "1997",
+  tags: { en: ["Roman Shukhevych", "UPA", "biography"], uk: ["Роман Шухевич", "УПА", "біографія"] },
+  desc: {
+    en: "An English-language biographical study of Roman Shukhevych, known as Taras Chuprynka, presenting his role as Commander-in-Chief of the Ukrainian Insurgent Army and placing his leadership within the wider armed struggle against occupying powers.",
+    uk: "Англомовне біографічне дослідження про Романа Шухевича, відомого як Тарас Чупринка, що висвітлює його роль головного командира Української Повстанської Армії та розглядає його провідництво в ширшому контексті збройної боротьби проти окупаційних сил."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/0223d1a7e2.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Concentration Camps in the USSR", uk: "Концентраційні табори в СРСР" },
+  author: "Volodymyr Kosyk / Володимир Косик",
+  year: "1962",
+  tags: { en: ["Gulag", "Soviet repression", "forced labour"], uk: ["ГУЛАГ", "радянські репресії", "примусова праця"] },
+  desc: {
+    en: "An English-language émigré study on the Soviet concentration camp system, documenting forced labour, political imprisonment, and first-hand accounts of repression in the USSR for a Western readership.",
+    uk: "Англомовне еміграційне дослідження радянської системи концтаборів, що документує примусову працю, політичне ув’язнення та свідчення очевидців про репресії в СРСР для західного читача."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/e0d1cd3c3d.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "In Defense of Humanism: The Case against Myth-Creation in the U.N.", uk: "На захист гуманізму: проти творення міфів в ООН" },
+  author: "Iwan Wowchuk / Іван Вовчук",
+  year: "1970",
+  tags: { en: ["human rights", "United Nations", "political essay"], uk: ["права людини", "ООН", "політичний нарис"] },
+  desc: {
+    en: "A short political essay challenging myth-making around the United Nations and defending humanistic principles in the context of international politics, captive nations, and Soviet imperial domination.",
+    uk: "Короткий політичний нарис, що полемізує з міфотворенням довкола Організації Об’єднаних Націй і захищає гуманістичні принципи в контексті міжнародної політики, поневолених націй та радянського імперського панування."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/bf6489e706.html"
+});
   // OPTIONAL: demo example (remove if you want)
   // library[0].books[0] = {
   //   title: { en: "Chronicle of UPA, Vol. 1", uk: "Літопис Української Повстанської Армії, Том 1" },
