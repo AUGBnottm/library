@@ -2969,7 +2969,7 @@ library[3].books.push({
   title: { en: "An Introduction to Ukrainian History, Vol. 2: The Lithuanian-Rus’ Commonwealth, the Polish Domination and the Cossack-Hetman State", uk: "Вступ до історії України, Том 2: Литовсько-руська держава, польське панування та козацько-гетьманська держава" },
   author: "Nicholas L. Fr.-Chirovsky / Ніколас Л. Фр.-Чировський",
   year: "1984",
-  tags: { en: ["Ukrainian history", "Cossack Hetmanate", "Lithuanian-Rus’ Commonwealth"], uk: ["історія України", "Гетьманщина", "Литовсько-руська держава"] },
+  tags: { en: ["Ukrainian history", "Cossack Hetmanate", "Lithuanian-Rus Commonwealth", "in English"], uk: ["історія України", "Гетьманщина", "Литовсько-руська держава"] },
   desc: {
     en: "The second volume of Nicholas L. Chirovsky’s English-language survey of Ukrainian history, covering the Lithuanian-Rus’ Commonwealth, Polish domination, and the rise of the Cossack-Hetman state as key stages in Ukraine’s political and cultural development.",
     uk: "Другий том англомовного огляду історії України Ніколаса Л. Чировського, що висвітлює литовсько-руську добу, польське панування та становлення козацько-гетьманської держави як ключові етапи політичного й культурного розвитку України."
@@ -2981,7 +2981,7 @@ library[3].books.push({
   title: { en: "Anglo-American Perspectives on the Ukrainian Question, 1938–1951: A Documentary Collection", uk: "Англо-американські погляди на українське питання, 1938–1951: документальна збірка" },
   author: "compiled by Lubomyr Y. Luciuk, Bohdan S. Kordan / упоряд. Любомир Я. Луцюк, Богдан С. Кордан",
   year: "1987",
-  tags: { en: ["Ukrainian question", "diplomatic documents", "Anglo-American policy"], uk: ["українське питання", "дипломатичні документи", "англо-американська політика"] },
+  tags: { en: ["Ukrainian question", "diplomatic documents", "Anglo-American policy", "in English"], uk: ["українське питання", "дипломатичні документи", "англо-американська політика"] },
   desc: {
     en: "A documentary collection presenting British, American, and Canadian perspectives on the Ukrainian question from 1938 to 1951, tracing how Ukraine, nationalism, borders, refugees, and Soviet power were viewed in wartime and early Cold War diplomacy.",
     uk: "Документальна збірка британських, американських і канадських поглядів на українське питання 1938–1951 років, що показує, як Україну, націоналізм, кордони, біженців і радянську владу сприймали у воєнній та ранньохолодновоєнній дипломатії."
@@ -2993,7 +2993,7 @@ library[3].books.push({
   title: { en: "Against the Invaders: Taras Chuprynka — Roman Shukhevych, Commander-in-Chief of the UPA", uk: "Проти загарбників: Тарас Чупринка — Роман Шухевич, головний командир УПА" },
   author: "Petro Mirchuk; trans. Ihor Mirchuk / Петро Мірчук; пер. Ігор Мірчук",
   year: "1997",
-  tags: { en: ["Roman Shukhevych", "UPA", "biography"], uk: ["Роман Шухевич", "УПА", "біографія"] },
+  tags: { en: ["Roman Shukhevych", "UIA", "biography", "in English"], uk: ["Роман Шухевич", "УПА", "біографія"] },
   desc: {
     en: "An English-language biographical study of Roman Shukhevych, known as Taras Chuprynka, presenting his role as Commander-in-Chief of the Ukrainian Insurgent Army and placing his leadership within the wider armed struggle against occupying powers.",
     uk: "Англомовне біографічне дослідження про Романа Шухевича, відомого як Тарас Чупринка, що висвітлює його роль головного командира Української Повстанської Армії та розглядає його провідництво в ширшому контексті збройної боротьби проти окупаційних сил."
@@ -3005,7 +3005,7 @@ library[3].books.push({
   title: { en: "Concentration Camps in the USSR", uk: "Концентраційні табори в СРСР" },
   author: "Volodymyr Kosyk / Володимир Косик",
   year: "1962",
-  tags: { en: ["Gulag", "Soviet repression", "forced labour"], uk: ["ГУЛАГ", "радянські репресії", "примусова праця"] },
+  tags: { en: ["Gulag", "Soviet repression", "in English"], uk: ["ГУЛАГ", "радянські репресії", "примусова праця"] },
   desc: {
     en: "An English-language émigré study on the Soviet concentration camp system, documenting forced labour, political imprisonment, and first-hand accounts of repression in the USSR for a Western readership.",
     uk: "Англомовне еміграційне дослідження радянської системи концтаборів, що документує примусову працю, політичне ув’язнення та свідчення очевидців про репресії в СРСР для західного читача."
@@ -3017,14 +3017,374 @@ library[3].books.push({
   title: { en: "In Defense of Humanism: The Case against Myth-Creation in the U.N.", uk: "На захист гуманізму: проти творення міфів в ООН" },
   author: "Iwan Wowchuk / Іван Вовчук",
   year: "1970",
-  tags: { en: ["human rights", "United Nations", "political essay"], uk: ["права людини", "ООН", "політичний нарис"] },
+  tags: { en: ["human rights", "United Nations", "political essay", "in English"], uk: ["права людини", "ООН", "політичний нарис"] },
   desc: {
     en: "A short political essay challenging myth-making around the United Nations and defending humanistic principles in the context of international politics, captive nations, and Soviet imperial domination.",
     uk: "Короткий політичний нарис, що полемізує з міфотворенням довкола Організації Об’єднаних Націй і захищає гуманістичні принципи в контексті міжнародної політики, поневолених націй та радянського імперського панування."
   },
   iframeSrc: "https://heyzine.com/flip-book/bf6489e706.html"
 });
-  // OPTIONAL: demo example (remove if you want)
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Arms of Valor", uk: "Зброя звитяги" },
+  author: "Pavlo Shandruk / Павло Шандрук",
+  year: "1959",
+  tags: { en: ["in English", "military memoirs", "Ukrainian Revolution"], uk: ["Армія УНР", "військові спогади", "Українська революція"] },
+  desc: {
+    en: "An English-language military memoir by Pavlo Shandruk, a senior officer of the UNR Army, recounting the revolutionary and military struggle of 1917–1921 and presenting the Ukrainian fight for statehood to a Western readership.",
+    uk: "Англомовні військові спогади Павла Шандрука, старшини Армії УНР, що висвітлюють революційну й воєнну боротьбу 1917–1921 років та представляють українське змагання за державність західному читачеві."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/5a997d8759.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Heroes of Their Day: The Reminiscences of Bohdan Panchuk", uk: "Герої свого дня: спогади Богдана Панчука" },
+  author: "ed. Lubomyr Y. Luciuk; Bohdan Panchuk / ред. Любомир Я. Луцюк; Богдан Панчук",
+  year: "1983",
+  tags: { en: ["Ukrainian Canadians", "in English", "World War II"], uk: ["українці Канади", "переміщені особи", "Друга світова війна"] },
+  desc: {
+    en: "An edited memoir of Bohdan Panchuk, a Ukrainian Canadian serviceman and community activist, documenting his wartime service, humanitarian work for Ukrainian displaced persons, and the role of Ukrainian Canadians in post-war relief efforts.",
+    uk: "Редаговані спогади Богдана Панчука — українсько-канадського військовослужбовця й громадського діяча, що документують його воєнну службу, допомогу українським переміщеним особам та участь українців Канади в повоєнній гуманітарній праці."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/41da5167d8.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "The Harvest of Sorrow: Soviet Collectivization and the Terror-Famine", uk: "Жнива скорботи: радянська колективізація і терор-голод" },
+  author: "Robert Conquest / Роберт Конквест",
+  year: "1986",
+  tags: { en: ["Holodomor", "Soviet collectivization", "in English"], uk: ["Голодомор", "радянська колективізація", "терор-голод"] },
+  desc: {
+    en: "A landmark English-language study of Soviet collectivization, dekulakization, and the 1932–1933 terror-famine, bringing the Holodomor and the mass suffering of Ukraine’s peasantry to wider Western historical consciousness.",
+    uk: "Знакова англомовна праця про радянську колективізацію, розкуркулення та терор-голод 1932–1933 років, що ввела тему Голодомору й масових страждань українського селянства у ширшу західну історичну свідомість."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/85e29c6329.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "In the German Mills of Death, 1941–1945", uk: "У німецьких млинах смерті, 1941–1945" },
+  author: "Petro Mirchuk / Петро Мірчук",
+  year: "1985",
+  tags: { en: ["Nazi concentration camps", "Ukrainian prisoners", "World War II", "in English"], uk: ["нацистські концтабори", "українські в’язні", "Друга світова війна"] },
+  desc: {
+    en: "An English-language memoir and documentary testimony by Petro Mirchuk, a former prisoner of Auschwitz and other Nazi concentration camps, recounting the experiences of Ukrainian political prisoners under the German camp system during the Second World War.",
+    uk: "Англомовне мемуарно-документальне свідчення Петра Мірчука, колишнього в’язня Аушвіца та інших нацистських концтаборів, про досвід українських політичних в’язнів у німецькій табірній системі часів Другої світової війни."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/39430dc0c5.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Early Ukrainian Settlements in Canada, 1895–1900: Dr. Josef Oleskow’s Role in the Settlement of the Canadian Northwest", uk: "Ранні українські поселення в Канаді, 1895–1900: роль д-ра Йосифа Олеськова в заселенні канадського Північного Заходу" },
+  author: "Vladimir J. Kaye / Володимир Дж. Кей",
+  year: "1964",
+  tags: { en: ["Ukrainian Canadians", "immigration history", "in English"], uk: ["українці Канади", "історія імміграції", "Йосиф Олеськів"] },
+  desc: {
+    en: "A documentary history of the first mass Ukrainian settlements in Canada, examining Dr. Josef Oleskow’s role in promoting organised emigration and tracing the formation of Ukrainian communities in the Canadian Northwest between 1895 and 1900.",
+    uk: "Документальна історія перших масових українських поселень у Канаді, що досліджує роль д-ра Йосифа Олеськова в організованій еміграції та простежує формування українських громад на канадському Північному Заході у 1895–1900 роках."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/234b911e96.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Khrushchov’s Crimes in Ukraine: Mass-Murders of Ukrainian Political Prisoners", uk: "Злочини Хрущова в Україні: масові вбивства українських політичних в’язнів" },
+  author: "Yaroslaw Stezko / Ярослав Стецько",
+  year: "1962",
+  tags: { en: ["Soviet crimes", "political prisoners", "Khrushchev", "in English"], uk: ["радянські злочини", "політичні в’язні", "Хрущов"] },
+  desc: {
+    en: "An English-language political and documentary publication accusing Khrushchev and the Soviet regime of responsibility for mass murders of Ukrainian political prisoners, presenting the issue for an international anti-communist readership.",
+    uk: "Англомовне політико-документальне видання, що звинувачує Хрущова та радянський режим у відповідальності за масові вбивства українських політичних в’язнів і представляє цю тему міжнародному антикомуністичному читачеві."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/96b48f7a5d.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "In the Whirlpool of Combat", uk: "У вирі боротьби" },
+  author: "Yuriy Boretz / Юрій Борець",
+  year: "1974",
+  tags: { en: ["in English", "UPA", "memoirs", "combat experience"], uk: ["УПА", "спогади", "бойовий досвід"] },
+  desc: {
+    en: "An English-language memoir-novel by UPA veteran Yuriy Boretz, recounting the harsh realities of underground warfare, comradeship, survival, and personal endurance in the Ukrainian insurgent struggle.",
+    uk: "Англомовний мемуарний роман ветерана УПА Юрія Борця, що передає суворі реалії підпільної війни, побратимство, виживання та особисту витривалість в українській повстанській боротьбі."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/04b2764a92.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Murdered by Moscow: Petlura, Konovalets, Bandera", uk: "Убиті Москвою: Петлюра, Коновалець, Бандера" },
+  author: "Ukrainian Publishers Ltd. / Українське видавництво",
+  year: "1962",
+  tags: { en: ["in English", "political assassination", "Ukrainian leaders", "Soviet crimes"], uk: ["політичне вбивство", "українські провідники", "радянські злочини"] },
+  desc: {
+    en: "A documentary-political publication presenting the assassinations of Symon Petlura, Yevhen Konovalets, and Stepan Bandera as part of Moscow’s campaign against leaders of the Ukrainian national liberation movement.",
+    uk: "Документально-політичне видання, що розглядає вбивства Симона Петлюри, Євгена Коновальця та Степана Бандери як частину московської боротьби проти провідників українського національно-визвольного руху."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/f806f9f3bf.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "One of the Fifteen Million", uk: "Один із п’ятнадцяти мільйонів" },
+  author: "Nicholas Prychodko / Ніколас Приходько",
+  year: "1952",
+  tags: { en: ["in English", "Soviet repression", "memoirs", "survivor testimony"], uk: ["радянські репресії", "спогади", "свідчення очевидця"] },
+  desc: {
+    en: "A personal testimony of survival under Stalin’s regime, presenting one Ukrainian’s experience of Soviet repression as part of the wider suffering of millions under communist terror.",
+    uk: "Особисте свідчення про виживання під сталінським режимом, що подає досвід одного українця як частину ширшої трагедії мільйонів жертв комуністичного терору."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/598c064b93.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Politics of a Church Union", uk: "Політика церковної унії" },
+  author: "Russel P. Moroziuk / Рассел П. Морозюк",
+  year: "1983",
+  tags: { en: ["in English", "Ukrainian Catholic Church", "Church history", "religious politics"], uk: ["Українська Католицька Церква", "історія Церкви", "релігійна політика"] },
+  desc: {
+    en: "A historical and theological study of relations between the Ukrainian Catholic Church and the Church of Rome, examining church union through the lens of ecclesiastical politics, identity, and Eastern Christian tradition.",
+    uk: "Історико-богословське дослідження відносин між Українською Католицькою Церквою та Римською Церквою, що розглядає церковну унію крізь призму церковної політики, ідентичності та східнохристиянської традиції."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/9c35af7e0b.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Prince Mazepa, Hetman of Ukraine: In Contemporary English Publications, 1687–1709", uk: "Князь Мазепа, гетьман України: у сучасних англійських публікаціях 1687–1709 років" },
+  author: "Theodore Mackiw / Теодор Маків",
+  year: "1967",
+  tags: { en: ["in English", "Ivan Mazepa", "English sources", "Hetmanate"], uk: ["Іван Мазепа", "англійські джерела", "Гетьманщина"] },
+  desc: {
+    en: "A source-based historical study presenting how Hetman Ivan Mazepa was described in contemporary English publications between 1687 and 1709, offering Western perspectives on his rule, diplomacy, and role in European politics.",
+    uk: "Джерелознавче історичне дослідження про те, як гетьмана Івана Мазепу описували в сучасних йому англійських публікаціях 1687–1709 років, подаючи західний погляд на його правління, дипломатію та роль у європейській політиці."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/8ba2070a3e.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Revolutionary Voices: Ukrainian Political Prisoners Condemn Russian Colonialism", uk: "Революційні голоси: українські політичні в’язні засуджують російський колоніалізм" },
+  author: "Ivan Dzyuba and other Ukrainian political prisoners / Іван Дзюба та інші українські політичні в’язні",
+  year: "1969",
+  tags: { en: ["in English", "political prisoners", "Russian colonialism", "dissident thought"], uk: ["політичні в’язні", "російський колоніалізм", "дисидентська думка"] },
+  desc: {
+    en: "An English-language collection of texts by Ukrainian political prisoners and dissident voices, exposing Russian colonial domination and defending the cultural, political, and national rights of Ukraine.",
+    uk: "Англомовна збірка текстів українських політичних в’язнів і дисидентських голосів, що викриває російське колоніальне панування та захищає культурні, політичні й національні права України."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/f88c6dd174.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Russian Unlawfulness in Ukraine: The Life of a Martyr", uk: "Російське беззаконня в Україні: життя мученика" },
+  author: "Ivan Kandyba / Іван Кандиба",
+  year: "1980",
+  tags: { en: ["in English", "Ukrainian Helsinki Group", "political prisoner", "human rights"], uk: ["Українська Гельсінська група", "політичний в’язень", "права людини"] },
+  desc: {
+    en: "An English-language dissident testimony by Ivan Kandyba, a Ukrainian lawyer and political prisoner, documenting Soviet legal persecution, prison experience, and the struggle for human and national rights in Ukraine.",
+    uk: "Англомовне дисидентське свідчення Івана Кандиби — українського юриста й політичного в’язня, що документує радянське правове переслідування, табірний досвід і боротьбу за людські та національні права в Україні."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/06b009336b.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Russian World Ambitions and World Peace: Hitler’s Fatal Blunder; Britain’s Opportunity", uk: "Світові амбіції Росії та світовий мир: фатальна помилка Гітлера; можливість Британії" },
+  author: "R. Ilnytzky / Р. Ільницький",
+  year: "1953",
+  tags: { en: ["in English", "Russian imperialism", "world peace", "anti-Soviet analysis"], uk: ["російський імперіалізм", "світовий мир", "антирадянський аналіз"] },
+  desc: {
+    en: "A Cold War political pamphlet analysing Russian imperial ambitions, the strategic mistakes of the Second World War, and the need for a Western policy that recognises the liberation of captive nations as essential to lasting peace.",
+    uk: "Політична брошура доби холодної війни, що аналізує російські імперські амбіції, стратегічні помилки Другої світової війни та потребу західної політики, яка визнає визволення поневолених націй умовою тривалого миру."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/c6d049c1c6.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Song Out of Darkness: Selected Poems", uk: "Пісня з темряви: вибрані поезії" },
+  author: "Taras Shevchenko; trans. Vera Rich / Тарас Шевченко; пер. Віра Річ",
+  year: "1961",
+  tags: { en: ["in English", "Taras Shevchenko", "selected poems", "Ukrainian classic"], uk: ["Тарас Шевченко", "вибрані поезії", "українська класика"] },
+  desc: {
+    en: "An English-language selection of Taras Shevchenko’s poetry translated by Vera Rich, introducing his voice of national dignity, exile, social injustice, and spiritual resistance to a wider Western readership.",
+    uk: "Англомовна добірка поезій Тараса Шевченка в перекладі Віри Річ, що відкриває західному читачеві його голос національної гідності, вигнання, соціальної несправедливості та духовного спротиву."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/d0272a5d6e.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "The Chornovil Papers", uk: "Документи Чорновола" },
+  author: "compiled by Viacheslav Chornovil / упоряд. В’ячеслав Чорновіл",
+  year: "1968",
+  tags: { en: ["in English", "Ukrainian dissidents", "samizdat", "human rights"], uk: ["українські дисиденти", "самвидав", "права людини"] },
+  desc: {
+    en: "An English-language edition of Viacheslav Chornovil’s documentary collection on the persecution of Ukrainian intellectuals in the 1960s, exposing Soviet repression and giving international visibility to Ukrainian dissident resistance.",
+    uk: "Англомовне видання документальної збірки В’ячеслава Чорновола про переслідування української інтелігенції у 1960-х роках, що викриває радянські репресії та надає міжнародного звучання українському дисидентському спротиву."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/7668146b52.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "The First Guidebook to the USSR", uk: "Перший путівник по СРСР" },
+  author: "Avraham Shifrin / Авраам Шифрін",
+  year: "1980",
+  tags: { en: ["in English", "Gulag", "Soviet prisons", "human rights"], uk: ["ГУЛАГ", "радянські тюрми", "права людини"] },
+  desc: {
+    en: "A dissident guide to the hidden geography of Soviet prisons, labour camps, psychiatric institutions, and sites of repression, written to expose the USSR not as a tourist destination but as a vast system of coercion.",
+    uk: "Дисидентський путівник прихованою географією радянських тюрем, таборів, психіатричних установ і місць репресій, що показує СРСР не як туристичну країну, а як розгалужену систему примусу."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/db05b6a977.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "The Gulag Archipelago", uk: "Архіпелаг ГУЛАГ" },
+  author: "Alexander Solzhenitsyn / Олександр Солженіцин",
+  year: "1974",
+  tags: { en: ["in English", "Gulag", "Soviet repression", "testimony"], uk: ["ГУЛАГ", "радянські репресії", "свідчення"] },
+  desc: {
+    en: "A landmark documentary-literary work exposing the Soviet forced-labour camp system through testimony, investigation, and moral reflection, becoming one of the most influential texts on totalitarian repression in the twentieth century.",
+    uk: "Знакова документально-літературна праця про радянську систему примусово-трудових таборів, що поєднує свідчення, розслідування й моральне осмислення та стала одним із найвпливовіших текстів про тоталітарні репресії ХХ століття."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/cc23a8a8e2.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "The Hunters and the Hunted", uk: "Мисливці і переслідувані" },
+  author: "Ivan Bahriany / Іван Багряний",
+  year: "1954",
+  tags: { en: ["in English", "Tiger Trappers", "adventure novel", "Soviet persecution"], uk: ["Тигролови", "пригодницький роман", "радянське переслідування"] },
+  desc: {
+    en: "The English translation of Ivan Bahriany’s adventure novel Tiger Trappers, following a Ukrainian political fugitive through the taiga and turning a survival story into a powerful literary statement against Soviet persecution.",
+    uk: "Англомовний переклад пригодницького роману Івана Багряного «Тигролови», у якому втеча українського політичного переслідуваного крізь тайгу перетворюється на сильне літературне свідчення проти радянського насильства."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/e2b7aaf484.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "The Radiant Cross: A Novel of the Ukrainian Struggle for Peace and Freedom", uk: "Сяючий хрест: роман про українську боротьбу за мир і свободу" },
+  author: "Herbert Hirschfeld / Герберт Гіршфельд",
+  year: "1963",
+  tags: { en: ["in English", "Ukrainian struggle", "historical novel", "freedom"], uk: ["українська боротьба", "історичний роман", "свобода"] },
+  desc: {
+    en: "An English-language novel presenting Ukraine’s struggle for peace and freedom through a dramatic narrative of occupation, political violence, faith, and human endurance in the shadow of twentieth-century conflict.",
+    uk: "Англомовний роман про українську боротьбу за мир і свободу, що через драматичний сюжет окупації, політичного насильства, віри та людської витривалості відтворює досвід України в тіні конфліктів ХХ століття."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/ef9954807b.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "The Shame of the Twentieth Century: Bolshevist Methods of Combatting the Ukrainian National Liberation Movement", uk: "Ганьба двадцятого століття: більшовицькі методи боротьби з українським національно-визвольним рухом" },
+  author: "Ukrainian Information Service / Українська інформаційна служба",
+  year: "1962",
+  tags: { en: ["in English", "documentary report", "Soviet repression", "liberation movement"], uk: ["документальний звіт", "радянські репресії", "визвольний рух"] },
+  desc: {
+    en: "A documentary report exposing Bolshevik methods used against the Ukrainian national liberation movement, presenting evidence of repression, violence, and political persecution for an international readership.",
+    uk: "Документальний звіт про більшовицькі методи боротьби проти українського національно-визвольного руху, що подає міжнародному читачеві свідчення репресій, насильства та політичного переслідування."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/6f7d3a357d.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "The Ukrainian Holocaust of 1933", uk: "Український Голокост 1933 року" },
+  author: "Wasyl Hryshko; ed. and trans. Marco Carynnyk / Василь Гришко; ред. і пер. Марко Царинник",
+  year: "1983",
+  tags: { en: ["in English", "Holodomor", "survivor testimony", "Soviet crimes"], uk: ["Голодомор", "свідчення очевидців", "радянські злочини"] },
+  desc: {
+    en: "An English-language account of the 1932–1933 famine in Ukraine, combining survivor testimony and historical analysis to present the Holodomor as a deliberate Soviet crime against the Ukrainian people.",
+    uk: "Англомовна праця про голод 1932–1933 років в Україні, що поєднує свідчення очевидців та історичний аналіз і подає Голодомор як свідомий радянський злочин проти українського народу."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/27382b79f8.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "The Ukrainian Nationalist Movement in the U.S.S.R. since 1956", uk: "Український націоналістичний рух в СРСР після 1956 року" },
+  author: "J. Birch / Дж. Бірч",
+  year: "1971",
+  tags: { en: ["in English", "Ukrainian nationalism", "Soviet Ukraine", "dissident movement"], uk: ["український націоналізм", "радянська Україна", "дисидентський рух"] },
+  desc: {
+    en: "A concise English-language study of Ukrainian nationalist and dissident activity in the USSR after 1956, examining how national opposition continued under post-Stalin Soviet rule.",
+    uk: "Стислий англомовний огляд української націоналістичної та дисидентської активності в СРСР після 1956 року, що показує тяглість національного спротиву в післясталінську добу."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/39d0a9ba1a.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Ukrainian Nationalism", uk: "Український націоналізм" },
+  author: "John A. Armstrong / Джон А. Армстронґ",
+  year: "1980",
+  tags: { en: ["in English", "Ukrainian nationalism", "OUN", "World War II"], uk: ["український націоналізм", "ОУН", "Друга світова війна"] },
+  desc: {
+    en: "A major English-language scholarly study of Ukrainian nationalism, especially during the Second World War, analysing the ideology, organisation, political strategy, and historical role of the nationalist movement.",
+    uk: "Важливе англомовне наукове дослідження українського націоналізму, особливо доби Другої світової війни, що аналізує ідеологію, організацію, політичну стратегію та історичну роль націоналістичного руху."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/ac869df624.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Ukrainian Political Prisoners in the Soviet Union: A Biographical List", uk: "Українські політичні в’язні в Радянському Союзі: біографічний список" },
+  author: "Ukrainian Central Information Service; Valentyn Moroz / Українська центральна інформаційна служба; Валентин Мороз",
+  year: "1979",
+  tags: { en: ["in English", "political prisoners", "Soviet repression", "human rights"], uk: ["політичні в’язні", "радянські репресії", "права людини"] },
+  desc: {
+    en: "An English-language biographical list documenting Ukrainian political prisoners in the Soviet Union, created to inform the West about Soviet repression, dissident persecution, and the human rights struggle in Ukraine.",
+    uk: "Англомовний біографічний список українських політичних в’язнів у Радянському Союзі, створений для інформування Заходу про радянські репресії, переслідування дисидентів і боротьбу за права людини в Україні."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/0703d98f9b.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Ukrainian Woman in the Modern Age", uk: "Українська жінка в модерну добу" },
+  author: "Association of Ukrainian Women in Great Britain; ed. L. Povroznyk / Об’єднання українських жінок у Великій Британії; ред. Л. Поврозник",
+  year: "1963",
+  tags: { en: ["in English", "Ukrainian women", "diaspora", "women’s movement"], uk: ["українські жінки", "діаспора", "жіночий рух"] },
+  desc: {
+    en: "An English-language publication by the Association of Ukrainian Women in Great Britain, presenting the role, identity, public work, and cultural mission of Ukrainian women in the modern world and diaspora life.",
+    uk: "Англомовне видання Об’єднання українських жінок у Великій Британії, що висвітлює роль, ідентичність, громадську працю та культурну місію української жінки в модерному світі й діаспорному житті."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/9af513d1be.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "The USSR Unmasked: A Collection of Articles and Essays on Soviet Russian Repression in Ukraine", uk: "СРСР без маски: збірка статей і есеїв про совєтсько-російські репресії в Україні" },
+  author: "Osyp Diakiv-Hornovy / Осип Дяків-Горновий",
+  year: "1975",
+  tags: { en: ["in English", "Soviet repression", "OUN", "anti-Soviet essays"], uk: ["радянські репресії", "ОУН", "антирадянська публіцистика"] },
+  desc: {
+    en: "An English-language collection of articles and essays by Osyp Diakiv-Hornovy exposing Soviet Russian repression in Ukraine and presenting the ideological, political, and moral case against the USSR.",
+    uk: "Англомовна збірка статей та есеїв Осипа Дяківа-Горнового, що викриває совєтсько-російські репресії в Україні й подає ідеологічний, політичний та моральний аргумент проти СРСР."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/98c7d27f24.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Treasures of Our Memory", uk: "Скарби нашої пам’яті" },
+  author: "compiled by Mykhailo Sikorskyi, Larysa Tynna; photos by Stanislav Kriachko / упоряд. Михайло Сікорський, Лариса Тинна; фото Станіслав Крячко",
+  year: "1993",
+  tags: { en: ["photo album", "cultural heritage", "historical memory"], uk: ["фотоальбом", "культурна спадщина", "історична пам’ять"] },
+  desc: {
+    en: "A bilingual Ukrainian-English photo album presenting monuments, artefacts, landscapes, and cultural treasures of Ukraine as a visual journey through national memory and historical heritage.",
+    uk: "Двомовний українсько-англійський фотоальбом, що представляє пам’ятки, артефакти, краєвиди та культурні скарби України як візуальну мандрівку національною пам’яттю й історичною спадщиною."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/cd94bdb921.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Ukraine and Ukrainians", uk: "Україна та українці" },
+  author: "ed. Peter Kardash; ed. Brett Lockwood; foreword by Jaroslav Rudnyckyj / ред. Петро Кардаш; ред. Бретт Локвуд; передмова Ярослава Рудницького",
+  year: "1988",
+  tags: { en: ["in English", "Ukraine", "illustrated history", "cultural heritage"], uk: ["Україна", "ілюстрована історія", "культурна спадщина"] },
+  desc: {
+    en: "A richly illustrated English-language overview of Ukraine and Ukrainians, combining accessible historical, cultural, biographical, and visual material to introduce Ukrainian heritage to an international readership.",
+    uk: "Багато ілюстрований англомовний огляд України та українців, що поєднує доступні історичні, культурні, біографічні й візуальні матеріали для представлення української спадщини міжнародному читачеві."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/8da51a3980.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "A Journey Through the Lands of Pidhaitsi: Photo Album", uk: "Мандрівка землями Підгаєччини: фотоальбом" },
+  author: "materials collected and edited by Vasyl Papizh; editorial board incl. Taras Hunchak, Ivan Kernytskyi et al. / матеріали зібрав і опрацював Василь Папіж; редкол. Тарас Гунчак, Іван Керницький та ін.",
+  year: "1980",
+  tags: { en: ["Pidhaitsi region", "photo album", "local history"], uk: ["Підгаєччина", "фотоальбом", "краєзнавство"] },
+  desc: {
+    en: "A diaspora photo album preserving the historical, cultural, and communal memory of the Pidhaitsi region through photographs, local testimony, and materials gathered from Ukrainian communities across the world.",
+    uk: "Діаспорний фотоальбом, що зберігає історичну, культурну й громадську пам’ять Підгаєччини через світлини, локальні свідчення та матеріали, зібрані серед українських громад у різних країнах."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/a433493b73.html"
+});
+// OPTIONAL: demo example (remove if you want)
   // library[0].books[0] = {
   //   title: { en: "Chronicle of UPA, Vol. 1", uk: "Літопис Української Повстанської Армії, Том 1" },
   //   author: "—",
@@ -3034,7 +3394,6 @@ library[3].books.push({
   //   desc: { en: "Flipbook preview.", uk: "Перегляд у форматі фліпбуку." },
   //   iframeSrc: "https://heyzine.com/flip-book/f3692525e4.html"
   // };
-
   // ============ DOM refs ============
   const sectionsEl = document.getElementById("sections");
   const searchInput = document.getElementById("searchInput");
