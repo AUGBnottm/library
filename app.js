@@ -3384,6 +3384,54 @@ library[3].books.push({
   },
   iframeSrc: "https://heyzine.com/flip-book/a433493b73.html"
 });
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Kobzar", uk: "Кобзар" },
+  author: "Taras Shevchenko / Тарас Шевченко",
+  year: "1943",
+  tags: { en: ["Taras Shevchenko", "selected poems", "Ukrainian classic"], uk: ["Тарас Шевченко", "вибрані поезії", "українська класика"] },
+  desc: {
+    en: "A wartime edition of selected poems from Taras Shevchenko’s Kobzar, presenting his poetry as a voice of national dignity, freedom, social justice, and Ukrainian spiritual resistance.",
+    uk: "Воєнне видання вибраних поезій із «Кобзаря» Тараса Шевченка, що представляє його творчість як голос національної гідності, свободи, соціальної справедливості та українського духовного спротиву."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/51dd605364.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Their Land: An Anthology of Ukrainian Short Stories", uk: "Їхня земля: антологія українських оповідань" },
+  author: "ed. Michael Luchkovich / ред. Майкл Лучкович",
+  year: "1964",
+  tags: { en: ["in English", "Ukrainian short stories", "anthology", "literary translation"], uk: ["українські оповідання", "антологія", "літературний переклад"] },
+  desc: {
+    en: "An English-language anthology of Ukrainian short stories edited by Michael Luchkovich, introducing Ukrainian prose, rural life, social experience, and national literary tradition to readers outside Ukraine.",
+    uk: "Англомовна антологія українських оповідань за редакцією Майкла Лучковича, що знайомить іноземного читача з українською прозою, сільським життям, суспільним досвідом і національною літературною традицією."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/dc8d02712c.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "Religion in Communist Lands", uk: "Релігія в комуністичних країнах" },
+  author: "ed. Paul Booth / ред. Пол Бут",
+  year: "1986",
+  tags: { en: ["in English", "religion", "communist regimes", "human rights"], uk: ["релігія", "комуністичні режими", "права людини"] },
+  desc: {
+    en: "An English-language periodical issue devoted to religious life under communist rule, documenting persecution, church-state relations, and the struggle for freedom of conscience in Eastern Europe and the Soviet sphere.",
+    uk: "Англомовний випуск періодичного видання про релігійне життя під комуністичною владою, що документує переслідування, церковно-державні відносини та боротьбу за свободу совісті у Східній Європі й радянській сфері."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/1cdf6ed90f.html"
+});
+// 3) Shelf 4 -> library[3]
+library[3].books.push({
+  title: { en: "A Ukrainian Canadian in Parliament: Memoirs of Michael Luchkovich", uk: "Український канадець у парламенті: спогади Майкла Лучковича" },
+  author: "Michael Luchkovich / Майкл Лучкович",
+  year: "1965",
+  tags: { en: ["in English", "Ukrainian Canadians", "parliament", "memoirs"], uk: ["українці Канади", "парламент", "спогади"] },
+  desc: {
+    en: "The memoirs of Michael Luchkovich, the first Ukrainian Canadian elected to the Parliament of Canada, reflecting on public service, multiculturalism, minority rights, and Ukrainian community life in Canada.",
+    uk: "Спогади Майкла Лучковича — першого українця канадського походження, обраного до парламенту Канади, що висвітлюють громадську службу, мультикультуралізм, права меншин і життя української громади в Канаді."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/78bef0dedb.html"
+});
 // OPTIONAL: demo example (remove if you want)
   // library[0].books[0] = {
   //   title: { en: "Chronicle of UPA, Vol. 1", uk: "Літопис Української Повстанської Армії, Том 1" },
