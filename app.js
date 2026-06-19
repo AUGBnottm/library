@@ -3432,6 +3432,222 @@ library[3].books.push({
   },
   iframeSrc: "https://heyzine.com/flip-book/78bef0dedb.html"
 });
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "History’s Carnival: A Dissident’s Autobiography", uk: "Карнавал історії: автобіографія дисидента" },
+  author: "Leonid Plyushch / Леонід Плющ",
+  year: "1979",
+  tags: { en: ["in English", "Soviet dissidents", "psychiatric repression", "autobiography"], uk: ["радянські дисиденти", "психіатричні репресії", "автобіографія"] },
+  desc: {
+    en: "An English-language autobiography by Ukrainian mathematician and Soviet dissident Leonid Plyushch, recounting his political awakening, arrest, imprisonment in a psychiatric hospital, and resistance to Soviet ideological control.",
+    uk: "Англомовна автобіографія українського математика й радянського дисидента Леоніда Плюща, що описує його політичне пробудження, арешт, ув’язнення в психіатричній лікарні та спротив радянському ідеологічному контролю."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/3649a6eb77.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Russian Oppression in Ukraine: Reports and Documents", uk: "Російське гноблення в Україні: звіти і документи" },
+  author: "compiled by the Ukrainian Information Service in London / упоряд. Українська інформаційна служба в Лондоні",
+  year: "1962",
+  tags: { en: ["in English", "Soviet repression", "reports and documents", "Russian imperialism"], uk: ["радянські репресії", "звіти і документи", "російський імперіалізм"] },
+  desc: {
+    en: "A large English-language documentary collection compiled in London, presenting reports and documents on Russian and Soviet oppression in Ukraine for an international anti-communist and human rights readership.",
+    uk: "Велика англомовна документальна збірка, укладена в Лондоні, що подає звіти й документи про російське та радянське гноблення в Україні для міжнародної антикомуністичної та правозахисної аудиторії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/13c97b2997.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Why Is One Holocaust Worth More Than Others?", uk: "Чому один Голокост вартий більше, ніж інші?" },
+  author: "Yurij Chumatskyj / Юрій Чумацький",
+  year: "1986",
+  tags: { en: ["in English", "Holodomor", "genocide memory", "historical polemic"], uk: ["Голодомор", "пам’ять про геноцид", "історична полеміка"] },
+  desc: {
+    en: "An English-language polemical study arguing for wider recognition of the Ukrainian famine-genocide and challenging the unequal treatment of different mass atrocities in public memory and international politics.",
+    uk: "Англомовна полемічна праця, що обстоює ширше визнання українського голоду-геноциду й критикує нерівне ставлення до різних масових злочинів у публічній пам’яті та міжнародній політиці."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/060deac2cf.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Holodomor: Ukrainian Genocide in the Early 1930s", uk: "Голодомор: український геноцид на початку 1930-х років" },
+  author: "prepared by Anna Alekseyenko et al. / підгот. Анна Алексєєнко та ін.",
+  year: "2005",
+  tags: { en: ["in English", "Holodomor", "Ukrainian genocide", "educational publication"], uk: ["Голодомор", "український геноцид", "освітнє видання"] },
+  desc: {
+    en: "An English-language educational publication on the Holodomor, presenting the famine of the early 1930s as genocide against Ukrainians through historical explanation, documentation, and memory-focused material.",
+    uk: "Англомовне освітнє видання про Голодомор, що подає голод початку 1930-х років як геноцид проти українців через історичне пояснення, документи та матеріали, зосереджені на пам’яті."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/e20a43b284.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Ukrainian Liberation Movement in Modern Times", uk: "Український визвольний рух у новітню добу" },
+  author: "Oleh Martovych / Олег Мартович",
+  year: "1962",
+  tags: { en: ["in English", "liberation movement", "OUN", "modern Ukrainian history"], uk: ["визвольний рух", "ОУН", "новітня історія України"] },
+  desc: {
+    en: "An English-language historical and political overview of the Ukrainian liberation movement in the modern era, explaining its ideological foundations, struggle against foreign domination, and role in the fight for Ukrainian independence.",
+    uk: "Англомовний історико-політичний огляд українського визвольного руху новітньої доби, що пояснює його ідейні засади, боротьбу проти чужого панування та роль у змаганні за незалежність України."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/bc826cc481.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "The Stalin Famine: Ukraine in the Year 1933", uk: "Сталінський голод: Україна в 1933 році" },
+  author: "Fedir Pigido-Pravoberezhny / Федір Пігідо-Правобережний",
+  year: "1953",
+  tags: { en: ["in English", "Holodomor", "eyewitness testimony", "Stalinism"], uk: ["Голодомор", "свідчення очевидця", "сталінізм"] },
+  desc: {
+    en: "An early English-language account of the 1933 famine in Ukraine by Fedir Pigido-Pravoberezhny, presenting eyewitness testimony and analysis of Stalinist policy, terror, and mass starvation.",
+    uk: "Одна з ранніх англомовних праць про голод 1933 року в Україні, у якій Федір Пігідо-Правобережний подає свідчення очевидця та аналіз сталінської політики, терору й масового голоду."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/b739af88c2.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Russia: The Suburb of Hell: From Ivan Kalita to Khrushchev Nikita", uk: "Росія: передмістя пекла — від Івана Калити до Микити Хрущова" },
+  author: "Wiktor Ostrowski / Віктор Островський",
+  year: "1961",
+  tags: { en: ["in English", "Russian imperialism", "anti-Soviet pamphlet", "Belarusian diaspora"], uk: ["російський імперіалізм", "антирадянська брошура", "білоруська діаспора"] },
+  desc: {
+    en: "An English-language anti-Soviet pamphlet by Belarusian émigré Wiktor Ostrowski, presenting a polemical history of Russian imperial domination from Muscovy to Khrushchev’s Soviet Union.",
+    uk: "Англомовна антирадянська брошура білоруського еміграційного діяча Віктора Островського, що подає полемічну історію російського імперського панування від Московії до СРСР часів Хрущова."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/3386201ef5.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Truth on the March", uk: "Правда в поході" },
+  author: "Canadian League for Ukraine’s Liberation / Ліга визволення України в Канаді",
+  year: "1953",
+  tags: { en: ["in English", "Ukrainian diaspora", "anti-Bolshevik movement", "political pamphlet"], uk: ["українська діаспора", "антибільшовицький рух", "політична брошура"] },
+  desc: {
+    en: "An English-language political pamphlet associated with the Canadian League for Ukraine’s Liberation, promoting the cause of Ukrainian independence, anti-Bolshevik resistance, and the international struggle of captive nations.",
+    uk: "Англомовна політична брошура, пов’язана з Лігою визволення України в Канаді, що популяризує справу української незалежності, антибільшовицький спротив і міжнародну боротьбу поневолених націй."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/161fab27f5.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Without Tears", uk: "Без сліз" },
+  author: "Oleksander De / Олександер Де",
+  year: "1966",
+  tags: { en: ["in English", "diaspora literature", "poetry", "émigré writing"], uk: ["діаспорна література", "поезія", "еміграційне письмо"] },
+  desc: {
+    en: "A poetry collection by Ukrainian émigré writer Oleksander De, reflecting the lyrical, romantic, and exile-shaped sensibility of post-war Ukrainian literary life in Great Britain.",
+    uk: "Поетична збірка українського еміграційного письменника Олександера Де, що відображає ліричну, романтичну й вигнанську чутливість повоєнного українського літературного життя у Великій Британії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/fb7f942dc9.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "The Faces of Culture", uk: "Обличчя культури" },
+  author: "Stepan Hoverla / Степан Говерля",
+  year: "1984",
+  tags: { en: ["in English", "Ukrainian culture", "dissident essays", "political lectures"], uk: ["українська культура", "дисидентська публіцистика", "політичні лекції"] },
+  desc: {
+    en: "An English-language dissident work on Ukrainian culture, written under the pseudonym Stepan Hoverla, exploring culture as a field of national survival, moral resistance, and political self-definition under Soviet domination.",
+    uk: "Англомовна дисидентська праця про українську культуру, написана під псевдонімом Степан Говерля, що розглядає культуру як простір національного виживання, морального спротиву й політичного самовизначення під радянським пануванням."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/e4117f0309.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Ukraine and the Ukrainians: A Collection of Selected Articles", uk: "Україна та українці: збірка вибраних статей" },
+  author: "ed. I. Dmytriw and J. Wasyluk; technical arrangement by I. S. Hawryliw / ред. І. Дмитрів і Дж. Василюк; техн. оформлення І. С. Гаврилів",
+  year: "1982",
+  tags: { en: ["in English", "Ukraine", "selected articles", "diaspora publication"], uk: ["Україна", "вибрані статті", "діаспорне видання"] },
+  desc: {
+    en: "An English-language collection of selected articles published by the Association of Ukrainians in Great Britain, introducing Ukraine’s history, culture, political situation, and diaspora perspective to a wider readership.",
+    uk: "Англомовна збірка вибраних статей, видана Союзом українців у Великій Британії, що знайомить ширшого читача з історією, культурою, політичним становищем України та поглядом діаспори."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/139757087a.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Ukrainian Herald: Issue IV", uk: "Український вісник: випуск IV" },
+  author: "Ukrainskyi Visnyk; footnotes by Nicholas G. Bohatiuk / Український вісник; примітки Ніколаса Ґ. Богатюка",
+  year: "1972",
+  tags: { en: ["in English", "samizdat", "Ukrainian dissidents", "human rights"], uk: ["самвидав", "українські дисиденти", "права людини"] },
+  desc: {
+    en: "An English translation of the fourth issue of the underground Ukrainian Herald, documenting Soviet repression, Russification, political prisoners, and the human rights struggle in Ukraine during the early 1970s.",
+    uk: "Англомовний переклад четвертого випуску підпільного «Українського вісника», що документує радянські репресії, русифікацію, політичних в’язнів і боротьбу за права людини в Україні початку 1970-х років."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/f3a6f6de9d.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Spirit of Ukraine: Ukrainian Contributions to World’s Culture", uk: "Дух України: український внесок у світову культуру" },
+  author: "D. Snowyd [Dmytro Dontsov]; final revision and translation by Vladimir Semenyna / Д. Сновід [Дмитро Донцов]; остаточна редакція і переклад Володимира Семенини",
+  year: "1935",
+  tags: { en: ["in English", "Ukrainian culture", "world culture", "national identity"], uk: ["українська культура", "світова культура", "національна ідентичність"] },
+  desc: {
+    en: "An early English-language cultural survey presenting Ukraine’s contribution to world civilisation through history, literature, art, music, political thought, and the broader spiritual identity of the Ukrainian people.",
+    uk: "Ранній англомовний культурологічний огляд, що представляє внесок України у світову цивілізацію через історію, літературу, мистецтво, музику, політичну думку та ширшу духовну ідентичність українського народу."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/cf05ea79ea.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "The Ukrainian Division “Galicia,” 1943–45: A Memoir", uk: "Українська дивізія «Галичина», 1943–45: спогади" },
+  author: "Wolf-Dietrich Heike; ed. Yury Boshyk; intro. John A. Armstrong / Вольф-Дітріх Гайке; ред. Юрій Бошик; вступ Джона А. Армстронґа",
+  year: "1988",
+  tags: { en: ["in English", "Division Galicia", "World War II", "military memoirs"], uk: ["дивізія Галичина", "Друга світова війна", "військові спогади"] },
+  desc: {
+    en: "A memoir by Wolf-Dietrich Heike, former chief of staff of the Ukrainian Division “Galicia,” describing the division’s formation, wartime operations, internal structure, and controversial place in Second World War history.",
+    uk: "Спогади Вольфа-Дітріха Гайке, колишнього начальника штабу Української дивізії «Галичина», про її формування, бойовий шлях, внутрішню структуру та суперечливе місце в історії Другої світової війни."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/8de8f308d0.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Grains of Truth: A Collection of UK Materials on the Holodomor in Ukraine, 1932–33", uk: "Зерна правди: збірка британських матеріалів про Голодомор в Україні 1932–33 років" },
+  author: "ed. Fedir Kurlak and Iryna Terlecky / ред. Федір Курляк та Ірина Терлецька",
+  year: "2018",
+  tags: { en: ["in English", "Holodomor", "UK materials", "historical documents"], uk: ["Голодомор", "британські матеріали", "історичні документи"] },
+  desc: {
+    en: "A collection of UK-based materials on the Holodomor, bringing together documents, testimonies, public records, and commemorative resources related to the famine-genocide in Ukraine in 1932–1933.",
+    uk: "Збірка британських матеріалів про Голодомор, що поєднує документи, свідчення, публічні записи та меморіальні ресурси, пов’язані з голодом-геноцидом в Україні 1932–1933 років."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/3a6bbb6688.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "The Real Face of Russia: Essays and Articles", uk: "Справжнє обличчя Росії: есеї та статті" },
+  author: "Dmytro Donzow and others; ed. V. Bohdaniuk / Дмитро Донцов та ін.; ред. В. Богданюк",
+  year: "1967",
+  tags: { en: ["in English", "Russia", "imperialism", "political essays"], uk: ["Росія", "імперіалізм", "політичні есеї"] },
+  desc: {
+    en: "An English-language collection of essays and articles exposing Russian imperial ideology, Soviet power, and Moscow’s domination over captive nations, with Dmytro Donzow among the central contributors.",
+    uk: "Англомовна збірка есеїв і статей, що викриває російську імперську ідеологію, радянську владу та московське панування над поневоленими націями, з Дмитром Донцовим серед ключових авторів."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/d1a62e8bf2.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "The Muse in Prison: Eleven Sketches of Ukrainian Poets Killed by Communists and Twenty-Two Translations of Their Poems", uk: "Муза у в’язниці: одинадцять нарисів про українських поетів, убитих комуністами, і двадцять два переклади їхніх віршів" },
+  author: "Yar Slavutych; foreword by Clarence A. Manning / Яр Славутич; передмова Кларенса А. Меннінґа",
+  year: "1956",
+  tags: { en: ["in English", "Executed Renaissance", "Ukrainian poets", "literary repression"], uk: ["Розстріляне відродження", "українські поети", "літературні репресії"] },
+  desc: {
+    en: "An English-language literary memorial to Ukrainian poets killed by the communist regime, combining biographical sketches with translations of their poems to preserve the voices of the repressed generation.",
+    uk: "Англомовний літературний меморіал українським поетам, убитим комуністичним режимом, що поєднує біографічні нариси з перекладами їхніх віршів і зберігає голоси репресованого покоління."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/804cf8a649.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Oasis: Selected Poems", uk: "Оаза: вибрані поезії" },
+  author: "Yar Slavutych; trans. Morse Manly in cooperation with the author / Яр Славутич; пер. Морса Менлі у співпраці з автором",
+  year: "1959",
+  tags: { en: ["in English", "selected poems", "Ukrainian diaspora poetry", "literary translation"], uk: ["вибрані поезії", "українська діаспорна поезія", "літературний переклад"] },
+  desc: {
+    en: "An English-language selection of poems by Yar Slavutych, translated with the author’s cooperation, presenting his lyrical, historical, and exile-shaped voice to readers beyond the Ukrainian-language literary world.",
+    uk: "Англомовна добірка поезій Яра Славутича, перекладена у співпраці з автором, що представляє його ліричний, історичний і вигнанський голос читачам поза українськомовним літературним світом."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/b82792768d.html"
+});
 // OPTIONAL: demo example (remove if you want)
   // library[0].books[0] = {
   //   title: { en: "Chronicle of UPA, Vol. 1", uk: "Літопис Української Повстанської Армії, Том 1" },
