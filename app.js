@@ -3816,6 +3816,342 @@ library[4].books.push({
   },
   iframeSrc: "https://heyzine.com/flip-book/53005891f6.html"
 });
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Facets of Culture: Political Lectures for Ukrainian Youth", uk: "Грані культури" },
+  author: "Stepan Hoverlia [Ivan Hel] / Степан Говерля [Іван Гель]",
+  year: "1984",
+  tags: { en: ["Ukrainian culture", "dissident thought", "political lectures"], uk: ["українська культура", "дисидентська думка", "політичні лекції"] },
+  desc: {
+    en: "A dissident work by Ivan Hel under the pseudonym Stepan Hoverlia, analysing Ukrainian culture as a space of national survival, moral resistance, and opposition to Soviet Russification.",
+    uk: "Дисидентська праця Івана Геля під псевдонімом Степан Говерля, що аналізує українську культуру як простір національного виживання, морального спротиву та протидії радянській русифікації."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/78b3cd57ff.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "What Communism Brings with It: Documents on Russian-Communist Terror in Ukraine", uk: "Що несе з собою комунізм?" },
+  author: "Oleksa Kalynyk / Олекса Калиник",
+  year: "1953",
+  tags: { en: ["communism", "Russian terror", "documentary evidence"], uk: ["комунізм", "російський терор", "документальні свідчення"] },
+  desc: {
+    en: "A documentary anti-communist publication by Oleksa Kalynyk, presenting evidence and testimony about Russian-communist terror in Ukraine and warning readers about the human cost of Soviet rule.",
+    uk: "Документальне антикомуністичне видання Олекси Калиника, що подає свідчення й матеріали про російсько-комуністичний терор в Україні та попереджає про людську ціну радянського панування."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/19ea78dfd0.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "A Glow in the East: Memoirs and Documents from Work in the Military Administration “Galicia”, 1943–1945", uk: "Заграва на Сході" },
+  author: "Roman Krokhmaliuk / Роман Крохмалюк",
+  year: "1978",
+  tags: { en: ["Division Galicia", "memoirs and documents", "World War II"], uk: ["дивізія Галичина", "спогади й документи", "Друга світова війна"] },
+  desc: {
+    en: "A memoir-documentary account of the Military Administration “Galicia” in 1943–1945, preserving materials on the organisation, political context, and wartime experience of Ukrainian military formations.",
+    uk: "Мемуарно-документальна праця про Військову управу «Галичина» у 1943–1945 роках, що зберігає матеріали про організацію, політичний контекст і воєнний досвід українських військових формацій."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/63e828f770.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Poetry in Prison", uk: "Поезія у в’язниці" },
+  author: "Volodymyr Yaniv / Володимир Янів",
+  year: "1952",
+  tags: { en: ["prison poetry", "political prisoners", "Ukrainian literature"], uk: ["тюремна поезія", "політичні в’язні", "українська література"] },
+  desc: {
+    en: "A short literary and reflective publication by Volodymyr Yaniv, devoted to poetry created or understood through the experience of imprisonment, national resistance, and spiritual endurance.",
+    uk: "Коротке літературно-рефлексивне видання Володимира Яніва, присвячене поезії, народженій або осмисленій крізь досвід ув’язнення, національного спротиву та духовної витривалості."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/e624297544.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Blood and Coal", uk: "Кров і вугілля" },
+  author: "Arthur Furman / Артур Фурман",
+  year: "1961",
+  tags: { en: ["chronicle novel", "industrial life", "diaspora prose"], uk: ["роман-хроніка", "індустріальне життя", "діаспорна проза"] },
+  desc: {
+    en: "A Ukrainian diaspora chronicle-novel by Arthur Furman, built around the hard world of labour, social conflict, and human fate in an industrial landscape of blood and coal.",
+    uk: "Український діаспорний роман-хроніка Артура Фурмана, зосереджений на суворому світі праці, соціального конфлікту та людської долі в індустріальному просторі крові й вугілля."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/230d4b5bc1.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Marusia", uk: "Маруся" },
+  author: "Marko Vovchok [Mariia Vilinska] / Марко Вовчок [Марія Вілінська]",
+  year: "1967",
+  tags: { en: ["classic prose", "Ukrainian literature", "national sacrifice"], uk: ["класична проза", "українська література", "національна жертовність"] },
+  desc: {
+    en: "A classic novella by Marko Vovchok, centred on courage, loyalty, and national sacrifice, long read as one of the symbolic prose works of nineteenth-century Ukrainian literature.",
+    uk: "Класична повість Марка Вовчка про відвагу, вірність і національну жертовність, що стала одним із символічних прозових творів української літератури ХІХ століття."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/c55451a4ee.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "The Wild Wind", uk: "Буйний вітер" },
+  author: "Ivan Bahrianyi / Іван Багряний",
+  year: "1957",
+  tags: { en: ["historical novel", "Marusia Bohuslavka", "diaspora literature"], uk: ["історичний роман", "Маруся Богуславка", "діаспорна література"] },
+  desc: {
+    en: "The first book of Ivan Bahrianyi’s unfinished epic Marusia Bohuslavka, combining historical imagination, national drama, and the author’s broad vision of Ukrainian destiny.",
+    uk: "Перша книга незавершеної епопеї Івана Багряного «Маруся Богуславка», що поєднує історичну уяву, національну драму та широкий авторський погляд на українську долю."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/d5350c0599.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "The Steppe Flower", uk: "Степова квітка" },
+  author: "Mykola Lazorskyi / Микола Лазорський",
+  year: "1965",
+  tags: { en: ["historical prose", "Ukrainian diaspora", "steppe world"], uk: ["історична проза", "українська діаспора", "степовий світ"] },
+  desc: {
+    en: "A historical prose work by Mykola Lazorskyi, evoking the Ukrainian steppe, dramatic personal fate, and the author’s émigré interest in national memory and historical storytelling.",
+    uk: "Історична прозова праця Миколи Лазорського, що відтворює український степ, драматичну людську долю та еміграційне зацікавлення автора національною пам’яттю й історичною оповіддю."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/425faf5f61.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "On Sunday Morning She Gathered Herbs", uk: "У неділю рано зілля копала" },
+  author: "Olha Kobylianska / Ольга Кобилянська",
+  year: "1954",
+  tags: { en: ["classic prose", "psychological novel", "Ukrainian modernism"], uk: ["класична проза", "психологічна повість", "український модернізм"] },
+  desc: {
+    en: "A classic psychological prose work by Olha Kobylianska, drawing on folk motifs, passion, jealousy, and tragedy to create one of the most memorable texts of Ukrainian modernist literature.",
+    uk: "Класична психологічна повість Ольги Кобилянської, що спирається на фольклорні мотиви, пристрасть, ревнощі й трагедію та належить до найпам’ятніших творів українського модернізму."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/0a72f3d6fe.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Chortoryi: Scenes from the Ukrainian Struggle, 1919–1920", uk: "Чорторий" },
+  author: "Fedir Dudko / Федір Дудко",
+  year: "1946",
+  tags: { en: ["Ukrainian struggle", "historical novel", "1919–1920"], uk: ["українська боротьба", "історичний роман", "1919–1920"] },
+  desc: {
+    en: "A historical novel by Fedir Dudko presenting dramatic scenes from the Ukrainian struggle of 1919–1920, written in exile as a literary reconstruction of the revolutionary era.",
+    uk: "Історичний роман Федора Дудка, що подає драматичні сцени української боротьби 1919–1920 років і в еміграції реконструює літературну пам’ять революційної доби."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/3578eabdcf.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "The Path of the Unknown", uk: "Шлях невідомого" },
+  author: "Ihor Kachurovskyi / Ігор Качуровський",
+  year: "1956",
+  tags: { en: ["diaspora prose", "World War II", "between two dictatorships"], uk: ["діаспорна проза", "Друга світова війна", "між двома диктатурами"] },
+  desc: {
+    en: "A post-war émigré novella about a young Ukrainian intellectual caught between the brutal forces of Stalinism and Nazism during the Second World War, turning personal survival into a moral and existential journey.",
+    uk: "Повоєнна еміграційна повість про молодого українського інтелігента, який у роки Другої світової війни опиняється між жорнами сталінізму й нацизму, перетворюючи особисте виживання на моральну та екзистенційну мандрівку."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/c47b78c3dd.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Everything Seems as Though It Was Only Recently", uk: "Все здається, начебто — недавно" },
+  author: "Mariian D. Haiva / Маріян Д. Гайва",
+  year: "1998",
+  tags: { en: ["memoirs", "diaspora memory", "personal history"], uk: ["спогади", "діаспорна пам’ять", "особиста історія"] },
+  desc: {
+    en: "A memoir by Mariian D. Haiva, looking back on personal and communal experience with the intimate tone of events that still feel vivid, close, and emotionally unfinished.",
+    uk: "Спогади Маріяна Д. Гайви, що повертаються до особистого й громадського досвіду з інтимним відчуттям подій, які досі здаються живими, близькими й емоційно незавершеними."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/35f91964e4.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "The Great Game", uk: "Велика гра" },
+  author: "Mykola Khortytsia [Liubomyr Rykhtytskyi] / Микола Хортиця [Любомир Рихтицький]",
+  year: "1953",
+  tags: { en: ["diaspora prose", "political intrigue", "adventure novel"], uk: ["діаспорна проза", "політична інтрига", "пригодницький роман"] },
+  desc: {
+    en: "A Ukrainian diaspora prose work by Mykola Khortytsia, combining adventure, political tension, and émigré reflections on struggle, loyalty, and the difficult choices of history.",
+    uk: "Діаспорний прозовий твір Миколи Хортиці, що поєднує пригодницький сюжет, політичну напругу та еміграційні роздуми про боротьбу, вірність і складний вибір історії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/059dcf5b61.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Morituri", uk: "Морітурі" },
+  author: "Ivan Bahrianyi / Іван Багряний",
+  year: "1947",
+  tags: { en: ["dramatic work", "Soviet repression", "Ukrainian literature"], uk: ["драматичний твір", "радянські репресії", "українська література"] },
+  desc: {
+    en: "A dramatic work by Ivan Bahrianyi, written in the shadow of Soviet persecution and exile, with the title invoking those condemned to die and the moral confrontation with tyranny.",
+    uk: "Драматичний твір Івана Багряного, написаний у тіні радянського переслідування й вигнання, назва якого апелює до приречених на смерть і морального протистояння тиранії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/0be170b0d7.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "The Liuboratskis: A Family Chronicle", uk: "Люборацькі" },
+  author: "Anatol Svydnytskyi / Анатоль Свидницький",
+  year: "1956",
+  tags: { en: ["classic prose", "family chronicle", "nineteenth-century literature"], uk: ["класична проза", "сімейна хроніка", "література ХІХ століття"] },
+  desc: {
+    en: "A classic Ukrainian family chronicle by Anatol Svydnytskyi, portraying clerical family life, social change, education, and moral conflict in nineteenth-century Ukrainian society.",
+    uk: "Класична українська сімейна хроніка Анатоля Свидницького про життя священничої родини, соціальні зміни, освіту й моральні конфлікти в українському суспільстві ХІХ століття."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/47577eea6f.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Thirst", uk: "Жадоба" },
+  author: "Dokiia Humenna / Докія Гуменна",
+  year: "1959",
+  tags: { en: ["short stories", "diaspora prose", "women’s experience"], uk: ["оповідання", "діаспорна проза", "жіночий досвід"] },
+  desc: {
+    en: "A collection of short stories by Dokiia Humenna, centred on human longing, women’s experience, inner freedom, and the tensions between personal desire and social expectation.",
+    uk: "Збірка оповідань Докії Гуменної, зосереджена на людській жадобі, жіночому досвіді, внутрішній свободі та напрузі між особистим бажанням і суспільним очікуванням."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/a9938afdb2.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Don Segundo Sombra", uk: "Дон Сегундо Сомбра" },
+  author: "Ricardo Güiraldes; trans. O. Satsiuk / Рікардо Ґуйральдес; пер. О. Сацюк",
+  year: "1955",
+  tags: { en: ["Argentine literature", "gaucho novel", "Ukrainian translation"], uk: ["аргентинська література", "роман про ґаучо", "український переклад"] },
+  desc: {
+    en: "A Ukrainian translation of Ricardo Güiraldes’s classic Argentine novel about the gaucho world, spiritual apprenticeship, freedom, and the vast landscape of the pampas.",
+    uk: "Український переклад класичного аргентинського роману Рікардо Ґуйральдеса про світ ґаучо, духовне учнівство, свободу та широкий простір пампи."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/3526a7912f.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Young Shoots", uk: "Молоді паростки" },
+  author: "Stepan Fedorivskyi / Степан Федорівський",
+  year: "1968",
+  tags: { en: ["diaspora prose", "youth", "community life"], uk: ["діаспорна проза", "молодь", "громадське життя"] },
+  desc: {
+    en: "A prose work by Stepan Fedorivskyi focused on the younger generation, community formation, and the fragile but hopeful growth of Ukrainian life in the diaspora.",
+    uk: "Прозовий твір Степана Федорівського про молодше покоління, формування громади та крихке, але надійне проростання українського життя в діаспорі."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/175b5cf1aa.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "The Klepachiv Raid", uk: "Клепачівський рейд" },
+  author: "Ivan Starytskyi / Іван Старицький",
+  year: "1968",
+  tags: { en: ["UPA", "insurgent raid", "military memoirs"], uk: ["УПА", "повстанський рейд", "військові спогади"] },
+  desc: {
+    en: "A memoir-style account of an insurgent raid connected with Klepachiv, preserving a focused episode of Ukrainian armed resistance, local terrain, and underground military experience.",
+    uk: "Мемуарний опис повстанського рейду, пов’язаного з Клепачевом, що зберігає окремий епізод українського збройного спротиву, місцевий терен і досвід підпільної боротьби."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/13e9494a80.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "And the World Is So Beautiful…", uk: "А світ такий гарний…" },
+  author: "Vasyl Haidarivskyi / Василь Гайдарівський",
+  year: "1962",
+  tags: { en: ["short stories", "diaspora prose", "émigré literature"], uk: ["оповідання", "діаспорна проза", "еміграційна література"] },
+  desc: {
+    en: "A prose collection by Vasyl Haidarivskyi, combining lyrical observation, émigré sensibility, and reflections on the beauty of the world seen through memory, loss, and human vulnerability.",
+    uk: "Прозова збірка Василя Гайдарівського, що поєднує ліричне спостереження, еміграційну чутливість і роздуми про красу світу, побачену крізь пам’ять, втрату та людську вразливість."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/1d965934ea.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Looking Back", uk: "Оглянувшись назад" },
+  author: "Olena Zvychaina / Олена Звичайна",
+  year: "1954",
+  tags: { en: ["short stories", "novellas", "diaspora prose"], uk: ["оповідання", "новели", "діаспорна проза"] },
+  desc: {
+    en: "A collection of short stories and novellas by Olena Zvychaina, looking back at Ukrainian life through memory, moral conflict, social trauma, and the sharp emotional perspective of exile.",
+    uk: "Збірка оповідань і новел Олени Звичайної, що озирається на українське життя крізь пам’ять, моральні конфлікти, соціальні травми та гостру емоційну перспективу вигнання."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/4a8dd35f62.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "The Adventures of Marko Chubatyi", uk: "Пригоди Марка Чубатого" },
+  author: "Oleksa Voropai / Олекса Воропай",
+  year: "1954",
+  tags: { en: ["adventure novella", "humour", "diaspora prose"], uk: ["пригодницька повість", "гумор", "діаспорна проза"] },
+  desc: {
+    en: "A humorous adventure novella by Oleksa Voropai, narrated through the lively figure of Marko Chubatyi and shaped by the author’s gift for folk-style storytelling, irony, and Ukrainian character.",
+    uk: "Гумористично-пригодницька повість Олекси Воропая, розказана через колоритну постать Марка Чубатого й позначена авторським хистом до народної оповіді, іронії та українського характеру."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/ca93a8692b.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Under a Foreign Sky", uk: "Під чужим небом" },
+  author: "Oleksander De / Олександер Де",
+  year: "1966",
+  tags: { en: ["diaspora prose", "exile", "émigré literature"], uk: ["діаспорна проза", "вигнання", "еміграційна література"] },
+  desc: {
+    en: "A prose collection by Oleksander De, shaped by exile and the experience of living under a foreign sky, with attention to memory, displacement, and the search for belonging.",
+    uk: "Прозова збірка Олександера Де, позначена вигнанням і досвідом життя під чужим небом, з увагою до пам’яті, переміщення та пошуку належності."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/f8334bfde2.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Works I: Selected Works", uk: "Твори І" },
+  author: "Spyrydon Cherkasenko / Спиридон Черкасенко",
+  year: "1920",
+  tags: { en: ["selected works", "Ukrainian poetry", "early twentieth century"], uk: ["вибрані твори", "українська поезія", "початок ХХ століття"] },
+  desc: {
+    en: "The first volume of Spyrydon Cherkasenko’s works, published in Vienna in 1920, representing the lyrical and nationally engaged voice of a major Ukrainian writer of the early twentieth century.",
+    uk: "Перший том творів Спиридона Черкасенка, виданий у Відні 1920 року, що представляє ліричний і національно заангажований голос важливого українського письменника початку ХХ століття."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/4d132ee432.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "The Adventures of a Young Knight. Volume 1", uk: "Пригоди молодого лицаря. Том 1" },
+  author: "Spyrydon Cherkasenko / Спиридон Черкасенко",
+  year: "1952",
+  tags: { en: ["historical novel", "Cossack era", "youth adventure"], uk: ["історичний роман", "козацька доба", "юнацькі пригоди"] },
+  desc: {
+    en: "The first volume of Spyrydon Cherkasenko’s historical novel from the Cossack era, combining youthful adventure, patriotic imagination, and a vivid reconstruction of early modern Ukraine.",
+    uk: "Перший том історичного роману Спиридона Черкасенка з козацьких часів, що поєднує юнацьку пригоду, патріотичну уяву та живу реконструкцію ранньомодерної України."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/3d28ac5fa7.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "The Adventures of a Young Knight. Volume 2", uk: "Пригоди молодого лицаря. Том 2" },
+  author: "Spyrydon Cherkasenko / Спиридон Черкасенко",
+  year: "1952",
+  tags: { en: ["historical novel", "Cossack era", "youth adventure"], uk: ["історичний роман", "козацька доба", "юнацькі пригоди"] },
+  desc: {
+    en: "The second volume of Cherkasenko’s Cossack-era historical adventure, continuing the young hero’s journey through danger, loyalty, conflict, and the larger drama of Ukrainian history.",
+    uk: "Другий том історико-пригодницького роману Черкасенка з козацької доби, що продовжує шлях молодого героя крізь небезпеку, вірність, конфлікт і ширшу драму української історії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/04cfd1e081.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "The Adventures of a Young Knight. Volume 3", uk: "Пригоди молодого лицаря. Том 3" },
+  author: "Spyrydon Cherkasenko / Спиридон Черкасенко",
+  year: "1952",
+  tags: { en: ["historical novel", "Cossack era", "youth adventure"], uk: ["історичний роман", "козацька доба", "юнацькі пригоди"] },
+  desc: {
+    en: "The third volume of Cherkasenko’s historical adventure novel, completing the Cossack-era narrative arc of youthful courage, national feeling, and dramatic historical conflict.",
+    uk: "Третій том історико-пригодницького роману Черкасенка, що завершує козацьку оповідну лінію юнацької відваги, національного почуття та драматичного історичного конфлікту."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/2cb7c1136a.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "A Sunbeam", uk: "Сонячний промінь" },
+  author: "Borys Hrinchenko / Борис Грінченко",
+  year: "1965",
+  tags: { en: ["classic prose", "Ukrainian enlightenment", "social novella"], uk: ["класична проза", "українське просвітництво", "соціальна повість"] },
+  desc: {
+    en: "A classic social novella by Borys Hrinchenko, centred on education, national awakening, and the moral power of enlightenment as a “sunbeam” in Ukrainian public life.",
+    uk: "Класична соціальна повість Бориса Грінченка про освіту, національне пробудження та моральну силу просвіти як «сонячного променя» в українському громадському житті."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/46aa9560e9.html"
+});
 // OPTIONAL: demo example (remove if you want)
   // library[0].books[0] = {
   //   title: { en: "Chronicle of UPA, Vol. 1", uk: "Літопис Української Повстанської Армії, Том 1" },
