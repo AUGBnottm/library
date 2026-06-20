@@ -3648,6 +3648,174 @@ library[4].books.push({
   },
   iframeSrc: "https://heyzine.com/flip-book/b82792768d.html"
 });
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Promise & Reality: 50 Years of Soviet-Russian “Achievements”", uk: "Обіцянка і реальність: 50 років совєтсько-російських «досягнень»" },
+  author: "Suzanne Labin; ed. John Graham / Сюзанна Лабен; ред. Джон Ґрем",
+  year: "1967",
+  tags: { en: ["in English", "Soviet propaganda", "anti-communism", "Cold War"], uk: ["совєтська пропаганда", "антикомунізм", "холодна війна"] },
+  desc: {
+    en: "A concise English-language anti-communist pamphlet contrasting Soviet promises with the political, economic, and human reality of fifty years of Soviet Russian rule.",
+    uk: "Стисла англомовна антикомуністична брошура, що протиставляє радянські обіцянки політичній, економічній і людській реальності п’ятдесяти років совєтсько-російського панування."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/834e2b8da6.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Solzhenitsyn", uk: "Солженіцин" },
+  author: "David Burg / Девід Берґ",
+  year: "1970",
+  tags: { en: ["in English", "Solzhenitsyn", "Soviet literature", "dissident writer"], uk: ["Солженіцин", "радянська література", "письменник-дисидент"] },
+  desc: {
+    en: "An English-language study of Aleksandr Solzhenitsyn’s literary and dissident significance, presenting his work as a moral challenge to Soviet censorship, repression, and ideological control.",
+    uk: "Англомовна праця про літературне й дисидентське значення Олександра Солженіцина, що подає його творчість як моральний виклик радянській цензурі, репресіям та ідеологічному контролю."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/d7aff61828.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Kholodnyi Yar", uk: "Холодний Яр" },
+  author: "Yurii Horlis-Horskyi / Юрій Горліс-Горський",
+  year: "1961",
+  tags: { en: ["Kholodnyi Yar", "Ukrainian Revolution", "historical documentary novel"], uk: ["Холодний Яр", "Українська революція", "історико-документальний роман"] },
+  desc: {
+    en: "A historical-documentary novel about the Kholodnyi Yar Republic and the Ukrainian insurgent struggle of 1918–1922, written by a participant and later turned into one of the key literary symbols of anti-imperial resistance.",
+    uk: "Історико-документальний роман про Холодноярську Республіку та українську повстанську боротьбу 1918–1922 років, написаний учасником подій і згодом перетворений на один із ключових літературних символів антиімперського спротиву."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/7abb85b8b9.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "The Thorny Crown of Ukraine: An Open Letter to Russia Past, Present, and Future", uk: "Терновий вінець України: Росії минулій, сучасній, грядущій — відкрите послання" },
+  author: "Oles Berdnyk / Олесь Бердник",
+  year: "1985",
+  tags: { en: ["Ukrainian dissidents", "open letter", "Russia and Ukraine"], uk: ["українські дисиденти", "відкритий лист", "Росія й Україна"] },
+  desc: {
+    en: "A dissident open letter by Oles Berdnyk addressed to Russia across past, present, and future, reflecting on Ukraine’s historical suffering, spiritual mission, and moral demand for freedom.",
+    uk: "Дисидентське відкрите послання Олеся Бердника до Росії минулої, сучасної й майбутньої, у якому осмислено історичні страждання України, її духовну місію та моральну вимогу свободи."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/eb0b4dae3b.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Winter in the Bunker: A Memoir-Chronicle, 1947–1948", uk: "Зимою в бункрі: спогади-хроніка 1947–1948" },
+  author: "Stepan Khrin [Stepan Stebelskyi] / Степан Хрін [Степан Стебельський]",
+  year: "1950",
+  tags: { en: ["UPA", "memoir-chronicle", "underground life"], uk: ["УПА", "спогади-хроніка", "підпільне життя"] },
+  desc: {
+    en: "A memoir-chronicle by UPA commander Stepan Khrin, written from the underground world of bunkers and raids, documenting the daily life, discipline, hardship, and communications of the Ukrainian insurgency in 1947–1948.",
+    uk: "Спогади-хроніка командира УПА Степана Хріна, написані з підпільного світу бункерів і рейдів, що документують побут, дисципліну, труднощі та зв’язок українського повстанського руху 1947–1948 років."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/198f601600.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Memoirs of a Front-Line Soldier: The Odyssey of a Grey “Collaborator”", uk: "Спогади фронтовика: одісея сірого «коляборанта»" },
+  author: "Yevstakhii Zahachevskyi / Євстахій Загачевський",
+  year: "1952",
+  tags: { en: ["military memoirs", "World War II", "Ukrainian Division"], uk: ["військові спогади", "Друга світова війна", "Українська дивізія"] },
+  desc: {
+    en: "A wartime memoir by Yevstakhii Zahachevskyi, reflecting on the morally complex experience of a Ukrainian front-line soldier during the Second World War and the difficult post-war fate of former servicemen.",
+    uk: "Воєнні спогади Євстахія Загачевського про морально складний досвід українського фронтовика часів Другої світової війни та непросту повоєнну долю колишніх вояків."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/866e772781.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Insurgent Sketches", uk: "Повстанські нариси" },
+  author: "Yevhen Dmytryk [pseud.] / Євген Дмитрик [псевд.]",
+  year: "1951",
+  tags: { en: ["UPA", "insurgent prose", "underground struggle"], uk: ["УПА", "повстанська проза", "підпільна боротьба"] },
+  desc: {
+    en: "A collection of insurgent prose sketches from the Ukrainian underground, portraying the lives, choices, danger, and moral atmosphere of people involved in the anti-Soviet resistance.",
+    uk: "Збірка повстанських прозових нарисів з українського підпілля, що змальовує життя, вибір, небезпеку й моральну атмосферу людей, залучених до антирадянського спротиву."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/b9d95de38c.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Native Right", uk: "Родиме право" },
+  author: "Yulian Tarnovych / Юліан Тарнович",
+  year: "1951",
+  tags: { en: ["Lemko literature", "diaspora prose", "national identity"], uk: ["лемківська література", "діаспорна проза", "національна ідентичність"] },
+  desc: {
+    en: "A diaspora literary work by Lemko writer and public figure Yulian Tarnovych, centred on native rights, belonging, historical memory, and the defence of Ukrainian identity in exile.",
+    uk: "Діаспорний літературний твір лемківського письменника й громадського діяча Юліана Тарновича про родиме право, належність, історичну пам’ять і захист української ідентичності на чужині."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/fc13610c4c.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "From the Volhynian and Polissian Raids of the UPA: From the Actions of UPA-North, 1943–1944", uk: "З волинських і поліських рейдів УПА: із дій УПА-Північ 1943–1944" },
+  author: "Mykola Hordiienko / Микола Гордієнко",
+  year: "1959",
+  tags: { en: ["UPA-North", "Volhynia and Polissia", "military memoirs"], uk: ["УПА-Північ", "Волинь і Полісся", "військові спогади"] },
+  desc: {
+    en: "A memoir-based account of UPA-North operations in Volhynia and Polissia during 1943–1944, preserving first-hand material on raids, local conditions, and insurgent warfare.",
+    uk: "Мемуарний опис дій УПА-Північ на Волині й Поліссі у 1943–1944 роках, що зберігає безпосередній матеріал про рейди, місцеві умови та повстанську війну."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/d9872cb9e0.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "I Want to Live: Scenes from German Concentration Camps", uk: "Хочу жити: образки з німецьких концентраційних таборів" },
+  author: "Oleksa Danskyi [Danylo Chaikovskyi] / Олекса Данський [Данило Чайковський]",
+  year: "1946",
+  tags: { en: ["Nazi concentration camps", "survivor testimony", "memoirs"], uk: ["нацистські концтабори", "свідчення очевидця", "спогади"] },
+  desc: {
+    en: "An autobiographical testimony written soon after liberation, depicting German prisons and concentration camps through vivid scenes of camp life, human endurance, cruelty, and the will to survive.",
+    uk: "Автобіографічне свідчення, написане невдовзі після визволення, що через живі образки німецьких в’язниць і концтаборів показує табірний побут, людську витривалість, жорстокість і волю до життя."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/f927ff22d9.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "Poetry from Behind Barbed Wire: The Word of Ukrainian Poets Repressed by Moscow", uk: "Поезія з-за колючих дротів: слово репресованих Москвою українських поетів" },
+  author: "repressed Ukrainian poets / репресовані Москвою українські поети",
+  year: "1978",
+  tags: { en: ["repressed poets", "prison poetry", "Ukrainian literature"], uk: ["репресовані поети", "табірна поезія", "українська література"] },
+  desc: {
+    en: "An anthology of poetry by Ukrainian poets repressed by Moscow, preserving literary voices written under or marked by imprisonment, persecution, exile, and Soviet colonial violence.",
+    uk: "Антологія поезії українських поетів, репресованих Москвою, що зберігає літературні голоси, написані в умовах або під знаком ув’язнення, переслідування, вигнання та радянського колоніального насильства."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/0b597ce2dd.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "For an Independent and United Ukraine. Vol. 1: Borys Honych", uk: "За самостійну і соборну Україну. Том 1: Борис Гонич" },
+  author: "Mykhailo Kolosivskyi / Михайло Колосівський",
+  year: "1937",
+  tags: { en: ["Ukrainian prose", "independence struggle", "diaspora edition"], uk: ["українська проза", "боротьба за незалежність", "діаспорне видання"] },
+  desc: {
+    en: "The first volume of Mykhailo Kolosivskyi’s prose cycle For an Independent and United Ukraine, centred on the figure of Borys Honych and the national struggle for Ukrainian statehood.",
+    uk: "Перший том прозового циклу Михайла Колосівського «За самостійну і соборну Україну», зосереджений на постаті Бориса Гонича та національній боротьбі за українську державність."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/a390c57ec8.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "In the Ninth Circle", uk: "В Дев’ятім Крузі" },
+  author: "Oleksa Voropai / Олекса Воропай",
+  year: "1953",
+  tags: { en: ["Holodomor", "eyewitness testimony", "memoirs"], uk: ["Голодомор", "свідчення очевидця", "спогади"] },
+  desc: {
+    en: "One of the early Ukrainian émigré testimonies about the Holodomor, based on Oleksa Voropai’s experience as an agronomist in Soviet Ukraine and written as a stark record of famine, terror, and human suffering.",
+    uk: "Одне з ранніх українських еміграційних свідчень про Голодомор, засноване на досвіді Олекси Воропая як агронома в радянській Україні й написане як гострий документ голоду, терору та людських страждань."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/b1a58bb147.html"
+});
+// 3) Shelf 5 -> library[4]
+library[4].books.push({
+  title: { en: "A Mosaic of Prison Scenes", uk: "Мозаїка квадрів в’язничних" },
+  author: "Mykhailo Bazhanskyi / Михайло Бажанський",
+  year: "1946",
+  tags: { en: ["prison memoirs", "political persecution", "émigré literature"], uk: ["в’язничні спогади", "політичне переслідування", "еміграційна література"] },
+  desc: {
+    en: "A post-war émigré memoir of prison scenes by Mykhailo Bazhanskyi, preserving fragments of incarceration, political violence, personal endurance, and the psychological atmosphere of captivity.",
+    uk: "Повоєнні еміграційні спогади Михайла Бажанського з в’язничних сцен, що зберігають фрагменти ув’язнення, політичного насильства, особистої витривалості та психологічної атмосфери неволі."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/53005891f6.html"
+});
 // OPTIONAL: demo example (remove if you want)
   // library[0].books[0] = {
   //   title: { en: "Chronicle of UPA, Vol. 1", uk: "Літопис Української Повстанської Армії, Том 1" },
