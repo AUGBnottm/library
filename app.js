@@ -4532,7 +4532,7 @@ library[5].books.push({
     sectionsEl.innerHTML = library.map((sec, idx) => {
       const booksHtml = sec.books.map(bookToCard).join("");
       return `
-        <details class="cat" data-category="${escapeHtml(sec.title)}" ${idx === 0 ? "open" : ""}>
+        <details class="cat" data-category="${escapeHtml(sec.title)}>
           <summary class="cat__summary">
             <span class="cat__title">${idx + 1}) ${escapeHtml(sec.title)}</span>
             <span class="cat__count" data-count>0</span>
