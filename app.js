@@ -4152,6 +4152,294 @@ library[4].books.push({
   },
   iframeSrc: "https://heyzine.com/flip-book/46aa9560e9.html"
 });
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "The Union of Brest", uk: "Берестейська унія" },
+  author: "Fr. Stefan Semchuk / о. Стефан Семчук",
+  year: "1946",
+  tags: { en: ["Church history", "Union of Brest", "Ukrainian Christianity"], uk: ["історія Церкви", "Берестейська унія", "українське християнство"] },
+  desc: {
+    en: "A concise Ukrainian diaspora study of the Union of Brest, explaining its historical, religious, and national significance for the Ukrainian Church and the development of Eastern Christian identity.",
+    uk: "Стисла діаспорна праця про Берестейську унію, що пояснює її історичне, релігійне та національне значення для Української Церкви й розвитку східнохристиянської ідентичності."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/76394a4610.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "Two Idealist Brothers: Biographies, Memoirs, Essays, Episodes from Life and Work", uk: "Два брати ідеалісти" },
+  author: "Yaroslav Pryshliak / Ярослав Пришляк",
+  year: "1990",
+  tags: { en: ["biographies", "memoirs", "Ukrainian diaspora"], uk: ["біографії", "спогади", "українська діаспора"] },
+  desc: {
+    en: "A biographical and memoir-based book about Yevhen and Yaroslav Pryshliak, combining recollections, sketches, and episodes from their public, political, and community work in the Ukrainian national movement.",
+    uk: "Біографічно-мемуарна книга про Євгена та Ярослава Пришляків, що поєднує спогади, нариси й епізоди з їхньої громадської, політичної та суспільної праці в українському національному русі."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/e1697dd6d5.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "The Galician Socialist Soviet Republic, 1920: The First Bolshevik Occupation of Galicia", uk: "Галицька Соціалістична Совєцька Республіка 1920 р.: перша большевицька окупація Галичини" },
+  author: "Vasyl Veryha / Василь Верига",
+  year: "1986",
+  tags: { en: ["Galicia", "Bolshevik occupation", "Ukrainian history"], uk: ["Галичина", "большевицька окупація", "історія України"] },
+  desc: {
+    en: "A historical study of the short-lived Galician Socialist Soviet Republic of 1920, analysing the first Bolshevik occupation of Galicia and its political, military, and social consequences.",
+    uk: "Історичне дослідження короткочасної Галицької Соціалістичної Совєцької Республіки 1920 року, що аналізує першу большевицьку окупацію Галичини та її політичні, військові й суспільні наслідки."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/a5940ce3d2.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "From Travels Across Canada, 1949–1959", uk: "З подорожей по Канаді, 1949–1959" },
+  author: "Jaroslav Rudnyckyj / Ярослав Рудницький",
+  year: "1959",
+  tags: { en: ["Canada", "travel writing", "Ukrainian Canadians"], uk: ["Канада", "подорожні нотатки", "українці Канади"] },
+  desc: {
+    en: "A collection of travel notes by Ukrainian Canadian scholar Jaroslav Rudnyckyj, recording journeys across Canada and observing Ukrainian community life, geography, culture, and public institutions.",
+    uk: "Збірка подорожніх нотаток українсько-канадського науковця Ярослава Рудницького, що фіксує мандрівки Канадою, українське громадське життя, географію, культуру та суспільні інституції."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/145d9749da.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "In the Heat of Struggle", uk: "У запалі боротьби" },
+  author: "Adrian Kashchenko / Адріан Кащенко",
+  year: "1941",
+  tags: { en: ["historical novella", "Cossack era", "Ukrainian struggle"], uk: ["історична повість", "козацька доба", "українська боротьба"] },
+  desc: {
+    en: "A historical novella by Adrian Kashchenko, shaped by his romantic vision of the Cossack past and focused on courage, loyalty, and the dramatic tension of Ukrainian struggle.",
+    uk: "Історична повість Адріана Кащенка, позначена його романтичним баченням козацької минувшини та зосереджена на відвазі, вірності й драматичній напрузі української боротьби."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/e54288c234.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "Catching Up to the Enemy", uk: "Навздогін за ворогом" },
+  author: "K. Yavorskyi, V. Rosovych / К. Яворський, В. Росович",
+  year: "1947",
+  tags: { en: ["adventure story", "youth literature", "diaspora edition"], uk: ["пригодницька повість", "юнацька література", "діаспорне видання"] },
+  desc: {
+    en: "A short Ukrainian adventure story from the post-war diaspora series “Adventures on Land, Sea and in the Air,” built around pursuit, danger, and fast-moving action.",
+    uk: "Коротка українська пригодницька повість із повоєнної діаспорної серії «Бібліотека пригод на суходолі, на морі і в повітрі», побудована на переслідуванні, небезпеці та динамічній дії."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/aa21d1462e.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "“Bombs” for Laughs: Feuilletons", uk: "«Бомби» на весело: фейлетони" },
+  author: "M. Tochylo [Mykola Koliankivskyi] / М. Точило [Микола Колянківський]",
+  year: "1947",
+  tags: { en: ["feuilletons", "satire", "diaspora humour"], uk: ["фейлетони", "сатира", "діаспорний гумор"] },
+  desc: {
+    en: "A collection of satirical feuilletons by M. Tochylo, using humour, irony, and grotesque observation to respond to post-war émigré life, politics, and human absurdity.",
+    uk: "Збірка сатиричних фейлетонів М. Точила, у якій гумор, іронія та гротескне спостереження стають способом говорити про повоєнне еміграційне життя, політику й людську абсурдність."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/4f3e330183.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "For His Sister", uk: "За сестрою" },
+  author: "Andrii Chaikovskyi / Андрій Чайковський",
+  year: "1947",
+  tags: { en: ["historical adventure", "Tatar raids", "classic prose"], uk: ["історична пригода", "татарські напади", "класична проза"] },
+  desc: {
+    en: "A classic historical adventure novella by Andrii Chaikovskyi about a young boy’s courageous search for his kidnapped sister, set against the world of steppe danger, Tatar raids, and Cossack bravery.",
+    uk: "Класична історико-пригодницька повість Андрія Чайковського про відважні пошуки хлопцем викраденої сестри на тлі степової небезпеки, татарських нападів і козацької відваги."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/71ef78ba07.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "Seekers of the Blue Pearls", uk: "Шукачі блакитних перлів" },
+  author: "Volodymyr Hai / Володимир Гай",
+  year: "1947",
+  tags: { en: ["adventure fiction", "youth prose", "mystery"], uk: ["пригодницька проза", "юнацька література", "таємниця"] },
+  desc: {
+    en: "An adventure story by Volodymyr Hai, built around the search for mysterious blue pearls and written in the lively tradition of Ukrainian youth and adventure prose.",
+    uk: "Пригодницька повість Володимира Гая, побудована довкола пошуків загадкових блакитних перлів і написана в динамічній традиції української юнацької та пригодницької прози."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/26cce3655b.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "Girls of Desperate Days", uk: "Дівчата одчайдушних днів" },
+  author: "Fedir Dudko / Федір Дудко",
+  year: "1948",
+  tags: { en: ["short stories", "liberation struggle", "women in history"], uk: ["оповідання", "визвольна боротьба", "жінки в історії"] },
+  desc: {
+    en: "A collection of stories by Fedir Dudko about women caught in desperate historical circumstances, shaped by the author’s recurring themes of Ukrainian struggle, social upheaval, and moral courage.",
+    uk: "Збірка оповідань Федора Дудка про жінок у драматичних історичних обставинах, позначена характерними для автора темами української боротьби, суспільного зламу та моральної відваги."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/b8eb81702e.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "The Snowstorm", uk: "Заметіль" },
+  author: "Fedir Dudko / Федір Дудко",
+  year: "1948",
+  tags: { en: ["short stories", "diaspora prose", "post-war literature"], uk: ["оповідання", "діаспорна проза", "повоєнна література"] },
+  desc: {
+    en: "A post-war collection of short stories by Fedir Dudko, shaped by dramatic human situations, historical turbulence, and the émigré writer’s concern with moral endurance.",
+    uk: "Повоєнна збірка оповідань Федора Дудка, позначена драматичними людськими ситуаціями, історичною бурею та авторською увагою до моральної витривалості."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/f0f8748fe9.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "Pyvoriz", uk: "Пиворіз" },
+  author: "Vasyl Chaplenko / Василь Чапленко",
+  year: "1943",
+  tags: { en: ["historical-domestic novella", "Ukrainian prose", "village life"], uk: ["історично-побутова повість", "українська проза", "сільське життя"] },
+  desc: {
+    en: "A historical-domestic novella by Vasyl Chaplenko, combining village life, social observation, and the author’s sharp prose style in a wartime Ukrainian edition.",
+    uk: "Історично-побутова повість Василя Чапленка, що поєднує сільський побут, соціальне спостереження та гостру авторську прозову манеру у воєнному українському виданні."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/27cc6c2168.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "Black Lake (Kara-Kol). Part 1", uk: "Чорне Озеро (Кара-Кол). Частина 1" },
+  author: "Volodymyr Gzhytskyi / Володимир Ґжицький",
+  year: "1948",
+  tags: { en: ["exotic novel", "adventure prose", "Ukrainian literature"], uk: ["екзотичний роман", "пригодницька проза", "українська література"] },
+  desc: {
+    en: "The first part of Volodymyr Gzhytskyi’s exotic adventure novel Black Lake, set around the mysterious Kara-Kol and marked by travel, danger, and dramatic discovery.",
+    uk: "Перша частина екзотичного пригодницького роману Володимира Ґжицького «Чорне Озеро», дія якого пов’язана із загадковим Кара-Колом, мандрівкою, небезпекою та драматичним відкриттям."
+  },
+  iframeSrc: " «Чорне Озеро»,https://heyzine.com/flip-book/61f00d7e73.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "Black Lake (Kara-Kol). Part 2", uk: "Чорне Озеро (Кара-Кол). Частина 2" },
+  author: "Volodymyr Gzhytskyi / Володимир Ґжицький",
+  year: "1948",
+  tags: { en: ["exotic novel", "adventure prose", "Ukrainian literature"], uk: ["екзотичний роман", "пригодницька проза", "українська література"] },
+  desc: {
+    en: "The second part of Black Lake, continuing Gzhytskyi’s exotic adventure narrative through suspense, conflict, and the unfolding mystery of Kara-Kol.",
+    uk: "Друга частина «Чорного Озера», що продовжує екзотичну пригодницьку оповідь Ґжицького через напругу, конфлікт і розгортання таємниці Кара-Колу."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/4a110132ea.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "I Curse! From the Diary of a Ukrainian Political Prisoner", uk: "Проклинаю! З щоденника українського політв’язня" },
+  author: "Ivan Shkvarko / Іван Шкварко",
+  year: "1953",
+  tags: { en: ["prison memoirs", "Soviet repression", "political prisoners"], uk: ["в’язничні спогади", "радянські репресії", "політичні в’язні"] },
+  desc: {
+    en: "A memoir from the diary of a Ukrainian political prisoner, depicting the cruelty of Soviet prisons in Western Ukraine and the trauma of repression during the first Soviet occupation.",
+    uk: "Мемуарний твір зі щоденника українського політичного в’язня, що показує жорстокість радянських тюрем у Західній Україні та травму репресій періоду першої совєтської окупації."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/d025416ea3.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "On the Steppe Outposts", uk: "На уходах" },
+  author: "Andrii Chaikovskyi / Андрій Чайковський",
+  year: "1947",
+  tags: { en: ["historical story", "youth literature", "Cossack frontier"], uk: ["історичне оповідання", "юнацька література", "козацьке пограниччя"] },
+  desc: {
+    en: "A historical story for young readers by Andrii Chaikovskyi, set on the Cossack frontier and built around courage, danger, settlement, and the defence of Ukrainian life on the borderlands.",
+    uk: "Історичне оповідання для молоді Андрія Чайковського, дія якого відбувається на козацькому пограниччі й зосереджена на відвазі, небезпеці, освоєнні уходів та обороні українського життя."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/09a18b7938.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "The Woodcocks", uk: "Вальдшнепи" },
+  author: "Mykola Khvylovyi / Микола Хвильовий",
+  year: "1952",
+  tags: { en: ["Executed Renaissance", "modernist novel", "Ukrainian literature"], uk: ["Розстріляне відродження", "модерністський роман", "українська література"] },
+  desc: {
+    en: "A modernist novel by Mykola Khvylovyi, one of the key texts of the Ukrainian literary renaissance of the 1920s, charged with political tension, psychological conflict, and the crisis of revolutionary ideals.",
+    uk: "Модерністський роман Миколи Хвильового, один із ключових текстів українського літературного відродження 1920-х років, насичений політичною напругою, психологічним конфліктом і кризою революційних ідеалів."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/a7be223315.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "Children of War. Part 1", uk: "Діти війни. Частина 1" },
+  author: "Mykhailo Sharyk / Михайло Шарик",
+  year: "1956",
+  tags: { en: ["memoirs", "First World War", "Ukrainian military history"], uk: ["спогади", "Перша світова війна", "українська військова історія"] },
+  desc: {
+    en: "The first part of Mykhailo Sharyk’s memoir cycle Children of War, recalling the First World War and the Ukrainian struggle for statehood through the eyes of a participant in the military generation of 1914–1920.",
+    uk: "Перша частина мемуарного циклу Михайла Шарика «Діти війни», що згадує Першу світову війну й українські визвольні змагання очима представника воєнного покоління 1914–1920 років."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/7bafdd8198.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "Children of War. Part 2", uk: "Діти війни. Частина 2" },
+  author: "Mykhailo Sharyk / Михайло Шарик",
+  year: "1956",
+  tags: { en: ["memoirs", "First World War", "Ukrainian military history"], uk: ["спогади", "Перша світова війна", "українська військова історія"] },
+  desc: {
+    en: "The second part of Children of War, continuing Sharyk’s recollections of wartime upheaval, Ukrainian military experience, and the formation of a generation shaped by revolution and national struggle.",
+    uk: "Друга частина «Дітей війни», що продовжує спогади Шарика про воєнні потрясіння, український військовий досвід і формування покоління, загартованого революцією та національною боротьбою."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/74e390e104.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "Ustym Bezridnyi. Part 1", uk: "Устим Безрідний. Частина 1" },
+  author: "Petro Kizko / Петро Кізко",
+  year: "1956",
+  tags: { en: ["novella", "diaspora prose", "Ukrainian identity"], uk: ["повість", "діаспорна проза", "українська ідентичність"] },
+  desc: {
+    en: "The first part of Petro Kizko’s novella Ustym Bezridnyi, centred on a rootless figure whose personal fate becomes a literary reflection on belonging, identity, and historical dislocation.",
+    uk: "Перша частина повісті Петра Кізка «Устим Безрідний», зосереджена на постаті людини без кореня, чия особиста доля стає літературним роздумом про належність, ідентичність та історичне зміщення."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/bfef0786bb.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "The Boys: A Story about Homeless Children", uk: "Пацани: повість про безпритульних" },
+  author: "Volodymyr Kulish / Володимир Куліш",
+  year: "1967",
+  tags: { en: ["social novella", "homeless children", "diaspora prose"], uk: ["соціальна повість", "безпритульні діти", "діаспорна проза"] },
+  desc: {
+    en: "A social novella by Volodymyr Kulish about homeless children, portraying abandoned youth, hardship, survival, and the moral fractures of society through the lives of boys on the margins.",
+    uk: "Соціальна повість Володимира Куліша про безпритульних дітей, що через долі хлопців на маргінесі показує покинуту молодь, нужду, виживання та моральні тріщини суспільства."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/875e7b8d9b.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "The Cavalryman and Other Stories", uk: "Кіннотчик та інші оповідання" },
+  author: "Yurii Lypa / Юрій Липа",
+  year: "1946",
+  tags: { en: ["short stories", "Ukrainian prose", "national struggle"], uk: ["оповідання", "українська проза", "національна боротьба"] },
+  desc: {
+    en: "A collection of short stories by Yurii Lypa, written with his characteristic attention to Ukrainian historical character, moral tension, and the inner discipline of people shaped by national struggle.",
+    uk: "Збірка оповідань Юрія Липи, позначена його увагою до українського історичного характеру, моральної напруги та внутрішньої дисципліни людей, сформованих національною боротьбою."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/8ed4bea928.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "The Exam", uk: "Іспит" },
+  author: "Vasyl Prylisnyi / Василь Прилісний",
+  year: "1957",
+  tags: { en: ["novella", "UPA veterans", "diaspora prose"], uk: ["повість", "ветерани УПА", "діаспорна проза"] },
+  desc: {
+    en: "A novella by Vasyl Prylisnyi, published by the Brotherhood of Former UPA Soldiers, built around a moral and existential “exam” shaped by war, exile, duty, and personal responsibility.",
+    uk: "Повість Василя Прилісного, видана Братством колишніх вояків УПА, у якій моральний та екзистенційний «іспит» постає крізь досвід війни, еміграції, обов’язку й особистої відповідальності."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/a34b58b1d4.html"
+});
+// 3) Shelf 6 -> library[5]
+library[5].books.push({
+  title: { en: "The Borders Will Fall", uk: "Кордони падуть" },
+  author: "Ivan Smolii / Іван Смолій",
+  year: "1951",
+  tags: { en: ["novella", "Soviet occupation", "Western Ukraine"], uk: ["повість", "совєтська окупація", "Західна Україна"] },
+  desc: {
+    en: "A novella by Ivan Smolii about Western Ukraine during the Soviet “liberation”, using fictionalised events to portray occupation, broken borders, social upheaval, and the pressure of history on ordinary lives.",
+    uk: "Повість Івана Смолія про Західну Україну під час совєтського «визволення», що через художній домисел показує окупацію, падіння кордонів, суспільний злам і тиск історії на людські долі."
+  },
+  iframeSrc: "https://heyzine.com/flip-book/f09e80e181.html"
+});
 // OPTIONAL: demo example (remove if you want)
   // library[0].books[0] = {
   //   title: { en: "Chronicle of UPA, Vol. 1", uk: "Літопис Української Повстанської Армії, Том 1" },
